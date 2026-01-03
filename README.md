@@ -414,8 +414,8 @@ I'm a **Senior AI Engineer** at **Upstra Communications Limited**, architecting 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20"/>
 
-**© 2025 MD Bazlur Rahman Likhon** • Built with ❤️ from Bangladesh 🇧🇩
+**© 2026 MD Bazlur Rahman Likhon** • 
 
-*Last Updated: January 2025*
+*Last Updated: January 2026*
 
 </div>
