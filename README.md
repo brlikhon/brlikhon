@@ -15,9 +15,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=MD+Bazlur+Rahman+Likhon" alt="Name Header" />
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Senior+AI+Engineer+%26+Lead+AI+Architect" alt="Title" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Bazlur%20Rahman%20Likhon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Senior%20AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20300%2B%20Certifications&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- TOP BADGES — Status at a glance -->
 <p>
@@ -412,7 +410,7 @@ Languages: English, Bangla (Bilingual)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20" width="100%"/>
 
 **© 2026 MD Bazlur Rahman Likhon** · Senior AI Engineer & Lead AI Architect
 

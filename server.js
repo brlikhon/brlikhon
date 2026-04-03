@@ -250,8 +250,8 @@ function buildHtml() {
       height: 40px;
     }
 
-    /* Hide broken capsule-render images */
-    img[src*="capsule-render.vercel.app"] { display: none !important; }
+    /* Hide capsule-render images (replaced by built-in CSS wave) */
+    img[src*="capsule-render"] { display: none !important; }
 
     /* Images */
     img { max-width: 100%; height: auto; display: inline-block; }
