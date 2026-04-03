@@ -121,7 +121,7 @@ I'm a **Senior AI Engineer** at **Upstra Communications Limited**, architecting 
 | Associate Cloud Engineer | Fabric Data Engineer Associate | AI Foundations Associate | Business Intelligence Engineer |
 | Generative AI Leader | Azure Fundamentals | | Introducing GenAI with AWS |
 | AI/ML Technical Expert | Azure AI Fundamentals | | |
-| | Cloud & AI Platinum | | |
+| Professional Database Engineer | Cloud & AI Platinum | | |
 
 </div>
 
@@ -161,22 +161,23 @@ I'm a **Senior AI Engineer** at **Upstra Communications Limited**, architecting 
 | # | Certification | Provider | Verification |
 |:-:|:--------------|:---------|:-------------|
 | 1 | Microsoft Certified: Fabric Data Engineer Associate | Microsoft | [🔗 Verify](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/) |
-| 2 | Build with Vertex Technical Expert | Google Cloud | [🔗 Verify](https://www.credly.com/badges/38364315-b8b0-4d44-81bb-d803e63c6869) |
-| 3 | IBM RAG and Agentic AI Professional | IBM | [🔗 Certificate](https://www.coursera.org/account/accomplishments/professional-cert/W140J0VFBSGP) |
-| 4 | Professional Data Engineer | Google Cloud | [🔗 Verify](https://www.credly.com/badges/58e3a7fe-56cc-46d7-8891-3b2cd3e5d9af) |
-| 5 | Azure AI Engineer Associate | Microsoft | ID: 1DC091F8F58E3EC9 |
-| 6 | Generative AI Leader | Google Cloud | [🔗 Verify](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23) |
-| 7 | AI/ML Pre-sales Technical Expert | Google Cloud | [🔗 Verify](https://www.credly.com/badges/81abfe83-be0f-492e-a4e1-aeb1a244d4f0) |
-| 8 | Proofpoint AI Data Security 2025 | Proofpoint | [🔗 Verify](https://www.credly.com/badges/f9ef6d50-15e6-4b1b-94ad-b5a3b52bc405) |
-| 9 | Google Cloud SecOps Credential | Google | [🔗 Verify](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq) |
-| 10 | Future AWS Business Intelligence Engineer | Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/44b74c5a-8144-11f0-a95d-d3cccc1aea34) |
-| 11 | OCI 2025 AI Foundations Associate | Oracle | [🔗 Verify](https://catalog-education.oracle.com/ords/certview/sharebadge) |
-| 12 | AWS Machine Learning Fundamentals | AWS/Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/b7175ada-2936-11f0-9163-0bb9c24582d3) |
-| 13 | Microsoft Cloud & AI Bootcamp Platinum | Microsoft | [🔗 LinkedIn](https://www.linkedin.com/in/bazlur-rahman-likhon/) |
-| 14 | GitHub Foundations | GitHub | [🔗 Verify](https://www.credly.com/badges/6646c106-73a1-41f3-a658-41b27fef27a2) |
-| 15 | Advanced LLM Agents MOOC | UC Berkeley | [🔗 Certificate](https://mcusercontent.com/certificate) |
-| 16 | Foundation of Generative AI | Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/e374ff42-b7bc-11ef-9701-b3b5aa3b3fb4) |
-| 17 | Introducing Generative AI with AWS | AWS/Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/e031156c-3d38-11f0-aa98-43ce44555307) |
+| 2 | Professional Database Engineer | Google Cloud | [🔗 Verify](https://cloud.google.com/learn/certification/cloud-database-engineer) |
+| 3 | Build with Vertex Technical Expert | Google Cloud | [🔗 Verify](https://www.credly.com/badges/38364315-b8b0-4d44-81bb-d803e63c6869) |
+| 4 | IBM RAG and Agentic AI Professional | IBM | [🔗 Certificate](https://www.coursera.org/account/accomplishments/professional-cert/W140J0VFBSGP) |
+| 5 | Professional Data Engineer | Google Cloud | [🔗 Verify](https://www.credly.com/badges/58e3a7fe-56cc-46d7-8891-3b2cd3e5d9af) |
+| 6 | Azure AI Engineer Associate | Microsoft | ID: 1DC091F8F58E3EC9 |
+| 7 | Generative AI Leader | Google Cloud | [🔗 Verify](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23) |
+| 8 | AI/ML Pre-sales Technical Expert | Google Cloud | [🔗 Verify](https://www.credly.com/badges/81abfe83-be0f-492e-a4e1-aeb1a244d4f0) |
+| 9 | Proofpoint AI Data Security 2025 | Proofpoint | [🔗 Verify](https://www.credly.com/badges/f9ef6d50-15e6-4b1b-94ad-b5a3b52bc405) |
+| 10 | Google Cloud SecOps Credential | Google | [🔗 Verify](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq) |
+| 11 | Future AWS Business Intelligence Engineer | Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/44b74c5a-8144-11f0-a95d-d3cccc1aea34) |
+| 12 | OCI 2025 AI Foundations Associate | Oracle | [🔗 Verify](https://catalog-education.oracle.com/ords/certview/sharebadge) |
+| 13 | AWS Machine Learning Fundamentals | AWS/Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/b7175ada-2936-11f0-9163-0bb9c24582d3) |
+| 14 | Microsoft Cloud & AI Bootcamp Platinum | Microsoft | [🔗 LinkedIn](https://www.linkedin.com/in/bazlur-rahman-likhon/) |
+| 15 | GitHub Foundations | GitHub | [🔗 Verify](https://www.credly.com/badges/6646c106-73a1-41f3-a658-41b27fef27a2) |
+| 16 | Advanced LLM Agents MOOC | UC Berkeley | [🔗 Certificate](https://mcusercontent.com/certificate) |
+| 17 | Foundation of Generative AI | Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/e374ff42-b7bc-11ef-9701-b3b5aa3b3fb4) |
+| 18 | Introducing Generative AI with AWS | AWS/Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/e031156c-3d38-11f0-aa98-43ce44555307) |
 
 **...and 284+ more certifications across Cloud, AI, Security, and Development**
 
