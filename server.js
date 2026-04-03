@@ -207,6 +207,52 @@ function buildHtml() {
       border-radius: 2px;
     }
 
+    /* Wave header */
+    .wave-header {
+      position: relative;
+      background: linear-gradient(135deg, #0a1628 0%, #0f2847 30%, #1a3a5c 50%, #0d9488 75%, #00D9FF 100%);
+      padding: 48px 24px 80px;
+      text-align: center;
+      overflow: hidden;
+    }
+    .wave-header h1.hero-name {
+      font-size: 2.6em;
+      color: #fff;
+      margin: 0 0 8px;
+      border: none;
+      padding: 0;
+      text-shadow: 0 2px 12px rgba(0,0,0,0.3);
+    }
+    .wave-header p.hero-subtitle {
+      font-size: 1.15em;
+      color: rgba(255,255,255,0.85);
+      margin: 0;
+      font-weight: 400;
+    }
+    .wave-header svg {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 40px;
+    }
+    .wave-footer {
+      position: relative;
+      background: linear-gradient(135deg, #00D9FF 0%, #0d9488 25%, #1a3a5c 50%, #0f2847 75%, #0a1628 100%);
+      height: 80px;
+      overflow: hidden;
+    }
+    .wave-footer svg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 40px;
+    }
+
+    /* Hide broken capsule-render images */
+    img[src*="capsule-render.vercel.app"] { display: none !important; }
+
     /* Images */
     img { max-width: 100%; height: auto; display: inline-block; }
 
@@ -407,11 +453,25 @@ function buildHtml() {
     </nav>
   </header>
 
+  <div class="wave-header">
+    <h1 class="hero-name">MD Bazlur Rahman Likhon</h1>
+    <p class="hero-subtitle">Senior AI Engineer &amp; Lead AI Architect</p>
+    <svg viewBox="0 0 1440 40" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,20 C240,40 480,0 720,20 C960,40 1200,0 1440,20 L1440,40 L0,40 Z" fill="#0D1117"/>
+    </svg>
+  </div>
+
   <main id="main-content">
     <div class="container">
       ${htmlBody}
     </div>
   </main>
+
+  <div class="wave-footer">
+    <svg viewBox="0 0 1440 40" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,20 C240,0 480,40 720,20 C960,0 1200,40 1440,20 L1440,0 L0,0 Z" fill="#0D1117"/>
+    </svg>
+  </div>
 
   <footer>
     <p>
