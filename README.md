@@ -157,7 +157,7 @@ Languages: English, Bangla (Bilingual)
 
 <div align="center">
 
-### 🏆 Top 12 Industry Certifications
+### 🏆 Industry Certifications
 
 </div>
 
@@ -169,14 +169,19 @@ Languages: English, Bangla (Bilingual)
   ✅ Professional Data Engineer<br/>
   ✅ Professional Database Engineer<br/>
   ✅ Associate Cloud Engineer<br/>
-  ✅ Generative AI Leader
+  ✅ Generative AI Leader<br/>
+  ✅ AI/ML Technical Expert<br/>
+  ✅ Build with Vertex Expert<br/>
+  ✅ Cloud SecOps Credential
 </td>
 <td align="center" width="25%">
   <img width="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/><br/>
   <b>Microsoft</b><br/><br/>
   ✅ Azure AI Engineer Associate<br/>
   ✅ Fabric Data Engineer Associate<br/>
-  ✅ Azure Fundamentals
+  ✅ Azure Fundamentals<br/>
+  ✅ Azure AI Fundamentals<br/>
+  ✅ Cloud & AI Bootcamp Platinum
 </td>
 <td align="center" width="25%">
   <img width="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/><br/>
@@ -188,7 +193,8 @@ Languages: English, Bangla (Bilingual)
   <img width="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/><br/>
   <b>AWS</b><br/><br/>
   ✅ Machine Learning Fundamentals<br/>
-  ✅ Business Intelligence Engineer
+  ✅ Business Intelligence Engineer<br/>
+  ✅ Introducing GenAI with AWS
 </td>
 </tr>
 </table>
@@ -225,6 +231,7 @@ Languages: English, Bangla (Bilingual)
 | **🎙️ Voice AI Call Center** | Real-time Bangla/English voice bots with intelligent routing & sentiment analysis | Vapi.ai, Twilio, Gemini Live API | **<200ms latency** · 60% cost cut |
 | **🛒 AI Retail Assistant** | Multilingual shopping guidance with personalized recommendations | GPT-4, LangGraph, RAG, FastAPI | **40% cost reduction** |
 | **📄 Document AI Pipeline** | NID, Invoice, Prescription extraction with automated processing | Google Document AI, OpenCV | **98% extraction accuracy** |
+| **👁️ AI Attendance & Workforce Monitor** | Real-time face recognition attendance for 20K+ employees with live camera feeds, duplicate prevention, unknown person alerts & role-based admin | OpenCV, TensorFlow, FastAPI, WebSocket | **90%+ accuracy** · <200ms response |
 | **🛡️ Network Intrusion Detection** | ML-powered cybersecurity threat identification | TensorFlow, XGBoost | **99.87% accuracy** |
 | **🎭 Deepfake Detection System** | Synthetic media identification using frequency analysis | CNN, FFT Analysis, PyTorch | **96%+ detection rate** |
 
