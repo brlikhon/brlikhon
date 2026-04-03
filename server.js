@@ -8,7 +8,8 @@ const HOST = '0.0.0.0';
 
 function buildHtml() {
   const readmeContent = fs.readFileSync(path.join(__dirname, 'README.md'), 'utf-8');
-  const htmlBody = marked.parse(readmeContent);
+  const rawHtml = marked.parse(readmeContent);
+  const htmlBody = rawHtml.replace(/&(?!amp;|lt;|gt;|quot;|nbsp;|#\d+;|#x[\da-fA-F]+;)/g, '&amp;');
 
   const structuredData = JSON.stringify({
     "@context": "https://schema.org",
@@ -58,8 +59,8 @@ function buildHtml() {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- Primary SEO -->
-  <title>MD Bazlur Rahman Likhon | Senior AI Engineer & Cloud Architect | 300+ Certifications</title>
-  <meta name="description" content="Senior AI Engineer & Cloud Architect with 6+ years of experience. Expert in LLMs, RAG systems, multi-cloud (AWS, GCP, Azure), Kubernetes, and DevSecOps. 300+ certifications including Google Cloud, Microsoft Azure, and Oracle.">
+  <title>MD Bazlur Rahman Likhon | Senior AI Engineer &amp; Cloud Architect | 300+ Certifications</title>
+  <meta name="description" content="Senior AI Engineer &amp; Cloud Architect with 6+ years of experience. Expert in LLMs, RAG systems, multi-cloud (AWS, GCP, Azure), Kubernetes, and DevSecOps. 300+ certifications including Google Cloud, Microsoft Azure, and Oracle.">
   <meta name="keywords" content="AI Engineer, Cloud Architect, LLM, RAG, LangChain, AWS, Google Cloud, Azure, Kubernetes, Terraform, MLOps, DevSecOps, Machine Learning, Generative AI, Bangladesh">
   <meta name="author" content="MD Bazlur Rahman Likhon">
   <meta name="robots" content="index, follow">
@@ -67,7 +68,7 @@ function buildHtml() {
 
   <!-- Open Graph / Social Media -->
   <meta property="og:type" content="profile">
-  <meta property="og:title" content="MD Bazlur Rahman Likhon | Senior AI Engineer & Cloud Architect">
+  <meta property="og:title" content="MD Bazlur Rahman Likhon | Senior AI Engineer &amp; Cloud Architect">
   <meta property="og:description" content="Building production-ready AI systems with 6+ years of experience and 300+ certifications. Expert in LLMs, RAG, multi-cloud architecture, and DevSecOps.">
   <meta property="og:url" content="https://brlikhon.engineer">
   <meta property="og:site_name" content="MD Bazlur Rahman Likhon - Portfolio">
@@ -77,7 +78,7 @@ function buildHtml() {
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="MD Bazlur Rahman Likhon | Senior AI Engineer & Cloud Architect">
+  <meta name="twitter:title" content="MD Bazlur Rahman Likhon | Senior AI Engineer &amp; Cloud Architect">
   <meta name="twitter:description" content="Building production-ready AI systems with 6+ years of experience and 300+ certifications.">
 
   <!-- Structured Data -->
