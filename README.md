@@ -15,7 +15,9 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD%20Bazlur%20Rahman%20Likhon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=28&desc=Senior%20AI%20Engineer%20%26%20Lead%20AI%20Architect&descAlignY=50&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=MD+Bazlur+Rahman+Likhon" alt="Name Header" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Senior+AI+Engineer+%26+Lead+AI+Architect" alt="Title" />
 
 <!-- TOP BADGES — Status at a glance -->
 <p>
@@ -28,7 +30,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://brlikhon.engineer">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%9A%80+Building+AI+Systems+That+Save+15-40+Hours%2FWeek;%F0%9F%8E%99%EF%B8%8F+Bangla+Voice+AI+%7C+RAG+Agents+%7C+Document+AI;%E2%98%81%EF%B8%8F+Multi-Cloud+%7C+DevSecOps+%7C+MLOps;%F0%9F%8C%8D+Clients+in+USA%2C+UK%2C+EU%2C+Japan%2C+Australia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%9A%80+Building+AI+Systems+That+Save+15-40+Hours%2FWeek;%F0%9F%8E%99%EF%B8%8F+Bangla+Voice+AI+%7C+RAG+Agents+%7C+Document+AI;%E2%98%81%EF%B8%8F+Multi-Cloud+%7C+DevSecOps+%7C+MLOps;%F0%9F%8C%8D+Clients+in+USA%2C+UK%2C+EU%2C+Japan%2C+Australia" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -410,7 +412,7 @@ Languages: English, Bangla (Bilingual)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 **© 2026 MD Bazlur Rahman Likhon** · Senior AI Engineer & Lead AI Architect
 
