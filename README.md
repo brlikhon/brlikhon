@@ -713,6 +713,6 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 
 **© 2025-2026 Md Bazlur Rahman Likhon** 
 
-*Last Updated: August 2026 — comprehensive CV integration with all certifications, projects, and technical skills*
+*Last Updated: August 2026*
 
 </div>
