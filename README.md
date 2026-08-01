@@ -1,120 +1,82 @@
 <!-- 
   ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║  MD BAZLUR RAHMAN LIKHON - Senior AI Engineer & Lead AI Architect         ║
+  ║  Md Bazlur Rahman Likhon - Senior AI Engineer, Cloud Architect & AI Lead  ║
   ║  Building Production-Ready AI Systems | 300+ Certifications | 6+ Years    ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
-  
-  SEO Keywords: AI Engineer Bangladesh, Cloud Architect, LLM Developer, RAG Agent,
-  Voice AI Call Center, Bangla Voice AI, Document AI, LangChain Developer, AWS GCP Azure,
-  Kubernetes Terraform, MLOps DevSecOps, Machine Learning Engineer, Generative AI,
-  Freelance AI Engineer, Remote AI Consultant, Fiverr AI Expert, Upwork AI Developer,
-  Professional Data Engineer, Database Engineer, Fabric Data Engineer, NID OCR Bangladesh,
-  Enterprise RAG Platform, AI Chatbot Developer, Multi-Cloud Architect
 -->
 
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Bazlur%20Rahman%20Likhon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Senior%20AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20300%2B%20Certifications&descAlignY=52&descSize=18" width="100%"/>
-
-<!-- TOP BADGES — Status at a glance -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=brlikhon&color=brightgreen&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Freelance-Yes-brightgreen?style=flat-square" alt="Open to Freelance"/>
-  <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-%F0%9F%87%A7%F0%9F%87%A9-blue?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/300%2B%20Certifications-gold?style=flat-square" alt="Certifications"/>
-  <img src="https://img.shields.io/badge/6%2B%20Years%20Experience-28a745?style=flat-square" alt="Experience"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Bazlur%20Rahman%20Likhon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Senior%20Cloud%20%26%20AI%20Engineer%20%7C%20Head%20of%20AI%20Engineering%20%7C%20300%2B%20Certifications&descAlignY=52&descSize=18"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://brlikhon.engineer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%9A%80+Building+AI+Systems+That+Save+15-40+Hours%2FWeek;%F0%9F%8E%99%EF%B8%8F+Bangla+Voice+AI+%7C+RAG+Agents+%7C+Document+AI;%E2%98%81%EF%B8%8F+Multi-Cloud+%7C+DevSecOps+%7C+MLOps;%F0%9F%8C%8D+Clients+in+USA%2C+UK%2C+EU%2C+Japan%2C+Australia" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=🚀+Building+AI+Systems+That+Transform+Businesses;💡+LLMs+%7C+RAG+%7C+Multi-Cloud+%7C+DevSecOps;🌍+Serving+Clients+in+USA%2C+Australia%2C+UK%2C+EU" alt="Typing SVG" />
 
 <br/>
+<br/>
 
-<!-- CTA LINKS -->
+<!-- QUICK LINKS -->
 <p>
-  <a href="https://wa.me/8801606549236"><img src="https://img.shields.io/badge/📞_Book_Free_15--min_Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="Book Call"/></a>&nbsp;
-  <a href="https://brlikhon.engineer"><img src="https://img.shields.io/badge/🌐_Portfolio-brlikhon.engineer-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>&nbsp;
-  <a href="https://linkedin.com/in/bazlur-rahman-likhon"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:contact@brlikhon.engineer"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+  <a href="https://brlikhon.engineer"><img src="https://img.shields.io/badge/🌐_Portfolio-brlikhon.engineer-00D9FF?style=for-the-badge&labelColor=0D1117"/></a>
+  <a href="https://linkedin.com/in/bazlur-rahman-likhon"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+  <a href="mailto:contact@brlikhon.engineer"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+</p>
+
+<!-- STATS BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=brlikhon&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Followers-1.2K+-00D9FF?style=for-the-badge&labelColor=0D1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Certifications-300+-gold?style=for-the-badge&labelColor=0D1117" alt="Certifications"/>
+  <img src="https://img.shields.io/badge/Experience-6%2B_Years-28a745?style=for-the-badge&labelColor=0D1117" alt="Experience"/>
 </p>
 
 </div>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; About Me
+---
 
-# MD Bazlur Rahman Likhon
+<br/>
 
-**Senior AI Engineer & Lead AI Architect** | Building Production-Ready AI Systems that Save 15-40 Hours/Week
+<!-- ABOUT SECTION -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-I turn complex AI challenges into **scalable, revenue-generating solutions**.
-Specialist in **Bangla Voice AI Call Centers**, **RAG Agents**, **Document AI** & Multi-Cloud Architecture.
+> **I transform complex AI challenges into production-ready solutions that deliver measurable business impact.**
 
-> **I don't just write code — I engineer solutions that transform how businesses operate.**
-
-<table>
-<tr>
-<td width="55%">
+I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior Cloud & AI Engineer and Head of AI Engineering** at **Upstra Communications Limited**, architecting enterprise-grade AI systems that scale. With **6+ years of experience** and **300+ certifications** from Google, AWS, Microsoft, Oracle, Harvard, and Stanford, I bridge the gap between cutting-edge AI research and real-world business applications. I lead end-to-end delivery across RAG platforms, LLM systems, conversational and voice AI, computer vision, biometrics, intelligent surveillance, document understanding, and secure multi-cloud infrastructure for clients in Bangladesh, the USA, the UK, Japan, and China.
 
 ```yaml
-Role: Senior AI Engineer & Lead AI Architect
-Company: Upstra Communications Limited
-Specialty:
-  - Bangla/English Voice AI Call Centers
-  - Enterprise RAG Agents (99%+ accuracy)
-  - Document AI (NID, Invoice, Prescription OCR)
-  - Multi-Cloud Architecture (AWS, GCP, Azure)
-  - Biometric Systems (Face & Fingerprint)
-Location: Dhaka, Bangladesh 🇧🇩
-Working: Remote-first with global clients
-Languages: English, Bangla (Bilingual)
+🎯 Current Focus:
+  - Leading AI team delivering cloud, DevOps, and data platforms
+  - Building enterprise RAG systems with 99%+ accuracy
+  - Architecting multi-cloud solutions across AWS, GCP, Azure
+  - Leading AI engineering and end-to-end enterprise solution delivery
+  - Building RAG platforms with PostgreSQL + pgvector, Milvus, and ChromaDB
+  - Deploying secure local, cloud, and hybrid LLM systems
+  - Engineering biometric, document AI, surveillance, and behavior analytics solutions
+  - Extending multi-cloud delivery across Oracle, Alibaba, and Tencent Cloud
+
+💼 Current Role: Senior Cloud & AI Engineer / Head of AI Engineering
+🏢 Organization: Upstra Communications Limited (Oct 2025 - Present)
+🎓 Current Study: MSc in Information Systems Security, BUP
+📍 Location: Dhaka, Bangladesh 🇧🇩
+🌐 Working: Remote-first with clients worldwide
+🗣️ Languages: English, Bangla (Bilingual)
+🗣️ CV Proficiency: Bengali (Native), English (C2), German (A2)
+📧 Contact: contact@brlikhon.engineer
+✉️ CV Email: br.likhon@gmail.com
+📱 Phone: +880 1606549236
 ```
 
-</td>
-<td width="45%">
+<br/>
 
-### 🎯 Why Clients Choose Me
-- ✅ **300+** Professional Certifications
-- ✅ **6+** Years Shipping Production Systems
-- ✅ **Google, AWS, Microsoft, Oracle** Certified
-- ✅ **Harvard & Stanford** Credentials
-- ✅ MVP in **2-4 weeks**, not months
-- ✅ Clients in **USA, UK, EU, Japan, China, Australia**
-- ✅ Currently accepting **2-3 projects/month**
+---
 
 <br/>
 
-[![Book Call](https://img.shields.io/badge/📞_WhatsApp_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801606549236)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🚀 What I Deliver
-
-> **Ready-to-use solutions in 2-4 weeks.**
-
-| Area | What You Get | Tools I Use | Typical Impact |
-|:-----|:-------------|:------------|:---------------|
-| **🎙️ Voice AI Call Center** | Real-time Bangla/English voice bots, intelligent routing, sentiment analysis | Twilio, Gemini Live API, Vapi.ai, ElevenLabs | **60-80% support cost reduction** |
-| **🧠 RAG AI Agents** | Intelligent chatbots trained on your data with semantic search | LangChain, LangGraph, ChromaDB, pgvector, FAISS | **10x faster knowledge access** |
-| **📄 Document AI** | NID, VAT Invoice, Prescription extraction & processing | Google Document AI, OpenCV, Tesseract | **98%+ accuracy, 90% time saved** |
-| **👁️ Biometric Systems** | Face recognition & fingerprint authentication | OpenCV, TensorFlow, PyTorch, YOLO | **Enterprise-grade security** |
-| **☁️ Cloud Automation** | Multi-cloud cost optimization & infrastructure as code | AWS, GCP, Azure, Terraform, K8s | **30-50% infrastructure savings** |
-| **🔐 DevSecOps** | CI/CD pipelines with security built-in | GitHub Actions, ArgoCD, Vault | **10x faster deployments** |
-
-<br/>
-
-<details>
-<summary><b>🔧 Full Technical Skills Breakdown</b></summary>
-<br/>
+<!-- WHAT I DO -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I Do
 
 <table>
 <tr>
@@ -123,13 +85,18 @@ Languages: English, Bangla (Bilingual)
 ### 🤖 AI & Machine Learning
 | Expertise | Technologies |
 |:----------|:-------------|
-| **LLM Solutions** | GPT-4o, Gemini 2.0, Claude 3.5, LLaMA 3, Mistral |
-| **RAG Systems** | LangChain, LlamaIndex, ChromaDB, Pinecone, FAISS |
-| **AI Agents** | LangGraph, Pydantic AI, AutoGen, CrewAI |
-| **Voice AI** | Vapi.ai, Twilio, Gemini Live API, ElevenLabs |
-| **Computer Vision** | TensorFlow, PyTorch, OpenCV, YOLO |
-| **NLP** | Transformers, BERT, Sentiment Analysis, NER |
-| **MLOps** | MLflow, Kubeflow, Vertex AI, SageMaker |
+| **LLM Solutions** | GPT-5.5, Gemini 3.1 Pro, Claude Opus 4.7, LLaMA, Mistral |
+| **RAG Systems** | LangChain, ChromaDB, Pinecone, FAISS |
+| **Enterprise Vector Search** | PostgreSQL + pgvector, Milvus, ChromaDB, Hybrid Embeddings |
+| **AI Agents** | LangGraph, Pydantic AI, AutoGen |
+| **Voice AI** | Vapi.ai, Twilio, Gemini Live API |
+| **Computer Vision** | TensorFlow, PyTorch, OpenCV |
+| **Advanced Vision** | YOLO, SFace, Age-invariant Matching, Video Analytics |
+| **Biometric Systems** | Face Recognition, Fingerprint Matching, Liveness Detection |
+| **AI Surveillance** | Human Activity Recognition, Anomaly Detection, Behavior Analytics |
+| **Document AI** | Document AI, OCR, Prescription & Invoice Processing |
+| **NLP** | Transformers, BERT, Sentiment Analysis |
+| **MLOps** | MLflow, Kubeflow, Vertex AI |
 
 </td>
 <td width="50%" valign="top">
@@ -138,86 +105,171 @@ Languages: English, Bangla (Bilingual)
 | Expertise | Technologies |
 |:----------|:-------------|
 | **Multi-Cloud** | AWS, GCP, Azure, Oracle, Alibaba |
-| **Containers** | Kubernetes, Docker, Helm, Istio |
-| **IaC** | Terraform, Ansible, Pulumi, CloudFormation |
-| **CI/CD** | GitHub Actions, Jenkins, ArgoCD, GitLab CI |
-| **Security** | Zero-Trust, IAM, DevSecOps, Vault |
-| **Data** | BigQuery, Spark, Dataflow, Kafka, dbt |
-| **Monitoring** | Prometheus, Grafana, ELK, Datadog |
+| **Extended Cloud** | Tencent Cloud, Cloud Run, AWS Lambda, Firestore |
+| **Containers** | Kubernetes, Docker, Helm |
+| **IaC** | Terraform, Ansible, Pulumi |
+| **CI/CD** | GitHub Actions, Jenkins, ArgoCD |
+| **Security** | Zero-Trust, IAM, DevSecOps |
+| **Data** | BigQuery, Spark, Dataflow |
+| **Analytics** | Power BI, Data Warehousing, Data Lakes |
+| **Serverless** | AWS Lambda, Cloud Run, Firestore |
+| **Networking & DR** | Nginx, Apache, VPC, Multi-cloud Networking, Disaster Recovery |
+| **Monitoring** | Prometheus, Grafana, ELK |
 
-</td>
-</tr>
-</table>
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30">&nbsp; Certifications
-
-<div align="center">
-
-### 🏆 Industry Certifications
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/><br/>
-  <b>Google Cloud</b><br/><br/>
-  ✅ Professional Data Engineer<br/>
-  ✅ Professional Database Engineer<br/>
-  ✅ Associate Cloud Engineer<br/>
-  ✅ Generative AI Leader<br/>
-  ✅ AI/ML Technical Expert<br/>
-  ✅ Build with Vertex Expert<br/>
-  ✅ Cloud SecOps Credential
-</td>
-<td align="center" width="25%">
-  <img width="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/><br/>
-  <b>Microsoft</b><br/><br/>
-  ✅ Azure AI Engineer Associate<br/>
-  ✅ Fabric Data Engineer Associate<br/>
-  ✅ Azure Fundamentals<br/>
-  ✅ Azure AI Fundamentals<br/>
-  ✅ Cloud & AI Bootcamp Platinum
-</td>
-<td align="center" width="25%">
-  <img width="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/><br/>
-  <b>Oracle</b><br/><br/>
-  ✅ OCI GenAI Professional<br/>
-  ✅ AI Foundations Associate
-</td>
-<td align="center" width="25%">
-  <img width="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/><br/>
-  <b>AWS</b><br/><br/>
-  ✅ Machine Learning Fundamentals<br/>
-  ✅ Business Intelligence Engineer<br/>
-  ✅ Introducing GenAI with AWS
 </td>
 </tr>
 </table>
 
 <br/>
 
+---
+
+<br/>
+
+
+<!-- PROFESSIONAL EXPERIENCE -->
+## 💼 Professional Experience
+
+### Senior Cloud & AI Engineer / Head of AI Engineering
+**Upstra Communications Limited | Dhaka, Bangladesh | Oct 2025 - Present**
+
+- Lead the AI engineering function with ownership of enterprise RAG, LLM, conversational AI, voice AI, computer vision, biometric, intelligent surveillance, and document-understanding solutions.
+- Architect production RAG platforms using PostgreSQL + pgvector, Milvus, and ChromaDB with frontier and open-source models, hybrid embeddings, and cost/latency/accuracy optimization.
+- Design secure local, cloud, and hybrid LLM deployments supporting low latency, data residency, and enterprise security requirements.
+- Deliver fingerprint matching, face recognition, prescription and invoice processing, human activity recognition, anomaly detection, and intelligent alerting systems.
+- Partner with major banking and pharmaceutical enterprises while mentoring AI engineers, setting architecture standards, reviewing code, and leading executive workshops and demos.
+
+### Cloud Engineer
+**Kamal-Paterson Ltd & KPCloud | Dhaka, Bangladesh | Sep 2023 - Oct 2025**
+
+- Led AI and SaaS delivery from concept to production, including McKrishiSheba, Sleepy Owl Stories, Pocket Chef AI, and an AWS-hosted SaaS portfolio.
+- Reduced McKrishiSheba AI costs by approximately **66-83%** through token optimization using FastAPI, PostgreSQL + pgvector, Google Gemini, React + TypeScript, and Bangla TTS/STT.
+- Managed security recovery, enterprise email disaster recovery, cloud migrations, and international projects spanning the USA, UK, Japan, and China.
+
+### Cloud Trainer
+**Inflexionpoint Technologies BD Ltd. | Dhaka, Bangladesh | Aug 2023 - Nov 2023**
+
+- Led 20 interns through hands-on AWS, Azure, cloud architecture, web development, ML deployment, and API testing.
+- Improved assessed cloud knowledge by **80%**, supported a **90%** transition rate into cloud projects, and increased project completion by **25%** through a new cloud ML lab environment.
+
+### Researcher
+**DIU NLP & ML Research Lab, Daffodil International University | Jun 2020 - Aug 2023**
+
+- Conducted NLP and machine-learning research, contributed to Bengali language computing initiatives, and collaborated across multidisciplinary AI projects.
+- Scraped and analyzed **2.4 million tweets** for Ukraine-Russia war sentiment analysis and co-authored a published classification framework.
+
+<br/>
+
+---
+
+<br/>
+
+<!-- CERTIFICATIONS -->
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> Professional Certifications
+
 <div align="center">
 
-🎓 **Academic:** Harvard · Stanford · DeepLearning.AI · UC Berkeley · IBM · Google Quantum AI
+### 🏆 Top Industry Certifications
 
-<a href="https://www.linkedin.com/in/bazlur-rahman-likhon/"><img src="https://img.shields.io/badge/View_All_300%2B_Certifications-LinkedIn_%26_Credly-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="View All"/></a>
+| <img width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/> | <img width="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/> | <img width="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/> | <img width="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/> |
+|:---:|:---:|:---:|:---:|
+| **Google Cloud** | **Microsoft Azure** | **Oracle** | **AWS** |
+| Professional Data Engineer | Azure AI Engineer Associate | OCI GenAI Professional | Machine Learning Fundamentals |
+| Associate Cloud Engineer | Azure Fundamentals | AI Foundations Associate | Business Intelligence Engineer |
+| Generative AI Leader | Azure AI Fundamentals | | Introducing GenAI with AWS |
+| AI/ML Technical Expert | Cloud & AI Platinum | | |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30">&nbsp; Featured Projects
+### 🎓 Academic & Specialized Credentials
+
+<table>
+<tr>
+<td width="50%">
+
+| Institution | Certification |
+|:------------|:--------------|
+| 🏛️ **Harvard University** | Data Science: Productivity Tools |
+| 🏛️ **Stanford University** | Machine Learning Specialization |
+| 🧠 **DeepLearning.AI** | Deep Learning Specialization |
+| 🤖 **UC Berkeley + DeepMind + Meta** | Advanced LLM Agents MOOC |
+
+</td>
+<td width="50%">
+
+| Institution | Certification |
+|:------------|:--------------|
+| 💼 **IBM** | RAG & Agentic AI Professional |
+| ⚛️ **Google Quantum AI** | Quantum Computing Program |
+| 🐙 **GitHub** | GitHub Foundations |
+| 🛡️ **Proofpoint** | AI Data Security Specialist 2025 |
+
+</td>
+</tr>
+</table>
+
+
+### 🆕 Latest Certifications Added from Updated CV
+
+| Provider | Certification | Status / Validity |
+|:---------|:--------------|:------------------|
+| **Google Cloud** | Professional Machine Learning Engineer | Valid Dec 2025 - Dec 2027 |
+| **Google Cloud** | Professional Cloud Database Engineer | Active |
+| **Google Cloud** | Professional Cloud Security Engineer | Active |
+| **Google Cloud** | Professional Security Operations Engineer | Valid Dec 2024 - Dec 2027 |
+| **Google Cloud** | Cloud Digital Leader | Valid Feb 2024 - Feb 2027 |
+| **Microsoft** | Azure Developer Associate (AZ-204) | Active |
+| **Microsoft** | Fabric Data Engineer Associate (DP-700) | Valid Jun 2024 - Jun 2026 |
+| **Oracle** | OCI 2024 Generative AI Certified Professional | Active |
+| **Linux Foundation** | Kubernetes and Cloud Native Technologies Professional Certificate | Valid Jun 2022 - Dec 2029 |
+| **Intel** | Intel Edge AI Certification | May 2024 |
+
+<br/>
+
+<details>
+<summary><b>📜 View All 50+ Recent Certifications (2024-2026)</b></summary>
+<br>
+
+| # | Certification | Provider | Verification |
+|:-:|:--------------|:---------|:-------------|
+| 1 | Build with Vertex Technical Expert | Google Cloud | [🔗 Verify](https://www.credly.com/badges/38364315-b8b0-4d44-81bb-d803e63c6869) |
+| 2 | IBM RAG and Agentic AI Professional | IBM | [🔗 Certificate](https://www.coursera.org/account/accomplishments/professional-cert/W140J0VFBSGP) |
+| 3 | Professional Data Engineer | Google Cloud | [🔗 Verify](https://www.credly.com/badges/59f867db-e18f-4a2b-a96b-05aff38df989) |
+| 4 | Azure AI Engineer Associate | Microsoft | ID: 1DC091F8F58E3EC9 |
+| 5 | Generative AI Leader | Google Cloud | [🔗 Verify](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23) |
+| 6 | AI/ML Pre-sales Technical Expert | Google Cloud | [🔗 Verify](https://www.credly.com/badges/81abfe83-be0f-492e-a4e1-aeb1a244d4f0) |
+| 7 | Proofpoint AI Data Security 2025 | Proofpoint | [🔗 Verify](https://www.credly.com/badges/f9ef6d50-15e6-4b1b-94ad-b5a3b52bc405) |
+| 8 | Google Cloud SecOps Credential | Google | [🔗 Verify](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq) |
+| 9 | Future AWS Business Intelligence Engineer | Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/44b74c5a-8144-11f0-a95d-d3cccc1aea34) |
+| 10 | OCI 2025 AI Foundations Associate | Oracle | [🔗 Verify](https://catalog-education.oracle.com/ords/certview/sharebadge) |
+| 11 | AWS Machine Learning Fundamentals | AWS/Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/b7175ada-2936-11f0-9163-0bb9c24582d3) |
+| 12 | Microsoft Cloud & AI Bootcamp Platinum | Microsoft | [🔗 LinkedIn](https://www.linkedin.com/in/bazlur-rahman-likhon/) |
+| 13 | GitHub Foundations | GitHub | [🔗 Verify](https://www.credly.com/badges/6646c106-73a1-41f3-a658-41b27fef27a2) |
+| 14 | Advanced LLM Agents MOOC | UC Berkeley | [🔗 Certificate](https://mcusercontent.com/certificate) |
+| 15 | Foundation of Generative AI | Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/e374ff42-b7bc-11ef-9701-b3b5aa3b3fb4) |
+| 16 | Introducing Generative AI with AWS | AWS/Udacity | [🔗 Certificate](https://www.udacity.com/certificate/e/e031156c-3d38-11f0-aa98-43ce44555307) |
+
+**...and 284+ more certifications across Cloud, AI, Security, and Development**
+
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- FEATURED PROJECTS -->
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
-[![Request Demo](https://img.shields.io/badge/📧_Request_Live_Demo-00D9FF?style=for-the-badge&labelColor=0D1117)](mailto:contact@brlikhon.engineer?subject=Project%20Demo%20Request&body=Hi%20Likhon%2C%0A%0AI'm%20interested%20in%20seeing%20a%20demo%20of%20your%20projects.%0A%0AProject(s)%20I'm%20interested%20in%3A%0A%0AThank%20you!)
-&nbsp;
-[![Schedule Call](https://img.shields.io/badge/📞_Schedule_a_Call-28a745?style=for-the-badge&labelColor=0D1117)](https://wa.me/8801606549236)
+### 🔥 Want to see any project in action?
+**Contact me for a live demo and private GitHub repository access**
+
+[![Request Demo](https://img.shields.io/badge/📧_Request_Project_Demo-Click_Here-00D9FF?style=for-the-badge&labelColor=0D1117)](mailto:contact@brlikhon.engineer?subject=Project%20Demo%20Request&body=Hi%20Likhon%2C%0A%0AI'm%20interested%20in%20seeing%20a%20demo%20of%20your%20projects.%0A%0AProject(s)%20I'm%20interested%20in%3A%0A%0AThank%20you!)
 
 </div>
 
@@ -227,108 +279,174 @@ Languages: English, Bangla (Bilingual)
 
 | Project | Description | Tech Stack | Results |
 |:--------|:------------|:-----------|:--------|
-| **🧠 Enterprise RAG Platform** | Production-grade knowledge retrieval with semantic search, multi-tenant support | LangChain, ChromaDB, Gemini, FastAPI | **99%+ accuracy** · 100K+ queries/day |
-| **🎙️ Voice AI Call Center** | Real-time Bangla/English voice bots with intelligent routing & sentiment analysis | Vapi.ai, Twilio, Gemini Live API | **<200ms latency** · 60% cost cut |
-| **🛒 AI Retail Assistant** | Multilingual shopping guidance with personalized recommendations | GPT-4, LangGraph, RAG, FastAPI | **40% cost reduction** |
-| **📄 Document AI Pipeline** | NID, Invoice, Prescription extraction with automated processing | Google Document AI, OpenCV | **98% extraction accuracy** |
-| **👁️ AI Attendance & Workforce Monitor** | Real-time face recognition attendance for 20K+ employees with live camera feeds, duplicate prevention, unknown person alerts & role-based admin | OpenCV, TensorFlow, FastAPI, WebSocket | **90%+ accuracy** · <200ms response |
-| **🛡️ Network Intrusion Detection** | ML-powered cybersecurity threat identification | TensorFlow, XGBoost | **99.87% accuracy** |
-| **🎭 Deepfake Detection System** | Synthetic media identification using frequency analysis | CNN, FFT Analysis, PyTorch | **96%+ detection rate** |
+| **🧠 Enterprise RAG Platform** | Production-grade knowledge retrieval with semantic search, multi-tenant support, and real-time indexing | LangChain, ChromaDB, Gemini 3.1 Pro, FastAPI, Redis | **99%+ accuracy** • 100K+ queries/day |
+| **🎙️ Voice AI Call Center** | Real-time voice conversation system with intelligent routing and sentiment analysis | Vapi.ai, Twilio, Gemini Live API, WebRTC | **<200ms latency** • 24/7 automation |
+| **🛒 AI Retail Assistant** | Multilingual shopping guidance with natural conversation and personalized recommendations | GPT-5.5, LangGraph, RAG, FastAPI | **40% cost reduction** |
+| **🛡️ Network Intrusion Detection** | ML-powered cybersecurity threat identification using ensemble methods | TensorFlow, XGBoost, CIC-IDS-2017 | **99.87% accuracy** |
+| **🎭 Deepfake Detection System** | Synthetic media identification using frequency and texture analysis | CNN, FFT Analysis, PyTorch | **96%+ detection rate** |
+
+
+### 🆕 Latest Enterprise AI Systems (2025-2026)
+
+| Project | Description | Key Technologies / Capabilities |
+|:--------|:------------|:--------------------------------|
+| **🛡️ GuardZone** | Multi-location guard attendance, zone presence, prolonged-absence detection, alerts, and audit logging | Computer Vision, Presence Analytics, Real-time Alerts |
+| **📊 Conversational Analytics Platform** | Natural-language access to organizational data with generated insights, SQL, visualizations, and contextual follow-ups | LLMs, Text-to-SQL, Interactive Analytics, Secure Sessions |
+| **🧑‍💻 WorkStation Monitoring** | Real-time employee occupancy, activity, posture, work-status, productivity KPIs, and event audit trails | Computer Vision, Behavior Analytics, Operational Dashboards |
+| **🍽️ LunchGate** | Facial-recognition meal verification with shift policies, duplicate prevention, audit trails, and violation alerts | Face Recognition, Policy Engine, Real-time Verification |
+| **🕒 FaceTrack AI** | Enterprise attendance with age-invariant face matching, liveness detection, multi-camera support, and 28+ APIs | Face Recognition, Anti-spoofing, GPU Acceleration, REST APIs |
+| **🏦 KYC Face Match Platform** | Banking-grade multi-tenant identity verification with isolation, billing controls, async processing, and tamper-evident audit logs | Face Verification, RBAC, Short-lived Tokens, Certificate Access |
+| **🗣️ Bangla-First Call Center AI** | Real-time outbound voice automation using a low-latency Twilio-FastAPI-Gemini audio bridge | FastAPI, Twilio Media Streams, Gemini Live API, WebSocket |
+| **🛒 RAG Online Shop** | PC-hardware recommendation system with budget-aware retrieval and sub-second responses | Node.js, PostgreSQL + pgvector, Vertex AI, Gemini 2.0 Flash |
+| **🧾 Mushok Processing Engine** | Extracts 23 fields from Bangladeshi VAT invoices with validation, blur checks, merging, and VAT calculations | OCR, Document AI, PDF Processing, Validation |
+| **💊 Medical Prescription Extraction** | Structured clinical extraction and multi-hypothesis medicine matching with batch and export workflows | Schema-constrained Generation, OCR, JSON/CSV/ZIP |
+| **👥 Dense Crowd Head Counter** | Video-based unique-person counting with resilient background jobs, annotated output, CSV logs, and GCP deployment | Computer Vision, Video Analytics, Google Cloud |
+| **🪪 NID OCR System** | Bilingual KYC API extracting 10 fields from Bangladesh NID cards with timestamped audit responses | OCR, Regex Parsing, Neural Translation, REST API |
+| **🖐️ Fingerprint Processing System** | Enhancement, ORB + Gabor matching, quality scoring, WebRTC capture, and secured AWS deployment | Flask, OpenCV, MySQL, WebRTC, AWS EC2 |
+| **🧊 Tencent Hunyuan 3D Client** | Text-to-3D and image-to-3D Python client and Web UI with asynchronous orchestration and PBR material support | Python, Async Jobs, Tencent Hunyuan 3D API |
 
 ### ☁️ Cloud & DevOps Infrastructure
 
 | Project | Description | Tech Stack | Results |
 |:--------|:------------|:-----------|:--------|
-| **🌐 Multi-Cloud ERP** | Enterprise resource planning across AWS, GCP, Azure | Terraform, Kubernetes | **99.9% uptime** · 40% savings |
-| **🔄 MLOps Pipeline** | End-to-end automated ML training & deployment | Kubernetes, MLflow, GitHub Actions | **10x faster deployments** |
-| **🏭 Industrial QC Vision** | Production line defect detection for manufacturing | Cloud Vision, TensorFlow | **99.87% defect detection** |
-| **🔐 Zero-Trust Platform** | Enterprise security with continuous verification | IAM, VPC, Vault | **SOC2 & HIPAA compliant** |
-| **📊 Data Warehouse Modernization** | Legacy to cloud migration with real-time analytics | BigQuery, Dataflow, dbt | **3x query performance** |
+| **🌐 Multi-Cloud ERP** | Enterprise resource planning across cloud providers with unified management | AWS, GCP, Azure, Terraform, K8s | **99.9% uptime** • 40% cost savings |
+| **🔄 MLOps Pipeline** | End-to-end automated ML training, testing, and deployment system | Kubernetes, MLflow, GitHub Actions | **10x faster deployments** |
+| **🏭 Industrial QC Vision** | AI-driven production line defect detection for manufacturing | Google Cloud Vision, TensorFlow | **99.87% defect detection** |
+| **🔐 Zero-Trust Platform** | Enterprise security architecture with continuous verification | IAM, VPC, Security Groups, Vault | **SOC2 & HIPAA compliant** |
+| **📊 Data Warehouse Modernization** | Legacy to cloud data platform migration with real-time analytics | BigQuery, Dataflow, dbt, Looker | **3x query performance** |
 
 ### 🔬 Research & ML Projects
 
 | Project | Description | Tech Stack | Results |
 |:--------|:------------|:-----------|:--------|
-| **📰 Sentiment Analysis System** | Ukraine-Russia War tweet analysis (BSc Thesis) | NLP, BERT, PyTorch | **Published Research** |
-| **📱 Edge AI Deployment** | On-device ML inference optimization for mobile | TensorFlow Lite, OpenVINO | **5x inference speedup** |
-| **🌿 Agricultural AI** | Crop disease identification from smartphone images | CNN, Transfer Learning | **94% accuracy** |
+| **📰 Sentiment Analysis System** | Ukraine-Russia War tweet analysis (BSc Thesis) | NLP, BERT, PyTorch, Pandas | **Published Research** |
+| **📄 Document AI Pipeline** | Intelligent document processing with automated data extraction | Google Document AI, Python | **98% extraction accuracy** |
+| **📱 Edge AI Deployment** | On-device ML inference optimization for mobile | TensorFlow Lite, Intel OpenVINO | **5x inference speedup** |
+| **🌿 Agricultural AI** | Crop disease identification from smartphone images | CNN, Transfer Learning, Flask | **94% accuracy** |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; Technology Stack
+---
+
+<br/>
+
+
+<!-- AWARDS & EDUCATION -->
+## 🏆 Awards & Recognition
+
+| Recognition | Year | Achievement |
+|:------------|:----:|:------------|
+| **Judge - THE INFINITY AI BUILDFEST** | 2026 | Evaluated 208 AI solutions for production readiness, technical excellence, and real-world impact |
+| **VCP Champion - THE INFINITY AI BUILDFEST** | 2026 | Built a production-ready AI solution within one hour |
+| **Top 50 Achiever - Google Cloud Gen AI Academy APAC** | 2025 | Recognized for building a production-grade Generative AI project on GCP |
+| **AWS AI & ML Scholar - Udacity / AWS** | 2024 | Received the $4,000 AI Programming with Python Nanodegree scholarship and ranked highly in the DeepRacer challenge |
+| **Next Generation Tech Booster Scholarship - Bertelsmann** | 2023 | Awarded for promise in AI, ML, data science, and cloud computing |
+| **Google Cloud Community Top Contributor** | 2022 | Recognized for sharing solutions and supporting the global cloud community |
+| **AWS Machine Learning Scholarship** | 2021 | Completed intensive AWS ML training covering SageMaker, Glue, Lambda, and deployment |
+
+<br/>
+
+## 🎓 Education
+
+| Degree | Institution | Period | Result / Focus |
+|:-------|:------------|:------:|:---------------|
+| **MSc in Information Systems Security (MISS)** | Bangladesh University of Professionals (BUP) | Dec 2024 - Present | Information systems and security |
+| **BSc in Computer Science and Engineering** | Daffodil International University | Sep 2019 - Sep 2023 | GPA: 3.62/4.00 |
+| **Higher Secondary Certificate - Science** | Dr. Mahbubur Rahman Mollah College | Jun 2016 - Apr 2018 | GPA: 4.50/5.00 |
+| **Secondary School Certificate - Science** | Fatulla Pilot High School | Jan 2014 - Feb 2016 | GPA: 4.78/5.00 |
+
+**BSc Thesis:** Sentiment Analysis on the Ukraine-Russia War Using Tweets - analyzed 2.4 million tweets using NLP and machine-learning techniques.
+
+<br/>
+
+## 🤝 Leadership & Volunteering
+
+- **Student Ambassador, Hult Prize (2019):** Organized the university-level event with the highest number of participating teams in DIU history, supported team formation, and managed communications.
+- **Lab Prefect, OOP II (2021):** Guided Python and object-oriented programming lab sessions and resolved implementation challenges.
+- **Lab Prefect, Data Mining & ML Lab (2021):** Supported students applying data-mining and machine-learning concepts in practical lab work.
+
+<br/>
+
+---
+
+<br/>
+
+<!-- TECH STACK -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Technology Stack
 
 <div align="center">
 
 ### 🧠 AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white)
+![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white)
 
 ### 🔧 DevOps & Infrastructure
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 💾 Databases & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 💾 Databases & Vector Stores
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117D6B?style=for-the-badge&logo=microsoft&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## 💼 Packages & Pricing
+---
+
+<br/>
+
+<!-- SERVICES -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Services & Engagement
 
 <div align="center">
 
-### 🚀 Freelance Packages (2026)
-
-| Package | Price (USD) | Best For | Delivery |
-|:--------|:-----------:|:---------|:---------|
-| **🧠 Starter RAG Agent** | $299 – $799 | Small business chatbot with your data | 5–7 days |
-| **🎙️ Voice AI Prototype** | $499 – $1,299 | Bangla/English call center MVP | 7–10 days |
-| **📄 Document AI** | $799 – $1,999 | Invoice / NID / prescription automation | 10–14 days |
-| **👁️ Biometric System** | $999 – $2,499 | Face recognition / fingerprint auth | 10–14 days |
-| **☁️ Cloud Setup & IaC** | $1,499 – $3,999 | Multi-cloud infra with Terraform | 7–14 days |
-
-### 🏢 Enterprise Projects
+### 💰 Investment & ROI
 
 | Service | Investment | What You Get | Typical ROI |
 |:--------|:----------:|:-------------|:------------|
-| **🎙️ Voice AI Systems** | $5K – $15K | Full call center automation, 24/7 | 60% support cost reduction |
-| **🧠 RAG Solutions** | $10K – $30K | Enterprise knowledge base + semantic search | 10x faster info retrieval |
-| **☁️ Cloud Architecture** | $15K – $50K | Multi-cloud infrastructure, IaC | 40% infra cost savings |
-| **🤖 LLM Fine-tuning** | $8K – $25K | Custom model for your domain | 95%+ domain accuracy |
-| **🔐 DevSecOps Setup** | $10K – $40K | CI/CD + security pipelines | 10x faster deployments |
+| **🎙️ Voice AI Systems** | $5K - $15K | Call center automation, 24/7 support | Reduce support costs by 60% |
+| **🧠 RAG Solutions** | $10K - $30K | Enterprise knowledge base, semantic search | 10x faster information retrieval |
+| **☁️ Cloud Architecture** | $15K - $50K | Multi-cloud infrastructure, IaC | 40% infrastructure cost savings |
+| **🤖 LLM Fine-tuning** | $8K - $25K | Custom model optimization | Domain-specific 95%+ accuracy |
+| **🔐 DevSecOps Setup** | $10K - $40K | CI/CD + security pipelines | 10x faster deployments |
 
 </div>
 
@@ -345,77 +463,109 @@ Languages: English, Bangla (Bilingual)
 | **📞 Direct Access** | Work directly with me, not junior developers |
 | **⚡ Fast Delivery** | Concept to production in weeks, not months |
 | **🛡️ Enterprise Ready** | SOC2, HIPAA, GDPR compliant solutions |
-| **🔄 Ongoing Support** | Post-deployment maintenance & optimization |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🌍 Global Reach
+<br/>
 
 <div align="center">
 
-| 🇺🇸 USA | 🇬🇧 UK | 🇪🇺 EU | 🇦🇺 Australia | 🇯🇵 Japan | 🇨🇳 China | 🇧🇩 Bangladesh |
-|:------:|:-----:|:-----:|:-----------:|:--------:|:--------:|:-------------:|
-| Active | Active | Active | Active | Active | Active | **HQ** |
-
-**Trusted by businesses across 6 continents · Remote-first · Timezone-flexible**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## Ready to Automate Your Business?
-
-<div align="center">
-
-### Let's build something amazing together.
-
-<br/>
-
-<a href="https://wa.me/8801606549236">
-  <img src="https://img.shields.io/badge/📞_WhatsApp_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp"/>
-</a>&nbsp;
-<a href="mailto:contact@brlikhon.engineer">
-  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-</a>&nbsp;
-<a href="https://brlikhon.engineer">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
-</a>&nbsp;
-<a href="https://linkedin.com/in/bazlur-rahman-likhon">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-</a>
-
-<br/>
-<br/>
-
-| Method | Details |
-|:-------|:--------|
-| 📧 **Email** | [contact@brlikhon.engineer](mailto:contact@brlikhon.engineer) |
-| 📱 **WhatsApp** | [+880 1606549236](https://wa.me/8801606549236) |
-| 🌐 **Website** | [brlikhon.engineer](https://brlikhon.engineer) |
-| 💼 **LinkedIn** | [bazlur-rahman-likhon](https://linkedin.com/in/bazlur-rahman-likhon) |
-| 🐙 **GitHub** | [brlikhon](https://github.com/brlikhon) |
-
-<br/>
+### ⚡ Current Availability
 
 ```
 📅 Currently accepting 2-3 new projects monthly
 🌍 Remote-first, timezone-flexible
-💼 Available for: Freelance | Consulting | Contracts | Full-time
-🚀 Fast turnaround: MVP in 2-4 weeks
+💼 Available for: Consulting | Contracts | Full-time Roles
 ```
+
+</div>
 
 <br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20" width="100%"/>
+<br/>
 
-**© 2026 MD Bazlur Rahman Likhon** · Senior AI Engineer & Lead AI Architect
+<!-- GLOBAL REACH -->
+## 🌍 Global Reach
 
-*Building the future, one AI system at a time* 🚀
+<div align="center">
 
-*Last Updated: April 2026*
+| 🇺🇸 USA | 🇦🇺 Australia | 🇬🇧 UK | 🇩🇪 Germany | 🇪🇺 EU | 🇧🇩 Bangladesh |
+|:------:|:-----------:|:-----:|:----------:|:-----:|:-------------:|
+| Active | Active | Active | Active | Active | **HQ** |
+
+**Additional delivery locations from the updated CV:** 🇯🇵 Japan and 🇨🇳 China
+
+**Trusted by businesses across 6 continents**
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- CONTACT -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
+
+<div align="center">
+
+### Ready to build something amazing together?
+
+<br/>
+
+<a href="https://brlikhon.engineer">
+  <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-brlikhon.engineer-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/bazlur-rahman-likhon">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+</a>
+<a href="mailto:contact@brlikhon.engineer">
+  <img src="https://img.shields.io/badge/Email-Start_Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+</a>
+<a href="mailto:contact@brlikhon.engineer">
+  <img src="https://img.shields.io/badge/📅_Schedule_Call-Let's_Discuss-34A853?style=for-the-badge&labelColor=0D1117" alt="Schedule"/>
+</a>
+
+<br/>
+<br/>
+
+### 📞 Quick Contact
+
+| Method | Details |
+|:-------|:--------|
+| 📧 **Email** | contact@brlikhon.engineer |
+| ✉️ **CV Email** | br.likhon@gmail.com |
+| 📱 **Phone/WhatsApp** | +880 1606549236 |
+| 🌐 **Website** | [brlikhon.engineer](https://brlikhon.engineer) |
+| 💼 **LinkedIn** | [bazlur-rahman-likhon](https://linkedin.com/in/bazlur-rahman-likhon) |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 💭 Philosophy
+
+> *"The best way to predict the future is to build it."*
+
+> *"I don't just write code—I engineer solutions that transform how businesses operate."*
+
+<br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20"/>
+
+**© 2025-2026 Md Bazlur Rahman Likhon** 
+
+*Last Updated: August 2026 - merged with the latest CV*
 
 </div>
