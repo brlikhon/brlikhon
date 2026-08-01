@@ -174,10 +174,17 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 | <img width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/> | <img width="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/> | <img width="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/> | <img width="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/> |
 |:---:|:---:|:---:|:---:|
 | **Google Cloud** | **Microsoft Azure** | **Oracle** | **AWS** |
-| Professional Data Engineer | Azure AI Engineer Associate | OCI GenAI Professional | Machine Learning Fundamentals |
-| Associate Cloud Engineer | Azure Fundamentals | AI Foundations Associate | Business Intelligence Engineer |
-| Generative AI Leader | Azure AI Fundamentals | | Introducing GenAI with AWS |
-| AI/ML Technical Expert | Cloud & AI Platinum | | |
+| Professional ML Engineer | Azure Developer Associate (AZ-204) | OCI 2024 GenAI Professional | AI Programming with Python (Scholarship) |
+| Professional Data Engineer | Azure AI Engineer Associate (AI-102) | OCI 2025 AI Foundations Associate | Future AWS BI Engineer |
+| Professional Cloud Database Engineer | Fabric Data Engineer Associate (DP-700) | OCI 2022 Foundations Associate | Practical Data Science Specialization |
+| Professional Cloud Security Engineer | Azure Fundamentals | | Designing Data Lakes on AWS |
+| Professional Security Ops Engineer | Azure AI Fundamentals | | Data Analytics on AWS |
+| Associate Cloud Engineer | Cloud & AI Bootcamp Platinum | | Machine Learning Fundamentals |
+| Generative AI Leader | | | Introducing GenAI with AWS |
+| Cloud Digital Leader | | | |
+| SecOps Technical Credential | | | |
+| AI/ML Pre-sales Technical Expert | | | |
+| Build with Vertex Technical Expert | | | |
 
 </div>
 
@@ -191,45 +198,161 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 
 | Institution | Certification |
 |:------------|:--------------|
+| 🏛️ **Harvard University** | Amazon SageMaker: ML Application Development |
+| 🏛️ **Harvard University** | Introduction to Probability |
+| 🏛️ **Harvard University** | Reproducible Data Science |
 | 🏛️ **Harvard University** | Data Science: Productivity Tools |
-| 🏛️ **Stanford University** | Machine Learning Specialization |
-| 🧠 **DeepLearning.AI** | Deep Learning Specialization |
-| 🤖 **UC Berkeley + DeepMind + Meta** | Advanced LLM Agents MOOC |
+| 🏛️ **Harvard University** | Data Science: Wrangling |
+| 🏛️ **Harvard University** | Data Science Tools |
+| 🏛️ **Harvard University** | Building Modern .NET Apps on AWS |
+| 🏛️ **Harvard University** | Statistical Inference (High-throughput) |
+| 🏛️ **Harvard University** | MLOps Specialization |
+| 🏛️ **Stanford University** | Building Modern Python Apps on AWS |
 
 </td>
 <td width="50%">
 
 | Institution | Certification |
 |:------------|:--------------|
+| 🧠 **DeepLearning.AI** | Mathematics for ML & Data Science |
+| 🧠 **DeepLearning.AI** | High-Dimensional Data Analysis |
 | 💼 **IBM** | RAG & Agentic AI Professional |
-| ⚛️ **Google Quantum AI** | Quantum Computing Program |
+| 🤖 **UC Berkeley + DeepMind + Meta** | Advanced LLM Agents MOOC |
+| ⚛️ **Google Quantum AI / The Coding School** | Intro to Quantum Computing |
 | 🐙 **GitHub** | GitHub Foundations |
 | 🛡️ **Proofpoint** | AI Data Security Specialist 2025 |
+| 💡 **Intel** | Intel Edge AI Certification |
+| 🤖 **Amii** | Machine Learning Specialization |
+| 🏛️ **Columbia University** | DevOps: Practices and Tools |
 
 </td>
 </tr>
 </table>
 
 
-### 🆕 Latest Certifications Added from Updated CV
+### 📋 Certification Details with Validity
 
-| Provider | Certification | Status / Validity |
-|:---------|:--------------|:------------------|
-| **Google Cloud** | Professional Machine Learning Engineer | Valid Dec 2025 - Dec 2027 |
-| **Google Cloud** | Professional Cloud Database Engineer | Active |
-| **Google Cloud** | Professional Cloud Security Engineer | Active |
-| **Google Cloud** | Professional Security Operations Engineer | Valid Dec 2024 - Dec 2027 |
-| **Google Cloud** | Cloud Digital Leader | Valid Feb 2024 - Feb 2027 |
-| **Microsoft** | Azure Developer Associate (AZ-204) | Active |
-| **Microsoft** | Fabric Data Engineer Associate (DP-700) | Valid Jun 2024 - Jun 2026 |
-| **Oracle** | OCI 2024 Generative AI Certified Professional | Active |
-| **Linux Foundation** | Kubernetes and Cloud Native Technologies Professional Certificate | Valid Jun 2022 - Dec 2029 |
-| **Intel** | Intel Edge AI Certification | May 2024 |
+<details>
+<summary><b>☁️ Google Cloud Certifications</b></summary>
+<br>
+
+| Certification | Status / Validity |
+|:--------------|:------------------|
+| Professional Machine Learning Engineer | Valid Dec 2025 – Dec 2027 |
+| Professional Data Engineer | Active |
+| Professional Cloud Database Engineer | Active |
+| Professional Cloud Security Engineer | Active |
+| Professional Security Operations Engineer | Valid Dec 2024 – Dec 2027 |
+| Associate Cloud Engineer | Active |
+| Generative AI Leader | Active |
+| Cloud Digital Leader | Valid Feb 2024 – Feb 2027 |
+| SecOps Technical Credential Assessment | Active |
+
+</details>
+
+<details>
+<summary><b>🔷 Microsoft Azure Certifications</b></summary>
+<br>
+
+| Certification | Status / Validity |
+|:--------------|:------------------|
+| Azure Developer Associate (AZ-204) | Active |
+| Azure AI Engineer Associate (AI-102) | Active |
+| Fabric Data Engineer Associate (DP-700) | Valid Jun 2024 – Jun 2026 |
+| Azure Fundamentals | Jun 2024 |
+| Azure AI Fundamentals | May 2024 |
+
+</details>
+
+<details>
+<summary><b>🔴 Oracle Cloud Certifications</b></summary>
+<br>
+
+| Certification | Status / Validity |
+|:--------------|:------------------|
+| OCI 2024 Generative AI Certified Professional | Active |
+| OCI 2025 Certified AI Foundations Associate | Active |
+| OCI 2022 Certified Foundations Associate | Active |
+| Introduction to DevOps and Site Reliability Engineering | Jul 2023 |
+
+</details>
+
+<details>
+<summary><b>🟠 AWS & Udacity Certifications</b></summary>
+<br>
+
+| Certification | Status / Validity |
+|:--------------|:------------------|
+| AI Programming with Python Nanodegree (AWS ML Scholarship) | 2024 |
+| Future AWS Business Intelligence Engineer | Apr 2025 |
+| Practical Data Science on the AWS Cloud Specialization | Active |
+| Designing Data Lakes on AWS | Active |
+| Getting Started with Data Analytics on AWS | Apr 2022 |
+
+</details>
+
+<details>
+<summary><b>🐧 Linux Foundation & DevOps Certifications</b></summary>
+<br>
+
+| Certification | Status / Validity |
+|:--------------|:------------------|
+| Professional Certificate in Kubernetes and Cloud Native Technologies | Valid Jun 2022 – Dec 2029 |
+| Professional Certificate in DevOps: Practices and Tools (Columbia University) | Jul 2022 |
+| Introduction to Open Source Networking Technologies | Mar 2023 |
+| Machine Learning for Data Science and Analytics (Columbia University) | Jan 2022 |
+| Python for Research (Columbia University) | Feb 2022 |
+| Introduction to Serverless on Kubernetes (Harvard / edX) | May 2022 |
+| Data Science: Visualization | Active |
+
+</details>
+
+<details>
+<summary><b>🏛️ Harvard, Stanford & Columbia Certifications</b></summary>
+<br>
+
+| Certification | Status / Validity |
+|:--------------|:------------------|
+| Amazon SageMaker: ML Application Development (Harvard) | Mar 2022 |
+| Introduction to Probability (Harvard) | Feb 2022 |
+| Reproducible Data Science Principles & Tools (Harvard) | Active |
+| Fat Chance: Probability from the Ground Up (Harvard) | Active |
+| Data Science: Productivity Tools (Harvard) | Active |
+| Data Science: Wrangling (Harvard) | Active |
+| MLOps Specialization (Harvard / Coursera) | Active |
+| Statistical Inference for High-throughput Experiments (Harvard) | Active |
+| Building Modern .NET Applications on AWS (Harvard) | Mar 2022 |
+| Data Science Tools (Harvard) | Mar 2022 |
+| Building Modern Python Applications on AWS (Stanford) | Active |
+
+</details>
+
+<details>
+<summary><b>🔬 Other Provider Certifications</b></summary>
+<br>
+
+| Certification | Provider | Status / Validity |
+|:--------------|:---------|:------------------|
+| Intel Edge AI Certification | Intel | May 2024 |
+| Proofpoint Certified AI Data Security Specialist 2025 | Proofpoint | 2025 |
+| ML: Algorithms in the Real World Specialization | Google / Coursera | Active |
+| Google Finance Data Analyst Professional Certificate | Google / Coursera | Active |
+| Reinforcement Learning Specialization | Google / Coursera | Oct 2022 |
+| Google IT Automation with Python Specialization | Google / Coursera | Active |
+| Google Advanced Data Analytics Specialization | Google / DeepLearning.AI | Active |
+| Mathematics for ML and Data Science Specialization | DeepLearning.AI / Coursera | Active |
+| High-Dimensional Data Analysis | DeepLearning.AI / edX | Active |
+| Machine Learning Specialization | Amii / Coursera | Active |
+| Qubit by Qubit: Intro to Quantum Computing (Google Quantum AI) | The Coding School | Oct 2023 – May 2024 |
+| Statistical Thinking for Data Science and Analytics | edX | Jun 2022 |
+| GitHub Foundations | GitHub | Jan 2025 |
+
+</details>
 
 <br/>
 
 <details>
-<summary><b>📜 View All 50+ Recent Certifications (2024-2026)</b></summary>
+<summary><b>📜 View All Verified Certifications with Links (2024-2026)</b></summary>
 <br>
 
 | # | Certification | Provider | Verification |
@@ -282,7 +405,7 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 | **🧠 Enterprise RAG Platform** | Production-grade knowledge retrieval with semantic search, multi-tenant support, and real-time indexing | LangChain, ChromaDB, Gemini 3.1 Pro, FastAPI, Redis | **99%+ accuracy** • 100K+ queries/day |
 | **🎙️ Voice AI Call Center** | Real-time voice conversation system with intelligent routing and sentiment analysis | Vapi.ai, Twilio, Gemini Live API, WebRTC | **<200ms latency** • 24/7 automation |
 | **🛒 AI Retail Assistant** | Multilingual shopping guidance with natural conversation and personalized recommendations | GPT-5.5, LangGraph, RAG, FastAPI | **40% cost reduction** |
-| **🛡️ Network Intrusion Detection** | ML-powered cybersecurity threat identification using ensemble methods | TensorFlow, XGBoost, CIC-IDS-2017 | **99.87% accuracy** |
+| **🛡️ Network Intrusion Detection** | Full pipeline on 2.8M+ records with 12 ML algorithms; classified 15 attack types with explainability via SHAP & LIME, forensic timelines, and PDF reporting | XGBoost, TensorFlow, CIC-IDS-2017, SHAP, LIME | **99.87% accuracy** • 99.99% ROC-AUC |
 | **🎭 Deepfake Detection System** | Synthetic media identification using frequency and texture analysis | CNN, FFT Analysis, PyTorch | **96%+ detection rate** |
 
 
@@ -304,6 +427,18 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 | **🪪 NID OCR System** | Bilingual KYC API extracting 10 fields from Bangladesh NID cards with timestamped audit responses | OCR, Regex Parsing, Neural Translation, REST API |
 | **🖐️ Fingerprint Processing System** | Enhancement, ORB + Gabor matching, quality scoring, WebRTC capture, and secured AWS deployment | Flask, OpenCV, MySQL, WebRTC, AWS EC2 |
 | **🧊 Tencent Hunyuan 3D Client** | Text-to-3D and image-to-3D Python client and Web UI with asynchronous orchestration and PBR material support | Python, Async Jobs, Tencent Hunyuan 3D API |
+| **📄 Document Processing Engine** | Size-independent blur detection (Tenengrad, Brenner, Edge Density), multi-image PDF conversion, schema extraction, and line-item tables with drag-and-drop UI | Python Flask, Google Cloud Document AI, OpenCV |
+| **👤 Face Similarity AI – Cloud** | Production-grade face comparison service with secure credential management, Nginx reverse proxy, drag-and-drop UI, and automated setup | Cloud AI APIs, Node.js, Nginx, Debian Linux |
+| **🐄 InsureCow – Cattle Muzzle Detection** | ML model for cattle muzzle detection improving identification accuracy; migrated to AWS Lambda serverless for optimized performance and reduced costs | ML, Computer Vision, AWS Lambda |
+
+### 📱 SaaS & Product AI
+
+| Project | Description | Key Technologies / Capabilities |
+|:--------|:------------|:--------------------------------|
+| **🌾 McKrishiSheba** | AI agricultural advisory platform with Bangla TTS/STT; reduced AI costs by ~66–83% via token optimization | FastAPI, PostgreSQL + pgvector, Google Gemini, React + TS, Bangla TTS/STT |
+| **🦉 Sleepy Owl Stories** | AI story generator delivered to Google Play in 4 months with text generation, image generation, and TTS | Generative AI, TTS, Image Generation, Android |
+| **👨‍🍳 Pocket Chef AI** | AI cooking assistant with custom data scraping pipeline and custom-trained AI model | Data Scraping, Custom ML Model, AI Recommendation |
+| **💼 KP SaaS Portfolio** | Multi-platform SaaS suite: KP Task, KP Cards, KP Space, KP Learn, KP HRM, KP Commerce | AWS, SaaS Architecture, Full-stack |
 
 ### ☁️ Cloud & DevOps Infrastructure
 
@@ -319,10 +454,11 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 
 | Project | Description | Tech Stack | Results |
 |:--------|:------------|:-----------|:--------|
-| **📰 Sentiment Analysis System** | Ukraine-Russia War tweet analysis (BSc Thesis) | NLP, BERT, PyTorch, Pandas | **Published Research** |
+| **📰 Sentiment Analysis System** | Ukraine-Russia War tweet analysis on 2.4M tweets (BSc Thesis); co-authored published classification framework | NLP, BERT, PyTorch, Pandas | **Published Research** |
 | **📄 Document AI Pipeline** | Intelligent document processing with automated data extraction | Google Document AI, Python | **98% extraction accuracy** |
 | **📱 Edge AI Deployment** | On-device ML inference optimization for mobile | TensorFlow Lite, Intel OpenVINO | **5x inference speedup** |
 | **🌿 Agricultural AI** | Crop disease identification from smartphone images | CNN, Transfer Learning, Flask | **94% accuracy** |
+| **🚲 Bike Sharing Demand Prediction** | ML project predicting hourly bike rental demand using AutoGluon with feature engineering, hyperparameter tuning, and Kaggle competition | AutoGluon, Feature Engineering, AWS ML Scholarship | **Kaggle Competition** |
 
 <br/>
 
@@ -412,6 +548,7 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -422,8 +559,31 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 📊 Data & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME-32CD32?style=for-the-badge&logoColor=white)
+
+### 🤖 Computer Vision & AI
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![AutoGluon](https://img.shields.io/badge/AutoGluon-FF9900?style=for-the-badge&logoColor=white)
+
+### 🔧 Automation & Tools
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -491,11 +651,9 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 
 <div align="center">
 
-| 🇺🇸 USA | 🇦🇺 Australia | 🇬🇧 UK | 🇩🇪 Germany | 🇪🇺 EU | 🇧🇩 Bangladesh |
-|:------:|:-----------:|:-----:|:----------:|:-----:|:-------------:|
-| Active | Active | Active | Active | Active | **HQ** |
-
-**Additional delivery locations from the updated CV:** 🇯🇵 Japan and 🇨🇳 China
+| 🇺🇸 USA | 🇬🇧 UK | 🇯🇵 Japan | 🇨🇳 China | 🇦🇺 Australia | 🇩🇪 Germany | 🇪🇺 EU | 🇧🇩 Bangladesh |
+|:------:|:-----:|:--------:|:--------:|:-----------:|:----------:|:-----:|:-------------:|
+| Active | Active | Active | Active | Active | Active | Active | **HQ** |
 
 **Trusted by businesses across 6 continents**
 
@@ -566,6 +724,6 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 
 **© 2025-2026 Md Bazlur Rahman Likhon** 
 
-*Last Updated: August 2026 - merged with the latest CV*
+*Last Updated: August 2026 — comprehensive CV integration with all certifications, projects, and technical skills*
 
 </div>
