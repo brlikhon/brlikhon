@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Bazlur%20Rahman%20Likhon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Senior%20Cloud%20%26amp%3B%20AI%20Engineer%20%7C%20300%2B%20Certifications&descAlignY=52&descSize=18"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=🚀+Building+AI+Systems+That+Transform+Businesses;💡+LLMs+%7C+RAG+%7C+Multi-Cloud+%7C+DevSecOps;🌍+Serving+Clients+in+USA%2C+Australia%2C+UK%2C+EU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Building+AI+Systems+That+Transform+Businesses;Enterprise+LLMs+%7C+RAG+%7C+Multi-Cloud+%7C+DevSecOps;Serving+Clients+in+USA%2C+UK%2C+Japan%2C+China%2C+EU" alt="Typing SVG" />
 
 <br/>
 <br/>
