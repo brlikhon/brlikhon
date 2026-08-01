@@ -26,7 +26,7 @@
 <!-- STATS BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=brlikhon&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Followers-1.2K+-00D9FF?style=for-the-badge&labelColor=0D1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/brlikhon?style=for-the-badge&labelColor=0D1117&color=00D9FF&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/badge/Certifications-300+-gold?style=for-the-badge&labelColor=0D1117" alt="Certifications"/>
   <img src="https://img.shields.io/badge/Experience-6%2B_Years-28a745?style=for-the-badge&labelColor=0D1117" alt="Experience"/>
 </p>
