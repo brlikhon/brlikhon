@@ -8,10 +8,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Bazlur%20Rahman%20Likhon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Senior%20Cloud%20%26%20AI%20Engineer%20%7C%20Head%20of%20AI%20Engineering%20%7C%20300%2B%20Certifications&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Bazlur%20Rahman%20Likhon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Senior%20Cloud%20%26amp%3B%20AI%20Engineer%20%7C%20300%2B%20Certifications&descAlignY=52&descSize=18"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=🚀+Building+AI+Systems+That+Transform+Businesses;💡+LLMs+%7C+RAG+%7C+Multi-Cloud+%7C+DevSecOps;🌍+Serving+Clients+in+USA%2C+Australia%2C+UK%2C+EU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=🚀+Building+AI+Systems+That+Transform+Businesses;💡+LLMs+%7C+RAG+%7C+Multi-Cloud+%7C+DevSecOps;🌍+Serving+Clients+in+USA%2C+Australia%2C+UK%2C+EU" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -44,7 +44,7 @@
 
 > **I transform complex AI challenges into production-ready solutions that deliver measurable business impact.**
 
-I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior Cloud & AI Engineer and Head of AI Engineering** at **Upstra Communications Limited**, architecting enterprise-grade AI systems that scale. With **6+ years of experience** and **300+ certifications** from Google, AWS, Microsoft, Oracle, Harvard, and Stanford, I bridge the gap between cutting-edge AI research and real-world business applications. I lead end-to-end delivery across RAG platforms, LLM systems, conversational and voice AI, computer vision, biometrics, intelligent surveillance, document understanding, and secure multi-cloud infrastructure for clients in Bangladesh, the USA, the UK, Japan, and China.
+I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior Cloud & AI Engineer** at **Upstra Communications Limited**, architecting enterprise-grade AI systems that scale. With **6+ years of experience** and **300+ certifications** from Google, AWS, Microsoft, Oracle, Harvard, and Stanford, I bridge the gap between cutting-edge AI research and real-world business applications. I lead end-to-end delivery across RAG platforms, LLM systems, conversational and voice AI, computer vision, biometrics, intelligent surveillance, document understanding, and secure multi-cloud infrastructure for clients in Bangladesh, the USA, the UK, Japan, and China.
 
 ```yaml
 🎯 Current Focus:
@@ -57,7 +57,7 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
   - Engineering biometric, document AI, surveillance, and behavior analytics solutions
   - Extending multi-cloud delivery across Oracle, Alibaba, and Tencent Cloud
 
-💼 Current Role: Senior Cloud & AI Engineer / Head of AI Engineering
+💼 Current Role: Senior Cloud & AI Engineer
 🏢 Organization: Upstra Communications Limited (Oct 2025 - Present)
 🎓 Current Study: MSc in Information Systems Security, BUP
 📍 Location: Dhaka, Bangladesh 🇧🇩
@@ -130,7 +130,7 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 <!-- PROFESSIONAL EXPERIENCE -->
 ## 💼 Professional Experience
 
-### Senior Cloud & AI Engineer / Head of AI Engineering
+### Senior Cloud & AI Engineer
 **Upstra Communications Limited | Dhaka, Bangladesh | Oct 2025 - Present**
 
 - Lead the AI engineering function with ownership of enterprise RAG, LLM, conversational AI, voice AI, computer vision, biometric, intelligent surveillance, and document-understanding solutions.
@@ -467,7 +467,7 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 <br/>
 
 
-<!-- AWARDS & EDUCATION -->
+<!-- AWARDS & RECOGNITION -->
 ## 🏆 Awards & Recognition
 
 | Recognition | Year | Achievement |
@@ -480,18 +480,7 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 | **Google Cloud Community Top Contributor** | 2022 | Recognized for sharing solutions and supporting the global cloud community |
 | **AWS Machine Learning Scholarship** | 2021 | Completed intensive AWS ML training covering SageMaker, Glue, Lambda, and deployment |
 
-<br/>
 
-## 🎓 Education
-
-| Degree | Institution | Period | Result / Focus |
-|:-------|:------------|:------:|:---------------|
-| **MSc in Information Systems Security (MISS)** | Bangladesh University of Professionals (BUP) | Dec 2024 - Present | Information systems and security |
-| **BSc in Computer Science and Engineering** | Daffodil International University | Sep 2019 - Sep 2023 | GPA: 3.62/4.00 |
-| **Higher Secondary Certificate - Science** | Dr. Mahbubur Rahman Mollah College | Jun 2016 - Apr 2018 | GPA: 4.50/5.00 |
-| **Secondary School Certificate - Science** | Fatulla Pilot High School | Jan 2014 - Feb 2016 | GPA: 4.78/5.00 |
-
-**BSc Thesis:** Sentiment Analysis on the Ukraine-Russia War Using Tweets - analyzed 2.4 million tweets using NLP and machine-learning techniques.
 
 <br/>
 
