@@ -176,16 +176,16 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 | **Google Cloud** | **Microsoft Azure** | **Oracle** | **AWS** |
 | Professional ML Engineer | Azure Developer Associate (AZ-204) | OCI 2024 GenAI Professional | AI Programming with Python (Scholarship) |
 | Professional Data Engineer | Azure AI Engineer Associate (AI-102) | OCI 2025 AI Foundations Associate | Future AWS BI Engineer |
-| Professional Cloud Database Engineer | Fabric Data Engineer Associate (DP-700) | OCI 2022 Foundations Associate | Practical Data Science Specialization |
-| Professional Cloud Security Engineer | Azure Fundamentals | | Designing Data Lakes on AWS |
-| Professional Security Ops Engineer | Azure AI Fundamentals | | Data Analytics on AWS |
-| Associate Cloud Engineer | Cloud & AI Bootcamp Platinum | | Machine Learning Fundamentals |
-| Generative AI Leader | | | Introducing GenAI with AWS |
+| Professional Cloud DevOps Engineer | Fabric Data Engineer Associate (DP-700) | OCI 2022 Foundations Associate | Practical Data Science Specialization |
+| Professional Cloud Database Engineer | Azure Fundamentals | | Designing Data Lakes on AWS |
+| Professional Cloud Security Engineer | Azure AI Fundamentals | | Data Analytics on AWS |
+| Professional Security Ops Engineer | Cloud & AI Bootcamp Platinum | | Machine Learning Fundamentals |
+| Associate Cloud Engineer | | | Introducing GenAI with AWS |
+| Generative AI Leader | | | |
 | Cloud Digital Leader | | | |
 | SecOps Technical Credential | | | |
 | AI/ML Pre-sales Technical Expert | | | |
 | Build with Vertex Technical Expert | | | |
-
 </div>
 
 <br/>
