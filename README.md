@@ -174,13 +174,13 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 | <img width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/> | <img width="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/> | <img width="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/> | <img width="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/> |
 |:---:|:---:|:---:|:---:|
 | **Google Cloud** | **Microsoft Azure** | **Oracle** | **AWS** |
-| Professional ML Engineer | Azure Developer Associate (AZ-204) | OCI 2024 GenAI Professional | AI Programming with Python (Scholarship) |
-| Professional Data Engineer | Azure AI Engineer Associate (AI-102) | OCI 2025 AI Foundations Associate | Future AWS BI Engineer |
-| Professional Cloud DevOps Engineer | Fabric Data Engineer Associate (DP-700) | OCI 2022 Foundations Associate | Practical Data Science Specialization |
-| Professional Cloud Database Engineer | Azure Fundamentals | | Designing Data Lakes on AWS |
-| Professional Cloud Security Engineer | Azure AI Fundamentals | | Data Analytics on AWS |
-| Professional Security Ops Engineer | Cloud & AI Bootcamp Platinum | | Machine Learning Fundamentals |
-| Associate Cloud Engineer | | | Introducing GenAI with AWS |
+| Professional ML Engineer | Azure DevOps Engineer Expert (AZ-400) | OCI 2024 GenAI Professional | AI Programming with Python (Scholarship) |
+| Professional Data Engineer | Azure Developer Associate (AZ-204) | OCI 2025 AI Foundations Associate | Future AWS BI Engineer |
+| Professional Cloud DevOps Engineer | Azure AI Engineer Associate (AI-102) | OCI 2022 Foundations Associate | Practical Data Science Specialization |
+| Professional Cloud Database Engineer | Fabric Data Engineer Associate (DP-700) | | Designing Data Lakes on AWS |
+| Professional Cloud Security Engineer | Azure Fundamentals | | Data Analytics on AWS |
+| Professional Security Ops Engineer | Azure AI Fundamentals | | Machine Learning Fundamentals |
+| Associate Cloud Engineer | Cloud & AI Bootcamp Platinum | | Introducing GenAI with AWS |
 | Generative AI Leader | | | |
 | Cloud Digital Leader | | | |
 | SecOps Technical Credential | | | |
@@ -256,6 +256,7 @@ I'm a **Senior AI Engineer and Cloud Architect**, currently serving as **Senior 
 
 | Certification | Status / Validity |
 |:--------------|:------------------|
+| Azure DevOps Engineer Expert (AZ-400) | Active |
 | Azure Developer Associate (AZ-204) | Active |
 | Azure AI Engineer Associate (AI-102) | Active |
 | Fabric Data Engineer Associate (DP-700) | Valid Jun 2024 – Jun 2026 |
