@@ -47,12 +47,12 @@ Domaines d'excellence : **Gemini Enterprise (`Google Agentspace`), Vertex AI Age
 ### 1. 📰 Ask Prothom Alo — Plateforme Multimodale d'IA Éditoriale & Recherche en Temps Réel
 - **Déploiement Entreprise :** Au service du plus grand groupe de presse du Bangladesh.
 - **Fonctionnalités Clés :** Assistant conversationnel et recherche bilingue sur l'ensemble des archives (**99,995 % de couverture**) avec synchronisation des actualités en direct toutes les **15 minutes**, réponses en streaming en **moins de 300 ms**, questions-réponses vidéo multimodales, continuité conversationnelle, vérification stricte des citations éditoriales, validation des preuves et conformité automatique aux retraits d'articles.
-- **[📅 Demander une Démo Entreprise →](https://cal.com/brlikhon.engineer/discovery)**
+- 🏛️ *Conçu et déployé chez [**Upstra Communications Limited**](https://upstra.com) (Google Cloud Premier Partner)*
 
 ### 2. 🏢 UPSTRA OMS — Main-d'Œuvre IA Multi-Agents, Téléphonie d'Entreprise & Plateforme Omnicanale
 - **Produit Entreprise Multi-Locataire (Multi-Tenant) :** Permet aux organisations de déployer des collaborateurs IA autonomes sur **les lignes téléphoniques entrantes/sortantes, les réunions vocales/vidéo en direct et plus de 11 canaux de messagerie numérique** depuis un espace unifié.
 - **Fonctionnalités Clés :** Automatisation de l'accueil client, qualification des prospects, prise de rendez-vous, suivi des commandes et livraisons, consultation des stocks et catalogues, facturation, campagnes d'appels sortants, transfert intelligent vers des conseillers humains avec **assistance en temps réel (Live Whisper Coaching)**, gestion naturelle des interruptions vocales, support multilingue mondial, contrôle d'accès par rôle (`RBAC`), actions soumises à approbation, suivi de facturation et piste d'audit intégrale.
-- **[📅 Demander une Démo Entreprise →](https://cal.com/brlikhon.engineer/discovery)**
+- 🏛️ *Produit d'entreprise propriétaire — [**Upstra Communications Limited**](https://upstra.com)*
 
 ### 3. 🏥 MedOps CareLoop (HMS) — Santé des Populations en Boucle Fermée & Gestion Hospitalière
 - **Produit Clinique Multi-Hôpitaux :** Élimine la perte de suivi des patients entre un dépistage diagnostique anormal et la prise en charge médicale définitive.
@@ -62,7 +62,7 @@ Domaines d'excellence : **Gemini Enterprise (`Google Agentspace`), Vertex AI Age
 ### 4. 📞 Upstra Interpreter — Plateforme d'Interprétation Téléphonique Bidirectionnelle d'Entreprise
 - **Produit Entreprise Auto-Hébergé (Self-Hosted) :** Solution professionnelle d'interprétation vocale en temps réel pour appels téléphoniques d'entreprise.
 - **Fonctionnalités Clés :** Permet aux clients et aux opérateurs de converser naturellement au téléphone grâce à une traduction vocale bidirectionnelle fluide en direct ; déploiement auto-hébergé garantissant une souveraineté totale, la confidentialité des appels et le respect strict des politiques de sécurité téléphonique d'entreprise, avec console de gestion des opérateurs, contrôle de capacité en direct, tableaux de bord opérationnels, supervision de santé et journaux d'audit complets.
-- **[📅 Demander une Démo Entreprise →](https://cal.com/brlikhon.engineer/discovery)**
+- 🏛️ *Produit d'entreprise propriétaire — [**Upstra Communications Limited**](https://upstra.com)*
 
 ### 5. 🌐 Plateforme de Traduction Vocale en Direct (Live Voice Translation)
 - **Fonctionnalités Clés :** Traduction vocale bidirectionnelle en temps réel dans **plus de 50 langues internationales** avec une latence inférieure à **300 ms**, accessible sur navigateur web et numéros de téléphone mobile pour des communications internationales à très grande échelle.

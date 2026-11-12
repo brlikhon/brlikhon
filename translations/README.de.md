@@ -47,12 +47,12 @@ Kernschwerpunkte: **Gemini Enterprise (`Google Agentspace`), Vertex AI Agent Bui
 ### 1. 📰 Ask Prothom Alo — Multimodale Enterprise-Nachrichten-KI & Echtzeit-Suchplattform
 - **Produktivbetrieb:** Im Einsatz beim größten Nachrichten- und Medienunternehmen Bangladeschs.
 - **Zentrale Leistungsmerkmale:** Zweisprachiger Dialog- und Echtzeit-Suchassistent über das gesamte Nachrichtenarchiv (**99,995 % Abdeckungsgenauigkeit**) mit **15-minütiger Live-Aktualisierung für Eilmeldungen**, verzögerungsfreien Streaming-Antworten in **unter 300 ms**, multimodaler Video-Nachrichtenanalyse sowie strenger redaktioneller KI-Governance (Quellenbelege, Fakten-/Belegprüfung und automatische Rückruf-Compliance).
-- **[📅 Enterprise Live-Demo anfordern →](https://cal.com/brlikhon.engineer/discovery)**
+- 🏛️ *Entwickelt & ausgeliefert bei [**Upstra Communications Limited**](https://upstra.com) (Google Cloud Premier Partner)*
 
 ### 2. 🏢 UPSTRA OMS — Autonome Multi-Agenten-KI-Belegschaft, Unternehmenstelefonie & Omnichannel-Plattform
 - **Mandantenfähiges Enterprise-Produkt:** Ermöglicht Unternehmen den Einsatz autonomer digitaler KI-Mitarbeitender über **ein- und ausgehende Telefonleitungen, Live-Sprach-/Videokonferenzen und über 11 digitale Messaging-Kanäle** in einem zentralen Arbeitsbereich.
 - **Zentrale Leistungsmerkmale:** Vollautomatisierte Kundenannahme, Lead-Qualifizierung, Terminbuchung, Auftrags- und Sendungsverfolgung, Katalog-/Bestandsauskünfte, Rechnungsstellung, geplante Outbound-Kampagnen, nahtlose Übergabe an menschliche Mitarbeitende inklusive **Echtzeit-Whisper-Coaching**, natürliche Unterbrechungserkennung, globale Mehrsprachigkeit, rollenbasierte Zugriffskontrolle (`RBAC`), freigabepflichtige Geschäftsaktionen, Echtzeit-Nutzungsabrechnung und lückenlose Audit-Protokolle.
-- **[📅 Enterprise Live-Demo anfordern →](https://cal.com/brlikhon.engineer/discovery)**
+- 🏛️ *Proprietäres Enterprise-Produkt — [**Upstra Communications Limited**](https://upstra.com)*
 
 ### 3. 🏥 MedOps CareLoop (HMS) — Geschlossenes Versorgungsmanagement & Mandantenfähige Krankenhausplattform
 - **Klinisches Enterprise-Produkt:** Verhindert zuverlässig Behandlungsabbrüche zwischen auffälligen diagnostischen Befunden und der abschließenden medizinischen Versorgung.
@@ -62,7 +62,7 @@ Kernschwerpunkte: **Gemini Enterprise (`Google Agentspace`), Vertex AI Agent Bui
 ### 4. 📞 Upstra Interpreter — Bidirektionale Enterprise-Telefon-Dolmetscherplattform
 - **Self-Hosted Enterprise-Telefonieprodukt:** Produktive Lösung für natürliche, bidirektionale Echtzeit-Sprachübersetzung während laufender Telefongespräche zwischen Kunden und Mitarbeitenden.
 - **Zentrale Leistungsmerkmale:** Nahtlose Zwei-Wege-Live-Dolmetschung für den Telefonkundenservice; **Self-Hosted-Bereitstellung** für vollständige Datensouveränität, Gesprächsvertraulichkeit und strikte Einhaltung unternehmensinterner Telefonie-Sicherheitsrichtlinien — inklusive Operator- und Kapazitätssteuerung, Echtzeit-Betriebsdashboards, Systemgesundheitsüberwachung sowie revisionssicherer Gesprächs- und Audit-Historie.
-- **[📅 Enterprise Live-Demo anfordern →](https://cal.com/brlikhon.engineer/discovery)**
+- 🏛️ *Proprietäres Enterprise-Produkt — [**Upstra Communications Limited**](https://upstra.com)*
 
 ### 5. 🌐 Live Voice Translation Platform — Globale Echtzeit-Sprachübersetzung
 - **Zentrale Leistungsmerkmale:** Weltweit verteilte, bidirektionale Echtzeit-Sprach-zu-Sprach-Übersetzung in **über 50 Sprachen** mit **unter 300 ms Latenz** über Webbrowser und reguläre Mobilfunk-/Telefonnummern — ausgelegt für höchste Gleichzeitigkeit im internationalen Geschäftsverkehr.

@@ -84,8 +84,8 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
 <a id="case-studies"></a>
 ## Enterprise-Serving AI Products & Flagship Portfolio
 
-> **🏢 Commercial Enterprise Products — Available for Live Executive Demo:** The flagship platforms showcased below are **production commercial products actively serving enterprise organizations** across news media, healthcare, telecommunications, banking, retail, corporate security, and agriculture. To protect client confidentiality and proprietary intellectual property, **only product capabilities, security/governance standards, and business outcomes are listed publicly**.  
-> 👉 **Evaluate for your organization:** **[📅 Book a Live Product Demo](https://cal.com/brlikhon.engineer/discovery)** &nbsp;|&nbsp; **[📧 Request an Executive Walkthrough](mailto:contact@brlikhon.engineer?subject=Enterprise%20AI%20Product%20Live%20Demo%20Request)**
+> **🏢 Enterprise Production Systems & Commercial AI Portfolio:** The flagship platforms showcased below are **production enterprise systems** actively serving organizations across news media, healthcare, telecommunications, banking, retail, corporate security, and agriculture. To protect client confidentiality and proprietary intellectual property, **only product capabilities, security/governance standards, and business outcomes are listed publicly** *(proprietary platforms delivered at **[Upstra Communications Limited](https://upstra.com)** are attributed directly to Upstra)*.  
+> 👉 **Custom Enterprise AI Architecture & Independent Product Inquiries:** **[📅 Book an Executive Consultation](https://cal.com/brlikhon.engineer/discovery)** &nbsp;|&nbsp; **[📧 Contact via Email](mailto:contact@brlikhon.engineer?subject=Enterprise%20AI%20Architecture%20Inquiry)**
 
 <table>
   <tr>
@@ -98,7 +98,7 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
         <li><strong>Sub-300ms</strong> ultra-responsive streaming answers, multimodal video news Q&amp;A, and multi-turn conversational continuity.</li>
         <li>Strict editorial AI governance: verified article citations, claim-evidence validation, temporal accuracy controls, and automated retraction compliance.</li>
       </ul>
-      <p><a href="https://cal.com/brlikhon.engineer/discovery"><b>📅 Request Enterprise Live Demo →</b></a></p>
+      <p>🏛️ <em>Architected &amp; Delivered at <a href="https://upstra.com"><b>Upstra Communications Limited</b></a> (Google Cloud Premier Partner)</em></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏢 UPSTRA OMS — Autonomous Multi-Agent AI Workforce &amp; Omnichannel Platform</h3>
@@ -109,7 +109,7 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
         <li>Automates reception, lead qualification, appointment booking, order/delivery tracking, catalog/inventory inquiries, invoicing, outbound campaigns, and human handoffs with <strong>live whisper coaching</strong> and instant caller interruption support.</li>
         <li>Native <strong>Bangla &amp; global multilingual</strong> support, multi-tenant isolation, RBAC, approval-gated actions, BYO-account flexibility, live billing/usage tracking, and full conversation audit trails.</li>
       </ul>
-      <p><a href="https://cal.com/brlikhon.engineer/discovery"><b>📅 Request Enterprise Live Demo →</b></a></p>
+      <p>🏛️ <em>Proprietary Enterprise Product — <a href="https://upstra.com"><b>Upstra Communications Limited</b></a></em></p>
     </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
         <li><strong>Self-hosted enterprise deployment</strong> ensuring complete organizational sovereignty, call confidentiality, and strict adherence to corporate telephony security and routing policies.</li>
         <li>Integrated <strong>operator &amp; administration console</strong> with live call capacity management, real-time operational dashboards, system health visibility, and durable call &amp; compliance audit records.</li>
       </ul>
-      <p><a href="https://cal.com/brlikhon.engineer/discovery"><b>📅 Request Enterprise Live Demo →</b></a></p>
+      <p>🏛️ <em>Proprietary Enterprise Product — <a href="https://upstra.com"><b>Upstra Communications Limited</b></a></em></p>
     </td>
   </tr>
   <tr>
@@ -554,9 +554,9 @@ Md Bazlur Rahman Likhon is an AI Engineer (Gemini Enterprise Agent Engineer), Se
 </details>
 
 <details>
-<summary><b>Can our organization request a live demo of Ask Prothom Alo, UPSTRA OMS, Upstra Interpreter, MedOps CareLoop, or Biometric/Voice AI products?</b></summary>
+<summary><b>Can our organization request a live demo of MedOps CareLoop, Live Voice Translation, or Biometric/Document AI products?</b></summary>
 <br/>
-Yes. Platforms including UPSTRA OMS (Autonomous Multi-Agent AI Workforce &amp; Telephony), Upstra Interpreter (Self-Hosted Bidirectional Telephone Interpretation), MedOps CareLoop HMS (Closed-Loop Population Health &amp; Hospital Management), Live Voice Translation (50+ languages), Conversational Analytics BI, Enterprise Grounded Search, GuardZone, WorkStation Monitoring, LunchGate, FaceTrack AI, Banking KYC Face Match, and Sovereign Document OCR Suites are production enterprise-serving products. Executive teams can schedule a tailored live product demonstration via <a href="https://cal.com/brlikhon.engineer/discovery">cal.com/brlikhon.engineer/discovery</a> or <a href="mailto:contact@brlikhon.engineer?subject=Enterprise%20Product%20Demo%20Request">contact@brlikhon.engineer</a>.
+Yes. Platforms including MedOps CareLoop HMS (Closed-Loop Population Health &amp; Hospital Management), Live Voice Translation (50+ languages), Conversational Analytics BI, Enterprise Grounded Search, GuardZone, WorkStation Monitoring, LunchGate, FaceTrack AI, Banking KYC Face Match, and Sovereign Document OCR Suites are production enterprise-serving products. Executive teams can schedule a tailored live product demonstration via <a href="https://cal.com/brlikhon.engineer/discovery">cal.com/brlikhon.engineer/discovery</a> or <a href="mailto:contact@brlikhon.engineer?subject=Enterprise%20Product%20Demo%20Request">contact@brlikhon.engineer</a>.
 </details>
 
 <details>
