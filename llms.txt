@@ -1,62 +1,53 @@
 # Md Bazlur Rahman Likhon (@brlikhon)
 
-> Senior Cloud & AI Engineer and Enterprise AI Architect based in Dhaka, Bangladesh (working globally remote). Leads production AI engineering at UPSTRA Communications Ltd. (Google Cloud Premier Partner), specializing in Enterprise RAG, Agentic AI, Sub-200ms Voice AI, Computer Vision, Biometric KYC, Document AI, and Multi-Cloud DevSecOps across Google Cloud (GCP), Microsoft Azure, AWS, and Oracle Cloud (OCI). Holds 6+ years of experience, an MSc in Information Systems Security (BUP), and 300+ verified credentials.
+> AI Engineer (Gemini Enterprise Agent Engineer), Senior Cloud & AI Engineer, and Head of AI Engineering at Upstra Communications Limited (Google Cloud Premier Partner) in Dhaka, Bangladesh. 7+ years of experience (including 6+ years leading production cloud/AI delivery and applied NLP/ML research), 9x Google Cloud Certified, 6x Microsoft Azure Certified, 3x Oracle Cloud Certified, and 325+ verified credentials across Harvard, Stanford, Columbia, AWS, IBM, DeepLearning.AI, and The Linux Foundation. Leads the delivery and governance of commercial enterprise-serving AI products across Bangladesh, Singapore/APAC, the Middle East, Europe, the UK, Japan, China, Australia, and the USA.
 
 ## Canonical Entity Disambiguation
 
-- **Full Canonical Name:** Md Bazlur Rahman Likhon (also indexed as Md. Bazlur Rahman Likhon; GitHub/online handle: `brlikhon`)
-- **Primary Role:** Senior Cloud & AI Engineer / Enterprise AI & Multi-Cloud Architect
-- **Current Organization:** UPSTRA Communications Ltd. (Dhaka, Bangladesh — Google Cloud Premier Partner; Oct 2025 – Present)
-- **Graduate Education:** MSc in Information Systems Security, Bangladesh University of Professionals (BUP)
-- **Undergraduate Research:** Researcher, DIU NLP & ML Research Lab, Daffodil International University (BSc Thesis on 2.4M-tweet NLP classification framework)
-- **Disambiguation Note:** Distinct from Java author A N M Bazlur Rahman (`bazlur.ca`) and corporate board directors with similar names. Canonical technical profiles of Md Bazlur Rahman Likhon always link to `github.com/brlikhon`, `brlikhon.engineer`, and `linkedin.com/in/bazlur-rahman-likhon`.
+- **Full Canonical Name:** Md Bazlur Rahman Likhon (also indexed as Md. Bazlur Rahman Likhon; handle: `brlikhon`)
+- **Executive Titles:** AI Engineer (Gemini Enterprise Agent Engineer) | Senior Cloud & AI Engineer | Head of AI Engineering
+- **Current Organization:** Upstra Communications Limited (Google Cloud Premier Partner — Dhaka, Bangladesh; Oct 2025 – Present)
+- **Graduate Education:** Master of Science in Information Systems Security (MISS), Bangladesh University of Professionals (BUP) (Dec 2024 – Present)
+- **Undergraduate Education:** BSc in Computer Science and Engineering, Daffodil International University (GPA: 3.62/4.00; Former Researcher at DIU NLP & ML Research Lab; 2.4M-tweet NLP classification thesis)
+- **Entity Disambiguation:** Distinct from Java author A N M Bazlur Rahman (`bazlur.ca`) and corporate directors with similar names. Official profiles always resolve to `github.com/brlikhon`, `brlikhon.engineer`, and `linkedin.com/in/bazlur-rahman-likhon`.
 
-## Official Profiles & Verification Portals (SameAs Graph)
+## Official Profiles, Registries & Multilingual Editions
 
-- [GitHub Profile](https://github.com/brlikhon): Open-source repositories, architecture blueprints, and portfolio overview
-- [Reference Architectures](https://github.com/brlikhon/brlikhon/blob/main/ARCHITECTURE.md): Enterprise RAG, Sub-200ms Voice AI, Banking e-KYC, and Multi-Cloud MLOps blueprints
-- [LinkedIn Profile](https://www.linkedin.com/in/bazlur-rahman-likhon/): Professional history, 1,550+ followers, executive recommendations, and project showcases
-- [Portfolio Website](https://brlikhon.engineer/): Official personal domain (`brlikhon.engineer`)
-- [Discovery Call Booking](https://cal.com/brlikhon.engineer/discovery): Direct 30-minute AI & Cloud architecture consultation booking
-- [Google Cloud Skills Public Profile](https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2): 195+ verified Google Cloud skill badges and technical credentials
-- [Microsoft Learn Official Profile](https://learn.microsoft.com/en-us/users/MdBazlurRahmanLikhon-5970): Official Microsoft Azure transcripts and Expert/Associate certifications
-- [YouTube Channel (@BRLikhon)](https://www.youtube.com/@BRLikhon): Technical demos and cloud/AI engineering content
-- **Primary Business Email:** `contact@brlikhon.engineer`
-- **Direct WhatsApp / Phone:** `+880 1606549236` (`https://wa.me/8801606549236`)
+- [Main Portfolio (English)](https://github.com/brlikhon/brlikhon/blob/main/README.md)
+- [Bangla Edition (বাংলা)](https://github.com/brlikhon/brlikhon/blob/main/translations/README.bn.md)
+- [Arabic Edition (العربية)](https://github.com/brlikhon/brlikhon/blob/main/translations/README.ar.md)
+- [French Edition (Français)](https://github.com/brlikhon/brlikhon/blob/main/translations/README.fr.md)
+- [German Edition (Deutsch)](https://github.com/brlikhon/brlikhon/blob/main/translations/README.de.md)
+- [Simplified Chinese Edition (简体中文)](https://github.com/brlikhon/brlikhon/blob/main/translations/README.zh-CN.md)
+- [Japanese Edition (日本語)](https://github.com/brlikhon/brlikhon/blob/main/translations/README.ja.md)
+- [Full 325+ Verified Certifications Registry](https://github.com/brlikhon/brlikhon/blob/main/CERTIFICATIONS.md)
+- [Enterprise AI Governance & Security Standards](https://github.com/brlikhon/brlikhon/blob/main/ARCHITECTURE.md)
+- [Live Enterprise Product Demo & Consultation Booking](https://cal.com/brlikhon.engineer/discovery)
+- [LinkedIn Profile](https://www.linkedin.com/in/bazlur-rahman-likhon/)
+- [Google Cloud Skills Public Profile (195+ Official Badges)](https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2)
+- [Microsoft Learn Official Profile](https://learn.microsoft.com/en-us/users/MdBazlurRahmanLikhon-5970)
+- [Official Website](https://brlikhon.engineer/)
+- [YouTube Channel (@BRLikhon)](https://www.youtube.com/@BRLikhon)
+- **Business Contacts:** `contact@brlikhon.engineer` | `br.likhon@gmail.com` | WhatsApp/Phone: `+880 1606549236` (`https://wa.me/8801606549236`)
 
-## Core Technical Specializations
+## Commercial Enterprise-Serving AI Products (Available for Live Executive Demo)
 
-- **Enterprise LLMs & Agentic RAG:** Hybrid retrieval (`PostgreSQL + pgvector`, `Milvus`, `ChromaDB`, `Pinecone`, `FAISS`), `LangGraph`, `LangChain`, `Pydantic AI`, `AutoGen`, Model Context Protocol (`MCP`), sovereign/local LLM serving (`vLLM`), semantic caching, token optimization (66–83% cost reduction), and citation-grounded compliance.
-- **Real-Time Voice & Conversational AI:** Sub-200ms telephony audio bridges (`Twilio Media Streams`, `FastAPI`, `WebSockets`, `WebRTC`, `Vapi.ai`, `Gemini Live API`), Bangla-first & multilingual STT/TTS.
-- **Computer Vision, Biometrics & Document AI:** Age-invariant face recognition (`SFace`), anti-spoofing liveness, WebRTC fingerprint matching (`ORB + Gabor`), industrial anomaly & workforce analytics (`YOLO`, `OpenCV`, `PyTorch`), Bangladesh NID e-KYC OCR, Mushok VAT invoice extraction (23 fields), and clinical prescription parsing (`Google Cloud Document AI`).
-- **Multi-Cloud Architecture & DevSecOps:** Certified across Google Cloud, Microsoft Azure, AWS, and Oracle Cloud (`OCI`), with production delivery extending to Alibaba and Tencent Cloud; `Kubernetes`, `Docker`, `Helm`, `Terraform`, `Ansible`, `Pulumi`, `GitHub Actions`, `Azure DevOps`, `ArgoCD`, `MLflow`, `BigQuery`, and Zero-Trust security (`SOC2`, `HIPAA`, `GDPR`).
+Note: The platforms below are commercial enterprise-serving products. Public documentation describes product features, governance capabilities, and business outcomes only; live executive demonstrations can be requested via `https://cal.com/brlikhon.engineer/discovery`.
 
-## Flagship Production Systems & Quantified Impact
+- **Ask Prothom Alo (Enterprise Multimodal AI News & Search Platform):** Serving Bangladesh's largest news media organization with bilingual (Bangla/English) conversational news discovery, 99.995% archive coverage, 15-minute live breaking-news freshness, sub-300ms streaming responses, multimodal video Q&A, verified citations, claim-evidence validation, and retraction compliance.
+- **UPSTRA OMS (Autonomous Multi-Agent AI Workforce, Business Telephony & Omnichannel Platform):** Multi-tenant enterprise workforce deploying autonomous AI employees across inbound/outbound phone lines, live voice/video meetings, and 11+ messaging channels; automates reception, lead qualification, booking, order/delivery tracking, catalog/inventory inquiries, invoicing, outbound campaigns, and human handoffs with live whisper coaching, native Bangla & multilingual fluency, RBAC, approval-gated actions, and full audit trails.
+- **MedOps CareLoop, HMS (Closed-Loop Population Health & Multi-Tenant Hospital Platform):** Eliminates patient drop-off from abnormal diagnostic screening to definitive treatment via automated abnormal result flagging, SLA-tracked clinical ownership, a 7-stage care workflow, bilateral specialist referrals, 5-gate evidence-backed case closure, physician-supervised clinical communications, automated prescription contraindication safety checks, hospital isolation, and immutable clinical audit logs.
+- **Upstra Interpreter (Enterprise Bidirectional Telephone Interpretation Platform):** Self-hosted enterprise telephone interpretation solution enabling natural, real-time two-way voice interpretation between customers and human operators on live phone calls, complete with enterprise telephony security compliance, operator and call capacity management, live operational dashboards, health monitoring, and durable administrative/call audit records.
+- **Live Voice Translation Platform:** Globally distributed real-time speech-to-speech voice translation across 50+ languages with sub-300ms latency over web and mobile phone numbers.
+- **CropMind (Top 10 of 192,660 — Google Cloud Gen AI Academy APAC 2026 Grand Finale):** Autonomous multi-agent agritech platform delivering crop disease visual diagnostics, weather-aware yield forecasting, and multilingual APAC advisory (only Bangladeshi in the official Top 10).
+- **Enterprise Multi-Tenant Grounded Search & RAG Platform:** Serves 100,000+ daily queries across 50,000+ enterprise documents at 99%+ precision with strict tenant access controls and inline citations.
+- **Bangla-First & Multilingual Voice AI Contact Center:** 24/7 automated telephony customer support with sub-200ms response and up to 60% support cost reduction.
+- **Banking KYC Face Match, FaceTrack AI & Sovereign Document Suite:** Multi-tenant digital identity verification, 20-year age-invariant attendance with liveness anti-spoofing (28+ APIs), GuardZone security monitoring, WorkStation analytics, LunchGate cafeteria AI, Conversational BI, Bangladesh NID e-KYC (10 fields), Mushok 6.3 VAT automation (23 fields), and Medical Prescription matching.
+- **McKrishiSheba Multimodal Agri-Advisor:** Bangla voice and visual crop advisory reducing AI operating cost by 66–83%.
+- **Open-Source Cybersecurity & ML Benchmarks:** Explainable Network Intrusion Detection (`99.87%` accuracy on `2.8M+` CIC-IDS-2017 records: `https://github.com/brlikhon/Network-Intrusion-dataset-CIC-IDS--2017-`), `Zero-to-MLOps`, `devops-cloud`, `AI-for-Medicine`, and `Predict-Bike-Sharing-Demand-with-AutoGluon`.
 
-- **CropMind (Google Cloud Gen AI Academy APAC 2026 Grand Finale — Top 10 of 192,660):** Autonomous multi-agent agritech platform built with `LangGraph`, `Gemini 2.5`, computer vision, RAG, `Cloud Run`, `BigQuery`, and `Vertex AI`; recognized as the only Bangladeshi in the official APAC Top 10.
-- **Enterprise Multi-Tenant RAG Platform:** Production vector search serving **100K+ queries/day** across 50K+ documents with **99%+ retrieval accuracy** and strict tenant isolation.
-- **Bangla-First Voice AI Call Center:** Real-time conversational telephony bridge (`Twilio` + `FastAPI` + `Gemini Live API`) achieving **<200ms latency** and **60% support cost reduction**.
-- **Banking KYC, FaceTrack AI & Sovereign Document Suite:** Multi-tenant identity verification, 28+ attendance/biometric REST APIs, bilingual Bangladesh NID OCR, and 23-field Mushok VAT invoice automation.
-- **McKrishiSheba Agricultural AI:** HNSW `pgvector` search + Bangla STT/TTS advisory system that reduced LLM inference costs by **66–83%**.
-- **Explainable Network Intrusion Detection ([Public Repo](https://github.com/brlikhon/Network-Intrusion-dataset-CIC-IDS--2017-)):** 12-model ML pipeline on **2.8M+ CIC-IDS-2017 records** classifying 15 attack types at **99.87% accuracy** and **99.99% ROC-AUC** with `SHAP` & `LIME` forensic explainability.
-- **InsureCow Serverless Cattle Muzzle Identification:** Migrated computer-vision livestock underwriting inference to `AWS Lambda`, cutting infrastructure cost by **70%**.
+## Flagship Certifications (9x Google Cloud · 6x Microsoft Azure · 3x Oracle OCI · 325+ Total)
 
-## Key Verified Certifications (Selected from 300+ Credentials)
-
-- **Google Cloud:** Professional Machine Learning Engineer, Professional Data Engineer ([Verify](https://www.credly.com/badges/59f867db-e18f-4a2b-a96b-05aff38df989)), Professional Cloud DevOps Engineer, Professional Cloud Database Engineer, Professional Cloud Security Engineer, Professional Security Operations Engineer, Associate Cloud Engineer, Generative AI Leader ([Verify](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23)), Cloud Digital Leader, Build with Vertex Technical Expert ([Verify](https://www.credly.com/badges/38364315-b8b0-4d44-81bb-d803e63c6869)), AI/ML Pre-sales Technical Expert ([Verify](https://www.credly.com/badges/81abfe83-be0f-492e-a4e1-aeb1a244d4f0)), Google SecOps Technical Credential ([Verify](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq)).
-- **Microsoft Azure:** Azure DevOps Engineer Expert AZ-400 ([Verify](https://learn.microsoft.com/en-us/users/MdBazlurRahmanLikhon-5970/credentials/C138807F533113A8)), Azure AI Engineer Associate AI-102 ([Verify](https://learn.microsoft.com/en-us/users/MdBazlurRahmanLikhon-5970/credentials/1DC091F8F58E3EC9)), Azure Developer Associate AZ-204, Fabric Data Engineer Associate DP-700, Azure Fundamentals, Azure AI Fundamentals.
-- **Oracle, AWS, Linux Foundation & Academic:** OCI Generative AI Certified Professional, OCI 2025 AI Foundations Associate, AWS ML Scholarship Nanodegree ([Verify](https://confirm.udacity.com/UZMN7LMD)), Future AWS BI Engineer ([Verify](https://www.udacity.com/certificate/e/44b74c5a-8144-11f0-a95d-d3cccc1aea34)), IBM RAG & Agentic AI Professional ([Verify](https://www.coursera.org/account/accomplishments/professional-cert/W140J0VFBSGP)), Proofpoint Certified AI Data Security Specialist ([Verify](https://www.credly.com/badges/f9ef6d50-15e6-4b1b-94ad-b5a3b52bc405)), GitHub Foundations ([Verify](https://www.credly.com/badges/6646c106-73a1-41f3-a658-41b27fef27a2)), Linux Foundation Kubernetes & Cloud Native Certificate, plus HarvardX, Stanford Online, ColumbiaX, and DeepLearning.AI specializations.
-
-## Awards & Honors
-
-- **Top 10 Global Finalist (of 192,660)** — Google Cloud Gen AI Academy APAC 2026 Grand Finale (*Only Bangladeshi in Top 10*)
-- **Judge & VCP Champion** — THE INFINITY AI BUILDFEST (2026; evaluated 208 AI solutions & built a production solution in 1 hour)
-- **Top 5 Winner** — VIBE Coding to Production Challenge (Representing UPSTRA Communications Ltd., featured in *The Daily Star*)
-- **Top 50 Achiever** — Google Cloud Gen AI Academy APAC Edition (Google Cloud & Hack2skill)
-- **AWS AI & ML Scholar ($4,000 Nanodegree)** — AWS & Udacity
-- **Next Generation Tech Booster Scholar** — Bertelsmann
-- **Google Cloud Community Top Contributor**
-
-## Consulting & Engagement
-
-Available for global remote consulting, architecture advisory, fixed-scope enterprise AI delivery ($5K–$50K packages), and senior/principal leadership roles across the USA, UK, EU, Japan, China, Australia, and Bangladesh.
+- **Google Cloud (9x Certified):** Professional Machine Learning Engineer ([Verify](https://www.credly.com/badges/24cbf5fd-fa4f-46a3-9ff2-12343dcdd5a6/public_url)), Professional Data Engineer ([Verify](https://www.credly.com/badges/58e3a7fe-56cc-46d7-8891-3b2cd3e5d9af/public_url)), Professional Cloud DevOps Engineer ([Verify](https://www.credly.com/badges/45dd6608-de12-4c3b-b181-0ff41dc53565/public_url)), Professional Cloud Database Engineer ([Verify](https://www.credly.com/badges/c86112e5-7b02-4195-ba03-a927de170e22/public_url)), Professional Cloud Security Engineer ([Verify](https://www.credly.com/badges/32fb9a55-65b9-4b3f-8f15-3497507af6fd/public_url)), Professional Security Operations Engineer ([Verify](https://www.credly.com/badges/0448f773-917f-4a71-9bbb-eef88d0950a1/public_url)), Associate Cloud Engineer ([Verify](https://www.credly.com/badges/2524f065-dec4-4a03-9cb1-76fd91aebb01/public_url)), Generative AI Leader ([Verify](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23/public_url)), Cloud Digital Leader ([Verify](https://www.credly.com/badges/25ae8729-ea2c-4a3b-884c-7369709930c8/public_url)), plus Google SecOps Technical Credential, Build with Vertex Technical Expert, and AI/ML Pre-sales Technical Expert.
+- **Microsoft Azure (6x Certified):** DevOps Engineer Expert AZ-400 ([Verify](https://learn.microsoft.com/api/credentials/share/en-us/MdBazlurRahmanLikhon-5970/C138807F533113A8?sharingId=E46BBB4F9E6F75AA)), Azure AI Engineer Associate AI-102 ([Verify](https://learn.microsoft.com/api/credentials/share/en-us/MdBazlurRahmanLikhon-5970/1DC091F8F58E3EC9?sharingId=E46BBB4F9E6F75AA)), Azure Developer Associate AZ-204 ([Verify](https://learn.microsoft.com/api/credentials/share/en-us/MdBazlurRahmanLikhon-5970/CB7F86B9BE58A28C)), Fabric Data Engineer Associate DP-700 ([Verify](https://learn.microsoft.com/api/credentials/share/en-us/MdBazlurRahmanLikhon-5970/CEFBD11D541BADCE?sharingId=E46BBB4F9E6F75AA)), Azure Fundamentals, and Azure AI Fundamentals.
+- **Oracle, AWS, Linux Foundation & Global Universities:** Oracle OCI 2024 Generative AI Certified Professional ([Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2365554B1181AA97E25327941B26728A36AAF4F8F2DB32C7869FA9EE5E17788F)), OCI 2025 AI Foundations Associate, OCI Foundations Associate, Proofpoint AI Data Security Specialist 2025, Linux Foundation Kubernetes & DevOps Professional Certificates, IBM RAG & Agentic AI, DeepLearning.AI MLOps & AI for Medicine, AWS ML Scholarship Nanodegree, Stanford ML Specialization, and 43 Harvard University certificates. Full list in `CERTIFICATIONS.md`.
