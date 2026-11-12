@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="heroTitleDark heroDescDark">
+  <title id="heroTitleDark">Md Bazlur Rahman Likhon — Senior Cloud &amp; AI Architect</title>
+  <desc id="heroDescDark">Executive portfolio banner for Md Bazlur Rahman Likhon, Senior Cloud and AI Engineer specializing in Enterprise RAG, Agentic AI, Voice AI, Computer Vision, and Multi-Cloud DevSecOps across GCP, Azure, AWS, and Oracle Cloud.</desc>
+  <defs>
+    <linearGradient id="bgDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="55%" stop-color="#0D1424"/>
+      <stop offset="100%" stop-color="#09101D"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="20%" cy="25%" r="55%">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowIndigo" cx="88%" cy="18%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <pattern id="gridDark" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94A3B8" stroke-width="0.6" stroke-opacity="0.08"/>
+    </pattern>
+    <clipPath id="avatarClipDark">
+      <circle cx="156" cy="154" r="78"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer Card -->
+  <rect x="2" y="2" width="1196" height="336" rx="22" fill="url(#bgDark)" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="2" y="2" width="1196" height="336" rx="22" fill="url(#gridDark)"/>
+  <rect x="2" y="2" width="1196" height="336" rx="22" fill="url(#glowCyan)"/>
+  <rect x="2" y="2" width="1196" height="336" rx="22" fill="url(#glowIndigo)"/>
+
+  <!-- Subtle Top Accent Line -->
+  <rect x="290" y="2" width="320" height="2.5" rx="1.25" fill="url(#accentBar)"/>
+
+  <!-- Portrait Section -->
+  <circle cx="156" cy="154" r="85" fill="none" stroke="url(#ringGrad)" stroke-width="3"/>
+  <circle cx="156" cy="154" r="92" fill="none" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="156" cy="154" r="80" fill="#0F172A"/>
+  <image href="data:image/jpeg;base64,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" x="78" y="76" width="156" height="156" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClipDark)"/>
+
+  <!-- Availability Pill Under Portrait -->
+  <rect x="64" y="258" width="184" height="30" rx="15" fill="#064E3B" fill-opacity="0.45" stroke="#10B981" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="83" cy="273" r="4.5" fill="#10B981"/>
+  <text x="95" y="277" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#A7F3D0" letter-spacing="0.4">OPEN FOR CONSULTING</text>
+
+  <!-- Right Column Typography -->
+  <rect x="290" y="38" width="445" height="26" rx="13" fill="#0EA5E9" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="306" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#38BDF8" letter-spacing="1.4">SENIOR CLOUD &amp; AI ARCHITECT  ·  GCP PREMIER PARTNER</text>
+
+  <text x="290" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#F8FAFC" letter-spacing="-0.6">Md Bazlur Rahman Likhon</text>
+
+  <text x="290" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="17.5" font-weight="500" fill="#CBD5E1">Architecting Production Enterprise RAG, Agentic &amp; Voice AI, and Multi-Cloud Platforms</text>
+
+  <text x="290" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#94A3B8">Leading AI Engineering @ UPSTRA Communications Ltd.  ·  MSc InfoSec (BUP)  ·  USA, UK, EU, Japan &amp; APAC</text>
+
+  <!-- Divider -->
+  <line x1="290" y1="194" x2="1148" y2="194" stroke="#1E293B" stroke-width="1.2"/>
+
+  <!-- 4 Bento KPI Cards -->
+  <g transform="translate(290, 214)">
+    <rect x="0" y="0" width="202" height="84" rx="14" fill="#111827" fill-opacity="0.82" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="20" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="25" font-weight="800" fill="#38BDF8">6+ Years</text>
+    <text x="20" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="12.5" font-weight="500" fill="#94A3B8">AI, Cloud &amp; DevSecOps</text>
+  </g>
+
+  <g transform="translate(508, 214)">
+    <rect x="0" y="0" width="202" height="84" rx="14" fill="#111827" fill-opacity="0.82" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="20" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="25" font-weight="800" fill="#A78BFA">300+ Verified</text>
+    <text x="20" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="12.5" font-weight="500" fill="#94A3B8">Cloud &amp; AI Credentials</text>
+  </g>
+
+  <g transform="translate(726, 214)">
+    <rect x="0" y="0" width="202" height="84" rx="14" fill="#111827" fill-opacity="0.82" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="20" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="25" font-weight="800" fill="#2DD4BF">35+ Systems</text>
+    <text x="20" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="12.5" font-weight="500" fill="#94A3B8">Shipped to Production</text>
+  </g>
+
+  <g transform="translate(944, 214)">
+    <rect x="0" y="0" width="204" height="84" rx="14" fill="#111827" fill-opacity="0.82" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="20" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="25" font-weight="800" fill="#FBBF24">Top 10 / 192K</text>
+    <text x="20" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="12.5" font-weight="500" fill="#94A3B8">Google GenAI APAC '26</text>
+  </g>
+</svg>

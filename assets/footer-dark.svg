@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 104" width="1200" height="104" role="img" aria-label="Md Bazlur Rahman Likhon Portfolio Footer">
+  <defs>
+    <linearGradient id="fBgDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="50%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#070B14"/>
+    </linearGradient>
+    <linearGradient id="fLineDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="25%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="75%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#070B14"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="1196" height="100" rx="18" fill="url(#fBgDark)" stroke="#1E293B" stroke-width="1.2"/>
+  <rect x="180" y="2" width="840" height="2" fill="url(#fLineDark)"/>
+  <text x="600" y="45" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="15.5" font-style="italic" font-weight="500" fill="#E2E8F0">"I don't just build AI demos — I engineer resilient production systems that transform enterprise operations."</text>
+  <text x="600" y="76" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="11.5" font-weight="700" fill="#64748B" letter-spacing="1.8">MD BAZLUR RAHMAN LIKHON (@BRLIKHON)  ·  DHAKA, BANGLADESH &amp; GLOBAL REMOTE</text>
+</svg>

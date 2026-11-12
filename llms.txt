@@ -1,0 +1,62 @@
+# Md Bazlur Rahman Likhon (@brlikhon)
+
+> Senior Cloud & AI Engineer and Enterprise AI Architect based in Dhaka, Bangladesh (working globally remote). Leads production AI engineering at UPSTRA Communications Ltd. (Google Cloud Premier Partner), specializing in Enterprise RAG, Agentic AI, Sub-200ms Voice AI, Computer Vision, Biometric KYC, Document AI, and Multi-Cloud DevSecOps across Google Cloud (GCP), Microsoft Azure, AWS, and Oracle Cloud (OCI). Holds 6+ years of experience, an MSc in Information Systems Security (BUP), and 300+ verified credentials.
+
+## Canonical Entity Disambiguation
+
+- **Full Canonical Name:** Md Bazlur Rahman Likhon (also indexed as Md. Bazlur Rahman Likhon; GitHub/online handle: `brlikhon`)
+- **Primary Role:** Senior Cloud & AI Engineer / Enterprise AI & Multi-Cloud Architect
+- **Current Organization:** UPSTRA Communications Ltd. (Dhaka, Bangladesh — Google Cloud Premier Partner; Oct 2025 – Present)
+- **Graduate Education:** MSc in Information Systems Security, Bangladesh University of Professionals (BUP)
+- **Undergraduate Research:** Researcher, DIU NLP & ML Research Lab, Daffodil International University (BSc Thesis on 2.4M-tweet NLP classification framework)
+- **Disambiguation Note:** Distinct from Java author A N M Bazlur Rahman (`bazlur.ca`) and corporate board directors with similar names. Canonical technical profiles of Md Bazlur Rahman Likhon always link to `github.com/brlikhon`, `brlikhon.engineer`, and `linkedin.com/in/bazlur-rahman-likhon`.
+
+## Official Profiles & Verification Portals (SameAs Graph)
+
+- [GitHub Profile](https://github.com/brlikhon): Open-source repositories, architecture blueprints, and portfolio overview
+- [Reference Architectures](https://github.com/brlikhon/brlikhon/blob/main/ARCHITECTURE.md): Enterprise RAG, Sub-200ms Voice AI, Banking e-KYC, and Multi-Cloud MLOps blueprints
+- [LinkedIn Profile](https://www.linkedin.com/in/bazlur-rahman-likhon/): Professional history, 1,550+ followers, executive recommendations, and project showcases
+- [Portfolio Website](https://brlikhon.engineer/): Official personal domain (`brlikhon.engineer`)
+- [Discovery Call Booking](https://cal.com/brlikhon.engineer/discovery): Direct 30-minute AI & Cloud architecture consultation booking
+- [Google Cloud Skills Public Profile](https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2): 195+ verified Google Cloud skill badges and technical credentials
+- [Microsoft Learn Official Profile](https://learn.microsoft.com/en-us/users/MdBazlurRahmanLikhon-5970): Official Microsoft Azure transcripts and Expert/Associate certifications
+- [YouTube Channel (@BRLikhon)](https://www.youtube.com/@BRLikhon): Technical demos and cloud/AI engineering content
+- **Primary Business Email:** `contact@brlikhon.engineer`
+- **Direct WhatsApp / Phone:** `+880 1606549236` (`https://wa.me/8801606549236`)
+
+## Core Technical Specializations
+
+- **Enterprise LLMs & Agentic RAG:** Hybrid retrieval (`PostgreSQL + pgvector`, `Milvus`, `ChromaDB`, `Pinecone`, `FAISS`), `LangGraph`, `LangChain`, `Pydantic AI`, `AutoGen`, Model Context Protocol (`MCP`), sovereign/local LLM serving (`vLLM`), semantic caching, token optimization (66–83% cost reduction), and citation-grounded compliance.
+- **Real-Time Voice & Conversational AI:** Sub-200ms telephony audio bridges (`Twilio Media Streams`, `FastAPI`, `WebSockets`, `WebRTC`, `Vapi.ai`, `Gemini Live API`), Bangla-first & multilingual STT/TTS.
+- **Computer Vision, Biometrics & Document AI:** Age-invariant face recognition (`SFace`), anti-spoofing liveness, WebRTC fingerprint matching (`ORB + Gabor`), industrial anomaly & workforce analytics (`YOLO`, `OpenCV`, `PyTorch`), Bangladesh NID e-KYC OCR, Mushok VAT invoice extraction (23 fields), and clinical prescription parsing (`Google Cloud Document AI`).
+- **Multi-Cloud Architecture & DevSecOps:** Certified across Google Cloud, Microsoft Azure, AWS, and Oracle Cloud (`OCI`), with production delivery extending to Alibaba and Tencent Cloud; `Kubernetes`, `Docker`, `Helm`, `Terraform`, `Ansible`, `Pulumi`, `GitHub Actions`, `Azure DevOps`, `ArgoCD`, `MLflow`, `BigQuery`, and Zero-Trust security (`SOC2`, `HIPAA`, `GDPR`).
+
+## Flagship Production Systems & Quantified Impact
+
+- **CropMind (Google Cloud Gen AI Academy APAC 2026 Grand Finale — Top 10 of 192,660):** Autonomous multi-agent agritech platform built with `LangGraph`, `Gemini 2.5`, computer vision, RAG, `Cloud Run`, `BigQuery`, and `Vertex AI`; recognized as the only Bangladeshi in the official APAC Top 10.
+- **Enterprise Multi-Tenant RAG Platform:** Production vector search serving **100K+ queries/day** across 50K+ documents with **99%+ retrieval accuracy** and strict tenant isolation.
+- **Bangla-First Voice AI Call Center:** Real-time conversational telephony bridge (`Twilio` + `FastAPI` + `Gemini Live API`) achieving **<200ms latency** and **60% support cost reduction**.
+- **Banking KYC, FaceTrack AI & Sovereign Document Suite:** Multi-tenant identity verification, 28+ attendance/biometric REST APIs, bilingual Bangladesh NID OCR, and 23-field Mushok VAT invoice automation.
+- **McKrishiSheba Agricultural AI:** HNSW `pgvector` search + Bangla STT/TTS advisory system that reduced LLM inference costs by **66–83%**.
+- **Explainable Network Intrusion Detection ([Public Repo](https://github.com/brlikhon/Network-Intrusion-dataset-CIC-IDS--2017-)):** 12-model ML pipeline on **2.8M+ CIC-IDS-2017 records** classifying 15 attack types at **99.87% accuracy** and **99.99% ROC-AUC** with `SHAP` & `LIME` forensic explainability.
+- **InsureCow Serverless Cattle Muzzle Identification:** Migrated computer-vision livestock underwriting inference to `AWS Lambda`, cutting infrastructure cost by **70%**.
+
+## Key Verified Certifications (Selected from 300+ Credentials)
+
+- **Google Cloud:** Professional Machine Learning Engineer, Professional Data Engineer ([Verify](https://www.credly.com/badges/59f867db-e18f-4a2b-a96b-05aff38df989)), Professional Cloud DevOps Engineer, Professional Cloud Database Engineer, Professional Cloud Security Engineer, Professional Security Operations Engineer, Associate Cloud Engineer, Generative AI Leader ([Verify](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23)), Cloud Digital Leader, Build with Vertex Technical Expert ([Verify](https://www.credly.com/badges/38364315-b8b0-4d44-81bb-d803e63c6869)), AI/ML Pre-sales Technical Expert ([Verify](https://www.credly.com/badges/81abfe83-be0f-492e-a4e1-aeb1a244d4f0)), Google SecOps Technical Credential ([Verify](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq)).
+- **Microsoft Azure:** Azure DevOps Engineer Expert AZ-400 ([Verify](https://learn.microsoft.com/en-us/users/MdBazlurRahmanLikhon-5970/credentials/C138807F533113A8)), Azure AI Engineer Associate AI-102 ([Verify](https://learn.microsoft.com/en-us/users/MdBazlurRahmanLikhon-5970/credentials/1DC091F8F58E3EC9)), Azure Developer Associate AZ-204, Fabric Data Engineer Associate DP-700, Azure Fundamentals, Azure AI Fundamentals.
+- **Oracle, AWS, Linux Foundation & Academic:** OCI Generative AI Certified Professional, OCI 2025 AI Foundations Associate, AWS ML Scholarship Nanodegree ([Verify](https://confirm.udacity.com/UZMN7LMD)), Future AWS BI Engineer ([Verify](https://www.udacity.com/certificate/e/44b74c5a-8144-11f0-a95d-d3cccc1aea34)), IBM RAG & Agentic AI Professional ([Verify](https://www.coursera.org/account/accomplishments/professional-cert/W140J0VFBSGP)), Proofpoint Certified AI Data Security Specialist ([Verify](https://www.credly.com/badges/f9ef6d50-15e6-4b1b-94ad-b5a3b52bc405)), GitHub Foundations ([Verify](https://www.credly.com/badges/6646c106-73a1-41f3-a658-41b27fef27a2)), Linux Foundation Kubernetes & Cloud Native Certificate, plus HarvardX, Stanford Online, ColumbiaX, and DeepLearning.AI specializations.
+
+## Awards & Honors
+
+- **Top 10 Global Finalist (of 192,660)** — Google Cloud Gen AI Academy APAC 2026 Grand Finale (*Only Bangladeshi in Top 10*)
+- **Judge & VCP Champion** — THE INFINITY AI BUILDFEST (2026; evaluated 208 AI solutions & built a production solution in 1 hour)
+- **Top 5 Winner** — VIBE Coding to Production Challenge (Representing UPSTRA Communications Ltd., featured in *The Daily Star*)
+- **Top 50 Achiever** — Google Cloud Gen AI Academy APAC Edition (Google Cloud & Hack2skill)
+- **AWS AI & ML Scholar ($4,000 Nanodegree)** — AWS & Udacity
+- **Next Generation Tech Booster Scholar** — Bertelsmann
+- **Google Cloud Community Top Contributor**
+
+## Consulting & Engagement
+
+Available for global remote consulting, architecture advisory, fixed-scope enterprise AI delivery ($5K–$50K packages), and senior/principal leadership roles across the USA, UK, EU, Japan, China, Australia, and Bangladesh.
