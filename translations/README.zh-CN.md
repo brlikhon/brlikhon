@@ -14,14 +14,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="../assets/hero-light.svg" />
-  <img alt="Md Bazlur Rahman Likhon — 企业级 AI 工程师 (Gemini Enterprise Agent Engineer) · 高级云计算与人工智能工程师 · AI 工程负责人" src="../assets/hero-dark.svg" width="100%" />
+  <img alt="Md Bazlur Rahman Likhon (@brlikhon) — 企业级 AI 工程师, AI Engineer, Senior AI Engineer, Enterprise Agent Engineer, Senior Cloud and AI Engineer" src="../assets/hero-dark.svg" width="100%" />
 </picture>
 
-<h1 align="center">AI 工程师 (Gemini Enterprise Agent Engineer) · 高级云与 AI 工程师 · AI 工程负责人</h1>
+<h1 align="center">Md Bazlur Rahman Likhon — 企业级 AI 与云架构负责人 · AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer</h1>
 
 <p align="center">
   <a href="https://cal.com/brlikhon.engineer/discovery"><img src="https://img.shields.io/badge/预约企业级产品演示-Cal.com-111827?style=for-the-badge&logo=calendly&logoColor=38BDF8" alt="预约企业级 AI 产品实时演示或架构咨询" /></a>
   <a href="https://www.linkedin.com/in/bazlur-rahman-likhon/"><img src="https://img.shields.io/badge/LinkedIn-1.5K%2B_专业人脉-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="在 LinkedIn 上联系 Md Bazlur Rahman Likhon" /></a>
+  <a href="https://medium.com/@br.likhon"><img src="https://img.shields.io/badge/Medium-技术专栏-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="在 Medium 阅读 AI 工程技术文章" /></a>
   <a href="https://wa.me/8801606549236"><img src="https://img.shields.io/badge/WhatsApp-在线沟通-059669?style=for-the-badge&logo=whatsapp&logoColor=white" alt="通过 WhatsApp 联系" /></a>
   <a href="mailto:contact@brlikhon.engineer?subject=Enterprise%20AI%20Product%20Demo%20Inquiry"><img src="https://img.shields.io/badge/商务邮箱-contact%40brlikhon.engineer-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="发送邮件至 contact@brlikhon.engineer" /></a>
   <a href="../CERTIFICATIONS.md"><img src="https://img.shields.io/badge/官方证书库-325%2B_权威认证链接-0D9488?style=for-the-badge&logo=checkmarx&logoColor=white" alt="查看全部 325+ 项官方权威证书验证链接" /></a>

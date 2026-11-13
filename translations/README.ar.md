@@ -14,14 +14,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="../assets/hero-light.svg" />
-  <img alt="محمد بزلور رحمن ليخون — مهندس ذكاء اصطناعي مؤسسي (Gemini Enterprise) ورئيس هندسة الذكاء الاصطناعي" src="../assets/hero-dark.svg" width="100%" />
+  <img alt="محمد بزلور رحمن ليخون (Md Bazlur Rahman Likhon, @brlikhon) — AI Engineer, Senior AI Engineer, Enterprise Agent Engineer, Senior Cloud and AI Engineer" src="../assets/hero-dark.svg" width="100%" />
 </picture>
 
-<h1 align="center" dir="rtl">مهندس ذكاء اصطناعي (Gemini Enterprise Agent Engineer) · مهندس أول للسحابة والذكاء الاصطناعي · رئيس هندسة الذكاء الاصطناعي</h1>
+<h1 align="center" dir="rtl">محمد بزلور رحمن ليخون (Md Bazlur Rahman Likhon) — مهندس ذكاء اصطناعي (AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer)</h1>
 
 <p align="center">
   <a href="https://cal.com/brlikhon.engineer/discovery"><img src="https://img.shields.io/badge/Request_Enterprise_Demo-Cal.com-111827?style=for-the-badge&logo=calendly&logoColor=38BDF8" alt="احجز عرضاً تجريبياً مباشراً للمنتجات المؤسسية أو استشارة مع محمد بزلور رحمن ليخون" /></a>
   <a href="https://www.linkedin.com/in/bazlur-rahman-likhon/"><img src="https://img.shields.io/badge/LinkedIn-1.5K%2B_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="تواصل عبر LinkedIn" /></a>
+  <a href="https://medium.com/@br.likhon"><img src="https://img.shields.io/badge/Medium-Engineering_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="مقالات هندسة الذكاء الاصطناعي على Medium" /></a>
   <a href="https://wa.me/8801606549236"><img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-059669?style=for-the-badge&logo=whatsapp&logoColor=white" alt="تواصل مباشر عبر WhatsApp" /></a>
   <a href="mailto:contact@brlikhon.engineer?subject=Enterprise%20AI%20Product%20Demo%20Inquiry"><img src="https://img.shields.io/badge/Email-contact%40brlikhon.engineer-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="البريد الإلكتروني الرسمي" /></a>
   <a href="../CERTIFICATIONS.md"><img src="https://img.shields.io/badge/Verified_Registry-325%2B_Certifications-0D9488?style=for-the-badge&logo=checkmarx&logoColor=white" alt="سجل الشهادات المعتمدة الكامل (أكثر من 325 شهادة)" /></a>

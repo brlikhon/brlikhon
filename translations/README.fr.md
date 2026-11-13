@@ -14,14 +14,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="../assets/hero-light.svg" />
-  <img alt="Md Bazlur Rahman Likhon — Ingénieur IA (Gemini Enterprise Agent Engineer) et Directeur de l'Ingénierie IA" src="../assets/hero-dark.svg" width="100%" />
+  <img alt="Md Bazlur Rahman Likhon (@brlikhon) — Ingénieur IA, AI Engineer, Senior AI Engineer, Enterprise Agent Engineer, Senior Cloud and AI Engineer" src="../assets/hero-dark.svg" width="100%" />
 </picture>
 
-<h1 align="center">Ingénieur IA (Gemini Enterprise Agent Engineer) · Ingénieur Senior Cloud &amp; IA · Directeur de l'Ingénierie IA</h1>
+<h1 align="center">Md Bazlur Rahman Likhon — Ingénieur IA &amp; Senior Cloud · AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer</h1>
 
 <p align="center">
   <a href="https://cal.com/brlikhon.engineer/discovery"><img src="https://img.shields.io/badge/Demander_une_D%C3%A9mo_Entreprise-Cal.com-111827?style=for-the-badge&logo=calendly&logoColor=38BDF8" alt="Demander une démonstration produit en direct ou réserver un appel avec Md Bazlur Rahman Likhon" /></a>
   <a href="https://www.linkedin.com/in/bazlur-rahman-likhon/"><img src="https://img.shields.io/badge/LinkedIn-1.5K%2B_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Profil LinkedIn de Md Bazlur Rahman Likhon" /></a>
+  <a href="https://medium.com/@br.likhon"><img src="https://img.shields.io/badge/Medium-Articles_IA-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Articles d'ingénierie IA sur Medium" /></a>
   <a href="https://wa.me/8801606549236"><img src="https://img.shields.io/badge/WhatsApp-Direct-059669?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contacter sur WhatsApp" /></a>
   <a href="mailto:contact@brlikhon.engineer?subject=Demande%20de%20D%C3%A9mo%20IA%20Entreprise"><img src="https://img.shields.io/badge/Email-contact%40brlikhon.engineer-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Envoyer un e-mail à contact@brlikhon.engineer" /></a>
   <a href="../CERTIFICATIONS.md"><img src="https://img.shields.io/badge/Registre_V%C3%A9rifi%C3%A9-325%2B_Certifications-0D9488?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Consulter les 325+ certifications vérifiées" /></a>

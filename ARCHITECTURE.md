@@ -6,7 +6,7 @@
 
 # Enterprise AI Governance, Responsible AI & Security Standards
 
-**Principal Lead:** [Md Bazlur Rahman Likhon](https://github.com/brlikhon) — AI Engineer (Gemini Enterprise Agent Engineer) | Senior Cloud & AI Engineer | Head of AI Engineering at **Upstra Communications Limited** *(Google Cloud Premier Partner)*
+**Principal Lead:** [Md Bazlur Rahman Likhon](https://github.com/brlikhon) (`@brlikhon`) — **AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer · Head of AI Engineering** at **[Upstra Communications Limited](https://upstra.com)** *(Google Cloud Premier Partner)*
 
 > **Commercial Intellectual Property Notice:** To safeguard client confidentiality and proprietary product IP across commercial enterprise deployments, internal system mechanics are never disclosed publicly. Technical architecture reviews are conducted exclusively under executive engagement during scheduled **[Enterprise Product Demos](https://cal.com/brlikhon.engineer/discovery)**.
 

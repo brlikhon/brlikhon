@@ -14,14 +14,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="../assets/hero-light.svg" />
-  <img alt="মোঃ বজলুর রহমান লিখন — এআই ইঞ্জিনিয়ার (Gemini Enterprise Agent Engineer) ও হেড অব এআই ইঞ্জিনিয়ারিং" src="../assets/hero-dark.svg" width="100%" />
+  <img alt="মোঃ বজলুর রহমান লিখন (Md Bazlur Rahman Likhon, @brlikhon) — AI Engineer, Senior AI Engineer, Enterprise Agent Engineer, Senior Cloud and AI Engineer" src="../assets/hero-dark.svg" width="100%" />
 </picture>
 
-<h1 align="center">AI Engineer (Gemini Enterprise Agent Engineer) · Senior Cloud &amp; AI Engineer · Head of AI Engineering</h1>
+<h1 align="center">মোঃ বজলুর রহমান লিখন (Md Bazlur Rahman Likhon) — AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer</h1>
 
 <p align="center">
   <a href="https://cal.com/brlikhon.engineer/discovery"><img src="https://img.shields.io/badge/Request_Enterprise_Demo-Cal.com-111827?style=for-the-badge&logo=calendly&logoColor=38BDF8" alt="এন্টারপ্রাইজ প্রোডাক্ট লাইভ ডেমো বা কনসালটেশন বুক করুন" /></a>
   <a href="https://www.linkedin.com/in/bazlur-rahman-likhon/"><img src="https://img.shields.io/badge/LinkedIn-1.5K%2B_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="লিঙ্কডইনে যুক্ত হোন" /></a>
+  <a href="https://medium.com/@br.likhon"><img src="https://img.shields.io/badge/Medium-Engineering_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="মিডিয়ামে এআই ইঞ্জিনিয়ারিং প্রবন্ধ পড়ুন" /></a>
   <a href="https://wa.me/8801606549236"><img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-059669?style=for-the-badge&logo=whatsapp&logoColor=white" alt="হোয়াটসঅ্যাপে যোগাযোগ করুন" /></a>
   <a href="mailto:contact@brlikhon.engineer?subject=Enterprise%20AI%20Product%20Demo%20Inquiry"><img src="https://img.shields.io/badge/Email-contact%40brlikhon.engineer-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="ইমেইল পাঠান" /></a>
   <a href="../CERTIFICATIONS.md"><img src="https://img.shields.io/badge/Verified_Registry-325%2B_Certifications-0D9488?style=for-the-badge&logo=checkmarx&logoColor=white" alt="সকল ৩২৫+ ভেরিফায়েড সার্টিফিকেশন দেখুন" /></a>

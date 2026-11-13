@@ -3,7 +3,7 @@
 🌐 **Portfolio Languages:** [**English**](./README.md) &nbsp;·&nbsp; [**বাংলা**](./translations/README.bn.md) &nbsp;·&nbsp; [**العربية**](./translations/README.ar.md) &nbsp;·&nbsp; [**Français**](./translations/README.fr.md) &nbsp;·&nbsp; [**Deutsch**](./translations/README.de.md) &nbsp;·&nbsp; [**简体中文**](./translations/README.zh-CN.md) &nbsp;·&nbsp; [**日本語**](./translations/README.ja.md)
 
 # Verified Certifications & Official Credentials Registry
-### Md Bazlur Rahman Likhon (`@brlikhon`) — AI Engineer (Gemini Enterprise Agent Engineer) | Senior Cloud & AI Engineer
+### Md Bazlur Rahman Likhon (`@brlikhon`) — AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer · Head of AI Engineering
 
 <p>
   <a href="https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2"><img src="https://img.shields.io/badge/Google_Cloud_Public_Profile-195%2B_Official_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Verify 195+ Official Google Cloud Badges" /></a>
@@ -24,9 +24,9 @@
 | 1 | **Microsoft Certified: DevOps Engineer Expert** | Microsoft | Oct 2026 · Expires Oct 2027 | [🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/MdBazlurRahmanLikhon-5970/C138807F533113A8?sharingId=E46BBB4F9E6F75AA) (`C138807F533113A8`) |
 | 2 | **Professional Cloud DevOps Engineer Certification** | Google | Sep 2026 · Expires Sep 2028 | [🔗 Verify Credential](https://www.credly.com/badges/45dd6608-de12-4c3b-b181-0ff41dc53565/public_url) |
 | 3 | **Microsoft Certified: Azure Developer Associate** | Microsoft | Jul 2026 · Expires Aug 2027 | [🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/MdBazlurRahmanLikhon-5970/CB7F86B9BE58A28C) (`CB7F86B9BE58A28C`) |
-| 4 | **Professional Cloud Security Engineer Certification** | Google | May 2026 · Expires May 2028 | [🔗 Verify Credential](https://www.credly.com/badges/32fb9a55-65b9-4b3f-8f15-3497507af6fd/public_url) |
+| 4 | **Professional Cloud Security Engineer Certification** | Google | May 2026 · Expires May 2028 | [🔗 Verify Credential](https://www.credly.com/badges/de44a18a-3ddb-430d-8f1d-fe3201f07e9c/public_url) |
 | 5 | **Professional Security Operations Engineer Certification** | Google | Apr 2026 · Expires Apr 2028 | [🔗 Verify Credential](https://www.credly.com/badges/0448f773-917f-4a71-9bbb-eef88d0950a1/public_url) |
-| 6 | **Professional Machine Learning Engineer Certification** | Google | Apr 2026 · Expires Apr 2028 | [🔗 Verify Credential](https://www.credly.com/badges/24cbf5fd-fa4f-46a3-9ff2-12343dcdd5a6/public_url) |
+| 6 | **Professional Machine Learning Engineer Certification** | Google | Apr 2026 · Expires Apr 2028 | [🔗 Verify Credential](https://www.credly.com/badges/83edfbf1-d862-44a4-a14d-290bf3f968d1/public_url) |
 | 7 | **Microsoft Certified: Azure AI Engineer Associate** | Microsoft | Dec 2025 · Expires Dec 2026 | [🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/MdBazlurRahmanLikhon-5970/1DC091F8F58E3EC9?sharingId=E46BBB4F9E6F75AA) (`1DC091F8F58E3EC9`) |
 | 8 | **Microsoft Certified: Fabric Data Engineer Associate** | Microsoft | Feb 2026 · Expires Feb 2027 | [🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/MdBazlurRahmanLikhon-5970/CEFBD11D541BADCE?sharingId=E46BBB4F9E6F75AA) (`CEFBD11D541BADCE`) |
 | 9 | **Professional Cloud Database Engineer Certification** | Google | Feb 2026 · Expires Feb 2028 | [🔗 Verify Credential](https://www.credly.com/badges/c86112e5-7b02-4195-ba03-a927de170e22/public_url) (`01f12d3f379845...`) |
@@ -34,14 +34,14 @@
 | 11 | **AI/ML Pre-sales Technical Expert Badge** | Google | Dec 2025 · Expires Dec 2026 | [🔗 Verify Credential](https://www.credly.com/badges/81abfe83-be0f-492e-a4e1-aeb1a244d4f0/public_url) (`81abfe83-be0f-...`) |
 | 12 | **Professional Data Engineer Certification** | Google | Dec 2025 · Expires Dec 2027 | [🔗 Verify Credential](https://www.credly.com/badges/58e3a7fe-56cc-46d7-8891-3b2cd3e5d9af/public_url) (`58e3a7fe-56cc-...`) |
 | 13 | **Proofpoint Certified AI Data Security Specialist 2025** | Proofpoint | Dec 2025 | [🔗 Verify Credential](https://www.credly.com/badges/f9ef6d50-15e6-4b1b-94ad-b5a3b52bc405/public_url) |
-| 14 | **Google Cloud SecOps Technical Credential Assessment** | Google | Nov 2025 · Expires Nov 2027 | [🔗 Verify Credential](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq) (`436076763`) |
+| 14 | **Google Cloud SecOps Technical Credential Assessment** | Google | Nov 2025 · Expires Nov 2027 | [🔗 Public Profile](https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2) · [Skillshop](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq) (`436076763`) |
 | 15 | **Google Cloud Certified Generative AI Leader** | Google | Nov 2025 · Expires Nov 2028 | [🔗 Verify Credential](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23/public_url) (`5c2ac0d1-884f-...`) |
 | 16 | **GitHub Foundations** | GitHub | Jan 2025 · Expires Jan 2028 | [🔗 Verify Credential](https://www.credly.com/badges/6646c106-73a1-41f3-a658-41b27fef27a2/public_url) |
-| 17 | **Associate Cloud Engineer Certification** | Google | Dec 2024 · Expires Dec 2027 | [🔗 Verify Credential](https://www.credly.com/badges/2524f065-dec4-4a03-9cb1-76fd91aebb01/public_url) |
+| 17 | **Associate Cloud Engineer Certification** | Google | Dec 2024 · Expires Dec 2027 | [🔗 Verify Credential](https://www.credly.com/badges/ce775908-dd39-4bbb-8e4b-4b26c0ec2e4a/public_url) |
 | 18 | **Microsoft Certified: Azure Fundamentals** | Microsoft | Jun 2024 | [🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/brlikhon/96BF4A11C5426874?sharingId=ED3BA04CBAEEB99B) (`991980361`) |
 | 19 | **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** | Oracle | Jun 2024 | [🔗 Verify Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2365554B1181AA97E25327941B26728A36AAF4F8F2DB32C7869FA9EE5E17788F) (`2365554B1181AA...`) |
 | 20 | **Microsoft Certified: Azure AI Fundamentals** | Microsoft | May 2024 | [🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/brlikhon/B73C0BF1D43BB79F?sharingId=ED3BA04CBAEEB99B) (`B73C0BF1D43BB79F`) |
-| 21 | **Cloud Digital Leader Certification** | Google Cloud | Apr 2024 | [🔗 Verify Credential](https://www.credly.com/badges/25ae8729-ea2c-4a3b-884c-7369709930c8/public_url) (`25ae8729-ea2c-...`) |
+| 21 | **Cloud Digital Leader Certification** | Google Cloud | Apr 2024 | [🔗 Verify Credential](https://www.credly.com/badges/ae5f2de2-50ad-45d8-8db9-537b80bcd323/public_url) (`25ae8729-ea2c-...`) |
 | 22 | **Cloud Digital Leader** | Google | Mar 2024 · Expires Mar 2027 | [🔗 Verify Credential](https://www.credential.net/b066eced-7070-4562-923b-09f0d8cdf27f) (`b066eced-7070-...`) |
 | 23 | **Google Advanced Data Analytics Professional Certificate** | Google | Jul 2023 | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/LJ7T7TWANNLB) (`LJ7T7TWANNLB`) |
 | 24 | **Cybersecurity Essentials LFC108** | The Linux Foundation | Jul 2023 | [🔗 Verify Credential](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/3143a877-940e-49ad-8d00-47f713d84438-md-bazlur-8c4cd94b-dee0-471b-b0ba-5e5eb74c475a-certificate.pdf) |
@@ -59,27 +59,27 @@
 | # | Credential Title | Issuing Authority | Issued / Validity | Direct Verification & ID |
 | :-: | :--- | :--- | :--- | :--- |
 | 1 | **Professional Cloud DevOps Engineer Certification** | Google | Sep 2026 · Expires Sep 2028 | [🔗 Verify Credential](https://www.credly.com/badges/45dd6608-de12-4c3b-b181-0ff41dc53565/public_url) |
-| 2 | **Professional Cloud Security Engineer Certification** | Google | May 2026 · Expires May 2028 | [🔗 Verify Credential](https://www.credly.com/badges/32fb9a55-65b9-4b3f-8f15-3497507af6fd/public_url) |
+| 2 | **Professional Cloud Security Engineer Certification** | Google | May 2026 · Expires May 2028 | [🔗 Verify Credential](https://www.credly.com/badges/de44a18a-3ddb-430d-8f1d-fe3201f07e9c/public_url) |
 | 3 | **Google AI** | Google | Apr 2026 | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/1QC4IJZP3T78) (`1QC4IJZP3T78`) |
 | 4 | **Professional Security Operations Engineer Certification** | Google | Apr 2026 · Expires Apr 2028 | [🔗 Verify Credential](https://www.credly.com/badges/0448f773-917f-4a71-9bbb-eef88d0950a1/public_url) |
-| 5 | **Professional Machine Learning Engineer Certification** | Google | Apr 2026 · Expires Apr 2028 | [🔗 Verify Credential](https://www.credly.com/badges/24cbf5fd-fa4f-46a3-9ff2-12343dcdd5a6/public_url) |
+| 5 | **Professional Machine Learning Engineer Certification** | Google | Apr 2026 · Expires Apr 2028 | [🔗 Verify Credential](https://www.credly.com/badges/83edfbf1-d862-44a4-a14d-290bf3f968d1/public_url) |
 | 6 | **CTS Jan 26 Badge** | Google | Feb 2026 | [🔗 Verify Credential](https://www.credly.com/badges/9724baad-cde5-4407-b55d-f4add292bec2/public_url) |
 | 7 | **Cloud Technical Series - OnBoard Edition** | Google Cloud Asia Pacific | Feb 2026 | [🔗 Verify Credential](https://googlecloudapac.accredible.com/416ce72b-eb4c-4ce4-a106-3795d69f3955) (`174338615`) |
 | 8 | **Professional Cloud Database Engineer Certification** | Google | Feb 2026 · Expires Feb 2028 | [🔗 Verify Credential](https://www.credly.com/badges/c86112e5-7b02-4195-ba03-a927de170e22/public_url) (`01f12d3f379845...`) |
 | 9 | **Build with Vertex Technical Expert** | Google | Jan 2026 | [🔗 Verify Credential](https://www.credly.com/badges/38364315-b8b0-4d44-81bb-d803e63c6869/public_url) |
 | 10 | **AI/ML Pre-sales Technical Expert Badge** | Google | Dec 2025 · Expires Dec 2026 | [🔗 Verify Credential](https://www.credly.com/badges/81abfe83-be0f-492e-a4e1-aeb1a244d4f0/public_url) (`81abfe83-be0f-...`) |
 | 11 | **Professional Data Engineer Certification** | Google | Dec 2025 · Expires Dec 2027 | [🔗 Verify Credential](https://www.credly.com/badges/58e3a7fe-56cc-46d7-8891-3b2cd3e5d9af/public_url) (`58e3a7fe-56cc-...`) |
-| 12 | **Google Cloud SecOps Technical Credential Assessment** | Google | Nov 2025 · Expires Nov 2027 | [🔗 Verify Credential](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq) (`436076763`) |
+| 12 | **Google Cloud SecOps Technical Credential Assessment** | Google | Nov 2025 · Expires Nov 2027 | [🔗 Public Profile](https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2) · [Skillshop](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq) (`436076763`) |
 | 13 | **Google Cloud Certified Generative AI Leader** | Google | Nov 2025 · Expires Nov 2028 | [🔗 Verify Credential](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23/public_url) (`5c2ac0d1-884f-...`) |
 | 14 | **Prepare Data for Looker Dashboards and Reports** | Google | Nov 2025 | [🔗 Verify Credential](https://www.skills.google/public_profiles/25a59cb7-cf28-41f1-8499-aca349b05609/badges/20045872) (`20045872`) |
 | 15 | **Google Cloud Security Summit (Asia Pacific)** | Google Cloud Security | Sep 2025 | [🔗 Verify Credential](https://www.credential.net/4b3086da-ed90-450f-8ec3-dd14591e4694) (`160630431`) |
 | 16 | **Advanced Large Language Model Agents MOOC, Spring 2025** | UC Berkeley, Google DeepMind, Meta FAIR | Jan 2025 · Expired Jul 2025 | [🔗 View on LinkedIn](https://www.linkedin.com/in/bazlur-rahman-likhon/details/certifications/) |
-| 17 | **Associate Cloud Engineer Certification** | Google | Dec 2024 · Expires Dec 2027 | [🔗 Verify Credential](https://www.credly.com/badges/2524f065-dec4-4a03-9cb1-76fd91aebb01/public_url) |
+| 17 | **Associate Cloud Engineer Certification** | Google | Dec 2024 · Expires Dec 2027 | [🔗 Verify Credential](https://www.credly.com/badges/ce775908-dd39-4bbb-8e4b-4b26c0ec2e4a/public_url) |
 | 18 | **Cloud Technical Series App Dev & Infrastructure Edition** | Google | Dec 2024 | [🔗 Verify Credential](https://www.credential.net/77660e90-a45f-4539-a786-f7cd08ace851) (`77660e90-a45f-...`) |
 | 19 | **Google Cloud Startup Summit (Asia Pacific)** | Google | Nov 2024 | [🔗 Verify Credential](https://www.credential.net/1b13ea92-47a3-45ad-bae0-07536077c425) |
 | 20 | **Google AI Essentials Badge** | Google | Jun 2024 | [🔗 Verify Credential](https://www.credly.com/go/w56Sei3TV56fABv4iqkJqA) (`w56Sei3TV56fABv4iqkJqA`) |
 | 21 | **Google AI Essentials** | Google | Jun 2024 | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/records/9HL5P3877ATJ) (`9HL5P3877ATJ`) |
-| 22 | **Cloud Digital Leader Certification** | Google Cloud | Apr 2024 | [🔗 Verify Credential](https://www.credly.com/badges/25ae8729-ea2c-4a3b-884c-7369709930c8/public_url) (`25ae8729-ea2c-...`) |
+| 22 | **Cloud Digital Leader Certification** | Google Cloud | Apr 2024 | [🔗 Verify Credential](https://www.credly.com/badges/ae5f2de2-50ad-45d8-8db9-537b80bcd323/public_url) (`25ae8729-ea2c-...`) |
 | 23 | **Cloud Digital Leader** | Google | Mar 2024 · Expires Mar 2027 | [🔗 Verify Credential](https://www.credential.net/b066eced-7070-4562-923b-09f0d8cdf27f) (`b066eced-7070-...`) |
 | 24 | **The Google Cloud Fly Cup** | Google | Sep 2023 | [🔗 Verify Credential](https://www.cloudskillsboost.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2/badges/5060743) (`5060743`) |
 | 25 | **Google Advanced Data Analytics Specialization** | Google | Aug 2023 | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/QNXMX37UTV7W) (`QNXMX37UTV7W`) |

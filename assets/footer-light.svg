@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 104" width="1200" height="104" role="img" aria-label="Md Bazlur Rahman Likhon Portfolio Footer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 104" width="1200" height="104" role="img" aria-label="Md Bazlur Rahman Likhon — AI Engineer, Senior AI Engineer, Enterprise Agent Engineer, and Senior Cloud and AI Engineer">
+  <title>Md Bazlur Rahman Likhon (@brlikhon) — AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer</title>
+  <desc>Portfolio footer for Md Bazlur Rahman Likhon (@brlikhon), Head of AI Engineering and Enterprise Agent Engineer delivering production AI and multi-cloud platforms globally.</desc>
   <defs>
     <linearGradient id="fBgLight" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#F8FAFC"/>
@@ -16,5 +18,5 @@
   <rect x="2" y="2" width="1196" height="100" rx="18" fill="url(#fBgLight)" stroke="#CBD5E1" stroke-width="1.2"/>
   <rect x="180" y="2" width="840" height="2.5" fill="url(#fLineLight)"/>
   <text x="600" y="45" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="15.5" font-style="italic" font-weight="600" fill="#1E293B">"I don't just build AI demos — I engineer resilient production systems that transform enterprise operations."</text>
-  <text x="600" y="76" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="11.5" font-weight="700" fill="#64748B" letter-spacing="1.8">MD BAZLUR RAHMAN LIKHON (@BRLIKHON)  ·  DHAKA, BANGLADESH &amp; GLOBAL REMOTE</text>
+  <text x="600" y="76" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="11.2" font-weight="700" fill="#64748B" letter-spacing="1.5">MD BAZLUR RAHMAN LIKHON (@BRLIKHON) · AI ENGINEER · ENTERPRISE AGENT ENGINEER · GLOBAL REMOTE</text>
 </svg>

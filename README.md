@@ -1,10 +1,9 @@
 <!--
   =============================================================================
   Md Bazlur Rahman Likhon (@brlikhon)
-  AI Engineer (Gemini Enterprise Agent Engineer) | Senior Cloud & AI Engineer | Head of AI Engineering
-  9x Google Cloud Certified · Google Cloud Premier Partner Lead · 325+ Verified Credentials
-  Official Domain: https://brlikhon.engineer | Demo & Discovery: https://cal.com/brlikhon.engineer/discovery
-  Full Credentials Registry: ./CERTIFICATIONS.md | AI/LLM Dossier: ./llms.txt | Governance: ./ARCHITECTURE.md
+  AI Engineer | Senior AI Engineer | Enterprise Agent Engineer | Senior Cloud and AI Engineer
+  Head of AI Engineering & Gemini Enterprise Agent Engineer — Upstra Communications Limited
+  9x Google Cloud Certified · 6x Microsoft Azure Certified · 3x Oracle Cloud Certified · 325+ Credentials
   =============================================================================
 -->
 
@@ -24,21 +23,27 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img alt="Md Bazlur Rahman Likhon — AI Engineer (Gemini Enterprise Agent Engineer), Senior Cloud &amp; AI Engineer, and Head of AI Engineering" src="./assets/hero-dark.svg" width="100%" />
+  <img alt="Md Bazlur Rahman Likhon (@brlikhon) — AI Engineer, Senior AI Engineer, Enterprise Agent Engineer, and Senior Cloud and AI Engineer" src="./assets/hero-dark.svg" width="100%" />
 </picture>
 
-<h1 align="center">AI Engineer (Gemini Enterprise Agent Engineer) · Senior Cloud &amp; AI Engineer · Head of AI Engineering</h1>
+<h1 align="center">Md Bazlur Rahman Likhon — AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer</h1>
 
 <p align="center">
-  <a href="https://cal.com/brlikhon.engineer/discovery"><img src="https://img.shields.io/badge/Request_Enterprise_Demo_%2F_Call-Cal.com-111827?style=for-the-badge&logo=calendly&logoColor=38BDF8" alt="Request an Enterprise Product Live Demo or Book a 30-Minute Discovery Call with Md Bazlur Rahman Likhon" /></a>
+  <b>Head of AI Engineering &amp; Gemini Enterprise Agent Engineer</b> at <a href="https://upstra.com"><b>Upstra Communications Limited</b></a> <em>(Google Cloud Premier Partner)</em> &nbsp;·&nbsp; <b>@brlikhon</b><br/>
+  <sub>9x Google Cloud Certified · 6x Microsoft Azure Certified (AZ-400 Expert) · 3x Oracle Cloud Certified · 325+ Verified Credentials · Delivering Production AI Globally Across US, UK, EU, APAC &amp; Middle East</sub>
+</p>
+
+<p align="center">
+  <a href="https://cal.com/brlikhon.engineer/discovery"><img src="https://img.shields.io/badge/Request_Enterprise_Demo_%2F_Call-Cal.com-111827?style=for-the-badge&logo=calendly&logoColor=38BDF8" alt="Book a Discovery Call with Md Bazlur Rahman Likhon — Senior Cloud and AI Engineer" /></a>
   <a href="https://www.linkedin.com/in/bazlur-rahman-likhon/"><img src="https://img.shields.io/badge/LinkedIn-1.5K%2B_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Md Bazlur Rahman Likhon on LinkedIn" /></a>
+  <a href="https://medium.com/@br.likhon"><img src="https://img.shields.io/badge/Medium-Engineering_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read AI Engineering Articles by Md Bazlur Rahman Likhon on Medium" /></a>
   <a href="https://wa.me/8801606549236"><img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-059669?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message Md Bazlur Rahman Likhon on WhatsApp" /></a>
-  <a href="mailto:contact@brlikhon.engineer?subject=Enterprise%20AI%20Product%20Demo%20%26%20Architecture%20Inquiry"><img src="https://img.shields.io/badge/Email-contact%40brlikhon.engineer-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Md Bazlur Rahman Likhon at contact@brlikhon.engineer" /></a>
+  <a href="mailto:contact@brlikhon.engineer?subject=Enterprise%20AI%20Architecture%20%26%20Consultation%20Inquiry"><img src="https://img.shields.io/badge/Email-contact%40brlikhon.engineer-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Md Bazlur Rahman Likhon at contact@brlikhon.engineer" /></a>
   <a href="https://brlikhon.engineer"><img src="https://img.shields.io/badge/Website-brlikhon.engineer-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Portfolio Website brlikhon.engineer" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2"><img src="https://img.shields.io/badge/Google_Cloud_Verified-9x_Certified_%C2%B7_195%2B_Skill_Badges-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="9x Google Cloud Certified and 195+ Verified Google Cloud Skill Badges" /></a>
+  <a href="https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2"><img src="https://img.shields.io/badge/Google_Cloud_Verified-9x_Certified_%C2%B7_195%2B_Skill_Badges-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="9x Google Cloud Certified Senior Cloud and AI Engineer with 195+ Skill Badges" /></a>
   <a href="https://learn.microsoft.com/en-us/users/MdBazlurRahmanLikhon-5970"><img src="https://img.shields.io/badge/Microsoft_Learn-6x_Azure_Certified_(AZ--400_Expert)-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Verified Microsoft Learn Transcript and 6x Azure Certifications" /></a>
   <a href="./CERTIFICATIONS.md"><img src="https://img.shields.io/badge/Verified_Registry-325%2B_Direct_Credential_Links-0D9488?style=flat-square&logo=checkmarx&logoColor=white" alt="Browse All 325+ Direct Credential Verification Links in CERTIFICATIONS.md" /></a>
   <a href="./ARCHITECTURE.md"><img src="https://img.shields.io/badge/AI_Governance-Security_%26_Standards-4F46E5?style=flat-square&logo=googlescholar&logoColor=white" alt="Enterprise AI Governance, Security and Compliance Standards" /></a>
@@ -64,20 +69,21 @@
 ---
 
 <a id="about"></a>
-## Executive Summary — Md Bazlur Rahman Likhon
+## Executive Summary — Md Bazlur Rahman Likhon (`@brlikhon`)
 
-**Md Bazlur Rahman Likhon** (`@brlikhon`) is a **Senior Cloud & AI Engineer, Gemini Enterprise Agent Engineer, and Head of AI Engineering** at **Upstra Communications Limited** (*Google Cloud Premier Partner*) in **Dhaka, Bangladesh**. With **7+ years of experience** (including **6+ years leading production cloud/AI delivery and applied NLP/ML research**), an **MSc in Information Systems Security** (*pursuing at Bangladesh University of Professionals*), a **BSc in Computer Science & Engineering**, **9 Google Cloud Certifications**, **6 Microsoft Azure Certifications**, **Oracle Cloud Generative AI credentials**, and **325+ verified certifications** across **Harvard, Stanford, Columbia, AWS, IBM, DeepLearning.AI, and The Linux Foundation**, he leads the design, deployment, and governance of mission-critical enterprise AI products and multi-cloud platforms.
+**Md Bazlur Rahman Likhon** (`@brlikhon`) is a globally practicing **AI Engineer**, **Senior AI Engineer**, **Enterprise Agent Engineer** (*Gemini Enterprise Agent Engineer*), and **Senior Cloud and AI Engineer**, serving as **Head of AI Engineering** at **[Upstra Communications Limited](https://upstra.com)** (*Google Cloud Premier Partner*). With **7+ years of experience** (including **6+ years leading production cloud and AI engineering delivery and applied NLP/ML research**), an **MSc in Information Systems Security** (*pursuing at Bangladesh University of Professionals*), a **BSc in Computer Science & Engineering**, **9 Google Cloud Certifications**, **6 Microsoft Azure Certifications**, **3 Oracle Cloud Certifications**, and **325+ verified credentials** across **Harvard, Stanford, Columbia, AWS, IBM, DeepLearning.AI, and The Linux Foundation**, he architects, ships, and governs mission-critical enterprise AI systems and multi-cloud infrastructure worldwide.
 
-He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Builder, multi-agent orchestration, enterprise search & RAG, Google Cloud Model Armor, Responsible AI guardrails, real-time multilingual Voice AI, clinical & omnichannel enterprise platforms, biometric identity verification, intelligent surveillance, and sovereign multi-cloud infrastructure** across **Google Cloud, AWS, Microsoft Azure, Oracle Cloud, Alibaba Cloud, and Tencent Cloud**—delivering measurable outcomes for organizations across **Bangladesh, Singapore/APAC, the USA, the UK, the European Union, Japan, China, and Australia**.
+As an **Enterprise Agent Engineer** and **Senior Cloud and AI Engineer**, he specializes in the **Gemini Enterprise Agent Platform** (**Google Agentspace**, **Google Agent Development Kit (`ADK`)**, **Vertex AI Agent Builder**, and **Vertex AI Search / Discovery Engine**), **Model Context Protocol (`MCP`)**, **Agent-to-Agent (`A2A`)** multi-agent orchestration, production **Retrieval-Augmented Generation (`RAG`)**, **Google Cloud Model Armor**, **Responsible AI** guardrails, real-time multilingual **Voice AI**, clinical &amp; omnichannel enterprise platforms, biometric identity verification, and sovereign multi-cloud architecture across **Google Cloud, AWS, Microsoft Azure, Oracle Cloud, Alibaba Cloud, and Tencent Cloud**—serving enterprise organizations across the **United States, the United Kingdom, the European Union, Singapore &amp; APAC, the Middle East, Japan, China, Australia, and Bangladesh**.
 
-| Attribute | Executive Snapshot |
+| Attribute | Global Engineering Profile |
 | :--- | :--- |
-| **Current Leadership Role** | **Senior Cloud & AI Engineer / Head of AI Engineering** — Upstra Communications Limited *(Google Cloud Premier Partner · Oct 2025 – Present)* |
-| **Enterprise Agentic Focus** | Gemini Enterprise (`Google Agentspace`) · Vertex AI Agent Builder & Discovery Engine · Multi-Agent Workforces · Enterprise Search & Grounding |
-| **AI Governance & Safety** | Google Cloud Model Armor · Responsible AI Guardrails · Prompt/DLP Defense · GCP IAM · Automated Evaluation & Tamper-Evident Audit Trails |
-| **Vertical AI Products** | Media & Real-Time News AI · Omnichannel AI Workforce & Telephony · Closed-Loop Hospital & Clinical AI · Banking e-KYC, Biometrics & Document AI |
-| **Multi-Cloud & Security** | **9x Google Cloud**, **6x Microsoft Azure**, **3x Oracle OCI** & **AWS** Certified (+ Alibaba & Tencent Cloud) · GKE, Terraform, CI/CD, Observability |
-| **Academic Foundation** | **MSc in Information Systems Security (MISS)**, BUP *(Present)* · **BSc in CSE**, Daffodil International University *(GPA 3.62/4.00 · 2.4M-Tweet NLP Thesis)* |
+| **Core Roles** | **AI Engineer** · **Senior AI Engineer** · **Enterprise Agent Engineer** *(Gemini Enterprise)* · **Senior Cloud and AI Engineer** · **Head of AI Engineering** |
+| **Current Leadership** | **Head of AI Engineering / Senior Cloud &amp; AI Engineer** — [Upstra Communications Limited](https://upstra.com) *(Google Cloud Premier Partner · Oct 2025 – Present)* |
+| **Enterprise Agentic Stack** | `Gemini Enterprise Agent Platform` · `Google Agentspace` · `Google ADK` · `Vertex AI Agent Builder & Discovery Engine` · `Model Context Protocol (MCP)` · `LangGraph` |
+| **AI Governance &amp; Safety** | `Google Cloud Model Armor` · `Responsible AI Guardrails` · Prompt/Jailbreak &amp; DLP Defense · `GCP IAM` · Automated Agent Evaluation &amp; Immutable Audit Trails |
+| **Multi-Cloud &amp; MLOps** | **9x Google Cloud**, **6x Microsoft Azure**, **3x Oracle OCI** &amp; **AWS** Certified (+ Alibaba &amp; Tencent Cloud) · `GKE`, `Terraform`, `CI/CD`, `Prometheus`, `Grafana` |
+| **Global Delivery Footprint** | **USA · UK · European Union · Singapore &amp; APAC · Middle East · Japan · China · Australia · Bangladesh** *(35+ Production Systems Delivered)* |
+| **Academic Foundation** | **MSc in Information Systems Security (MISS)**, BUP *(Present)* · **BSc in CSE**, Daffodil International University *(GPA 3.62/4.00 · Published 2.4M-Tweet NLP Thesis)* |
 
 ---
 
@@ -169,7 +175,7 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
         <li>Recognized as the <strong>only Bangladeshi finalist</strong> in the official Asia-Pacific Top 10 presented live to Google Cloud &amp; Hack2skill judges.</li>
         <li>Delivers real-time visual crop disease identification, localized weather-aware yield forecasting, market intelligence, and multilingual APAC agronomic advisory at regional scale.</li>
       </ul>
-      <p><a href="https://cal.com/brlikhon.engineer/discovery"><b>📅 Request Live Walkthrough →</b></a></p>
+      <p><a href="https://medium.com/@br.likhon/building-cropmind-a-multi-agent-ai-system-for-smallholder-farmers-in-apac-22465654a0e5"><b>📖 Read Engineering Case Study →</b></a> &nbsp;·&nbsp; <a href="https://cal.com/brlikhon.engineer/discovery"><b>📅 Request Live Walkthrough →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Enterprise Multi-Tenant Knowledge &amp; Grounded Search Platform</h3>
@@ -301,11 +307,11 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
 ---
 
 <a id="architecture"></a>
-## Core Competencies & Multi-Cloud AI Stack
+## Enterprise Agent, Cloud & AI Engineering Capabilities
 
 | Practice Area | Enterprise Capabilities | Ecosystem & Platforms |
 | :--- | :--- | :--- |
-| **Gemini Enterprise &amp; Agentic AI** | Multi-agent orchestration, enterprise search grounding, secure data connectors, dynamic tool/function calling, `MCP`, autonomous digital workforces | `Gemini Enterprise`, `Google Agentspace`, `Vertex AI Agent Builder`, `Vertex AI Search (Discovery Engine)`, `Gemini 2.5 Pro/Flash`, `Gemini Live API`, `LangGraph`, `Claude`, `OpenAI` |
+| **Enterprise Agent Engineering** | Multi-agent orchestration, enterprise search grounding, secure data connectors, dynamic tool/function calling, **Model Context Protocol (`MCP`)**, **Agent-to-Agent (`A2A`)** workflows, autonomous digital workforces | `Gemini Enterprise Agent Platform`, `Google Agentspace`, `Google Agent Development Kit (ADK)`, `Vertex AI Agent Builder`, `Vertex AI Search (Discovery Engine)`, `Gemini 2.5 Pro/Flash`, `Gemini Live API`, `LangGraph`, `Claude`, `OpenAI` |
 | **AI Governance, Safety &amp; Risk** | Prompt injection &amp; jailbreak defense, sensitive data DLP &amp; toxicity filtering, Responsible AI guardrails, automated agent evaluation suites, immutable audit logs | `Google Cloud Model Armor`, `Responsible AI`, `GCP IAM`, `RBAC`, `Tamper-Evident Audit Trails`, `SOC2 / HIPAA / GDPR Controls` |
 | **Enterprise RAG &amp; Data Platforms** | Sovereign local/cloud/hybrid LLM hosting, multi-tenant vector retrieval, conversational Text-to-SQL analytics, cost/latency SLA optimization | `Vertex AI Vector Search`, `BigQuery`, `PostgreSQL + pgvector`, `Milvus`, `ChromaDB`, `Firestore`, `Power BI`, `Looker` |
 | **Voice, Vision, Biometrics &amp; OCR** | Real-time multilingual &amp; Bangla telephony AI, omnichannel contact centers, face &amp; fingerprint biometrics, workplace/security video analytics, sovereign OCR | `Gemini Live`, `WebRTC`, `WebSockets`, `Twilio`, `Google Cloud Document AI`, `PyTorch`, `TensorFlow`, `YOLO`, `SFace`, `OpenCV` |
@@ -316,7 +322,8 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
 #### Core Engineering Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Gemini_Enterprise_%26_Agentspace-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini Enterprise and Google Agentspace" />
+  <img src="https://img.shields.io/badge/Gemini_Enterprise_%26_Agentspace-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini Enterprise Agent Platform and Google Agentspace" />
+  <img src="https://img.shields.io/badge/Google_ADK_%26_MCP-0F9D58?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Agent Development Kit ADK and Model Context Protocol MCP" />
   <img src="https://img.shields.io/badge/Vertex_AI_%26_Discovery_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Vertex AI and Discovery Engine" />
   <img src="https://img.shields.io/badge/Model_Armor_%26_AI_Governance-0F172A?style=flat-square&logo=googlescholar&logoColor=38BDF8" alt="Google Cloud Model Armor and Enterprise AI Governance" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -359,10 +366,10 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
 <a id="experience"></a>
 ## Professional Experience, Education & Endorsements
 
-### Senior Cloud & AI Engineer *(Head of AI Engineering)* — Upstra Communications Limited *(Google Cloud Premier Partner)*
-**Dhaka, Bangladesh · Oct 2025 – Present**
-- Lead the enterprise AI engineering organization with full end-to-end ownership of commercial AI products spanning **Gemini Enterprise / Google Agentspace agents, Vertex AI platforms, enterprise RAG, omnichannel conversational & voice AI, clinical platforms, biometrics, document intelligence, and AI surveillance**.
-- Design, deploy, and govern multi-agent enterprise solutions utilizing **Gemini Enterprise (Agentspace), Gemini 2.5 Pro/Flash, Vertex AI Agent Builder, and Discovery Engine** with enterprise search grounding and secure connectors across Cloud Storage, BigQuery, and relational systems.
+### Head of AI Engineering · Senior Cloud and AI Engineer · Enterprise Agent Engineer — Upstra Communications Limited *(Google Cloud Premier Partner)*
+**Dhaka, Bangladesh · Global Enterprise Delivery · Oct 2025 – Present**
+- Lead the enterprise AI engineering function as **Head of AI Engineering**, **Senior AI Engineer**, and **Gemini Enterprise Agent Engineer**, owning end-to-end delivery of commercial AI platforms spanning **Gemini Enterprise / Google Agentspace agents, Google Agent Development Kit (`ADK`), Model Context Protocol (`MCP`), Vertex AI platforms, enterprise RAG, omnichannel conversational &amp; voice AI, clinical platforms, biometrics, document intelligence, and AI surveillance**.
+- Design, deploy, and govern multi-agent enterprise solutions utilizing the **Gemini Enterprise Agent Platform**, **Gemini 2.5 Pro/Flash**, **Vertex AI Agent Builder**, and **Discovery Engine** with enterprise search grounding and secure connectors across Cloud Storage, BigQuery, and relational systems.
 - Establish enterprise AI risk management and safety postures through **Google Cloud Model Armor** (prompt injection, jailbreak, DLP, and toxicity defense), Responsible AI guardrails, fine-grained GCP IAM, automated evaluation suites, and immutable audit logging.
 - Direct automated infrastructure and continuous delivery on **Terraform, GKE, Python APIs, Cloud Monitoring, Prometheus, and Grafana**, while partnering with executive leadership across **top news media, commercial banks, hospitals, and pharmaceutical enterprises** for solution workshops, live product demos, and C-level architecture alignment.
 
@@ -411,16 +418,16 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
     <td width="50%" valign="top">
       <h4><img width="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Logo" /> &nbsp;Google Cloud (9x Official Certifications + Expert Badges)</h4>
       <ul>
-        <li><strong>Professional Machine Learning Engineer</strong> — <a href="https://www.credly.com/badges/24cbf5fd-fa4f-46a3-9ff2-12343dcdd5a6/public_url">Verify on Credly</a></li>
+        <li><strong>Professional Machine Learning Engineer</strong> — <a href="https://www.credly.com/badges/83edfbf1-d862-44a4-a14d-290bf3f968d1/public_url">Verify on Credly</a></li>
         <li><strong>Professional Data Engineer</strong> — <a href="https://www.credly.com/badges/58e3a7fe-56cc-46d7-8891-3b2cd3e5d9af/public_url">Verify on Credly</a></li>
         <li><strong>Professional Cloud DevOps Engineer</strong> — <a href="https://www.credly.com/badges/45dd6608-de12-4c3b-b181-0ff41dc53565/public_url">Verify on Credly</a></li>
         <li><strong>Professional Cloud Database Engineer</strong> — <a href="https://www.credly.com/badges/c86112e5-7b02-4195-ba03-a927de170e22/public_url">Verify on Credly</a></li>
-        <li><strong>Professional Cloud Security Engineer</strong> — <a href="https://www.credly.com/badges/32fb9a55-65b9-4b3f-8f15-3497507af6fd/public_url">Verify on Credly</a></li>
+        <li><strong>Professional Cloud Security Engineer</strong> — <a href="https://www.credly.com/badges/de44a18a-3ddb-430d-8f1d-fe3201f07e9c/public_url">Verify on Credly</a></li>
         <li><strong>Professional Security Operations Engineer</strong> — <a href="https://www.credly.com/badges/0448f773-917f-4a71-9bbb-eef88d0950a1/public_url">Verify on Credly</a></li>
-        <li><strong>Associate Cloud Engineer</strong> — <a href="https://www.credly.com/badges/2524f065-dec4-4a03-9cb1-76fd91aebb01/public_url">Verify on Credly</a></li>
+        <li><strong>Associate Cloud Engineer</strong> — <a href="https://www.credly.com/badges/ce775908-dd39-4bbb-8e4b-4b26c0ec2e4a/public_url">Verify on Credly</a></li>
         <li><strong>Google Cloud Certified Generative AI Leader</strong> — <a href="https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23/public_url">Verify on Credly</a></li>
-        <li><strong>Google Cloud Digital Leader</strong> — <a href="https://www.credly.com/badges/25ae8729-ea2c-4a3b-884c-7369709930c8/public_url">Verify on Credly</a></li>
-        <li><strong>Google Cloud SecOps Technical Credential</strong> — <a href="https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq">Verify Award</a></li>
+        <li><strong>Google Cloud Digital Leader</strong> — <a href="https://www.credly.com/badges/ae5f2de2-50ad-45d8-8db9-537b80bcd323/public_url">Verify on Credly</a></li>
+        <li><strong>Google Cloud SecOps Technical Credential</strong> — <a href="https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2">Public Profile</a> · <a href="https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq">Skillshop</a></li>
         <li><strong>Build with Vertex Technical Expert</strong> — <a href="https://www.credly.com/badges/38364315-b8b0-4d44-81bb-d803e63c6869/public_url">Verify</a> · <strong>AI/ML Pre-sales Expert</strong> — <a href="https://www.credly.com/badges/81abfe83-be0f-492e-a4e1-aeb1a244d4f0/public_url">Verify</a></li>
       </ul>
     </td>
@@ -469,16 +476,16 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
 
 | # | Official Certification / Specialization | Issuing Authority | Direct 1-Click Verification |
 | :-: | :--- | :--- | :--- |
-| 1 | **Professional Machine Learning Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/24cbf5fd-fa4f-46a3-9ff2-12343dcdd5a6/public_url) |
+| 1 | **Professional Machine Learning Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/83edfbf1-d862-44a4-a14d-290bf3f968d1/public_url) |
 | 2 | **Professional Data Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/58e3a7fe-56cc-46d7-8891-3b2cd3e5d9af/public_url) |
 | 3 | **Professional Cloud DevOps Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/45dd6608-de12-4c3b-b181-0ff41dc53565/public_url) |
 | 4 | **Professional Cloud Database Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/c86112e5-7b02-4195-ba03-a927de170e22/public_url) |
-| 5 | **Professional Cloud Security Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/32fb9a55-65b9-4b3f-8f15-3497507af6fd/public_url) |
+| 5 | **Professional Cloud Security Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/de44a18a-3ddb-430d-8f1d-fe3201f07e9c/public_url) |
 | 6 | **Professional Security Operations Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/0448f773-917f-4a71-9bbb-eef88d0950a1/public_url) |
-| 7 | **Associate Cloud Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/2524f065-dec4-4a03-9cb1-76fd91aebb01/public_url) |
+| 7 | **Associate Cloud Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/ce775908-dd39-4bbb-8e4b-4b26c0ec2e4a/public_url) |
 | 8 | **Google Cloud Certified Generative AI Leader** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23/public_url) |
-| 9 | **Google Cloud Digital Leader** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/25ae8729-ea2c-4a3b-884c-7369709930c8/public_url) |
-| 10 | **Google Cloud SecOps Technical Credential Assessment** | Google | [🔗 Verify on Skillshop](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq) |
+| 9 | **Google Cloud Digital Leader** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/ae5f2de2-50ad-45d8-8db9-537b80bcd323/public_url) |
+| 10 | **Google Cloud SecOps Technical Credential Assessment** | Google | [🔗 Public Profile](https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2) · [Skillshop](https://skillshop.exceedlms.com/student/award/xCtk5Xc1yHqoRRRF2GnHX7cq) |
 | 11 | **Build with Vertex Technical Expert** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/38364315-b8b0-4d44-81bb-d803e63c6869/public_url) |
 | 12 | **AI/ML Pre-sales Technical Expert** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/81abfe83-be0f-492e-a4e1-aeb1a244d4f0/public_url) |
 | 13 | **Microsoft Certified: DevOps Engineer Expert (AZ-400)** | Microsoft | [🔗 Verify (`C138807F533113A8`)](https://learn.microsoft.com/api/credentials/share/en-us/MdBazlurRahmanLikhon-5970/C138807F533113A8?sharingId=E46BBB4F9E6F75AA) |
@@ -545,12 +552,18 @@ He specializes in **Gemini Enterprise (Google Agentspace), Vertex AI Agent Build
 ---
 
 <a id="faq"></a>
-## Frequently Asked Questions (Enterprise Demos & Advisory)
+## Frequently Asked Questions (Enterprise Demos & Global Advisory)
 
 <details>
-<summary><b>Who is Md Bazlur Rahman Likhon (@brlikhon) and what does he lead?</b></summary>
+<summary><b>Who is Md Bazlur Rahman Likhon (@brlikhon) — Enterprise Agent Engineer &amp; Senior Cloud and AI Engineer?</b></summary>
 <br/>
-Md Bazlur Rahman Likhon is an AI Engineer (Gemini Enterprise Agent Engineer), Senior Cloud &amp; AI Engineer, and Head of AI Engineering at Upstra Communications Limited (a Google Cloud Premier Partner) in Dhaka, Bangladesh. With 7+ years of experience, 9 Google Cloud Certifications, 6 Microsoft Azure Certifications, and 325+ verified credentials, he leads end-to-end delivery and governance of commercial enterprise AI products across media, healthcare, telecommunications, banking, retail, and multi-cloud infrastructure.
+Md Bazlur Rahman Likhon (<b>@brlikhon</b>) is an <b>AI Engineer</b>, <b>Senior AI Engineer</b>, <b>Enterprise Agent Engineer</b> (Gemini Enterprise Agent Engineer), and <b>Senior Cloud and AI Engineer</b>, serving as Head of AI Engineering at <a href="https://upstra.com">Upstra Communications Limited</a> (Google Cloud Premier Partner). Holding 7+ years of experience, 9 Google Cloud Certifications, 6 Microsoft Azure Certifications, and 325+ verified credentials, he delivers production AI globally across the US, UK, EU, APAC, Middle East, and Bangladesh.
+</details>
+
+<details>
+<summary><b>What does an Enterprise Agent Engineer and Senior AI Engineer deliver for global organizations?</b></summary>
+<br/>
+As an <b>Enterprise Agent Engineer</b> and <b>Senior AI Engineer</b>, Md Bazlur Rahman Likhon designs, deploys, and governs production multi-agent systems using the Gemini Enterprise Agent Platform, Google Agentspace, Google Agent Development Kit (ADK), Vertex AI Agent Builder, Model Context Protocol (MCP), and LangGraph—paired with Enterprise RAG, real-time multilingual Voice AI, and multi-cloud Kubernetes/Terraform operations across Google Cloud, AWS, Azure, and Oracle Cloud.
 </details>
 
 <details>
@@ -566,36 +579,37 @@ Every enterprise solution is governed with defense-in-depth controls: Google Clo
 </details>
 
 <details>
-<summary><b>Is this portfolio available in Arabic, French, German, Chinese, Japanese, and Bangla for global stakeholders?</b></summary>
+<summary><b>Is this AI Engineer portfolio available in Arabic, French, German, Chinese, Japanese, and Bangla for global stakeholders?</b></summary>
 <br/>
 Yes. Dedicated localized editions are available directly inside this repository for international executives and procurement teams in <a href="./translations/README.ar.md">Arabic (العربية)</a>, <a href="./translations/README.fr.md">French (Français)</a>, <a href="./translations/README.de.md">German (Deutsch)</a>, <a href="./translations/README.zh-CN.md">Simplified Chinese (简体中文)</a>, <a href="./translations/README.ja.md">Japanese (日本語)</a>, and <a href="./translations/README.bn.md">Bangla (বাংলা)</a>.
 </details>
 
 <details>
-<summary><b>How can enterprises across APAC, the Middle East, Europe, the UK, or North America engage?</b></summary>
+<summary><b>How can enterprises in the US, UK, Europe, APAC, or the Middle East engage a Senior Cloud and AI Engineer?</b></summary>
 <br/>
-Organizations can request an enterprise product licensing/customization demo, commission fixed-scope AI and multi-cloud architecture engagements, or engage for Principal/Head-of-AI advisory across global timezones. Book directly at <a href="https://cal.com/brlikhon.engineer/discovery">cal.com/brlikhon.engineer/discovery</a> or email <a href="mailto:contact@brlikhon.engineer">contact@brlikhon.engineer</a> / <a href="mailto:br.likhon@gmail.com">br.likhon@gmail.com</a>.
+Global organizations can request an enterprise product licensing/customization demo, commission fixed-scope AI and multi-cloud architecture engagements, or engage Md Bazlur Rahman Likhon as a Principal / Senior Cloud and AI Engineer across international timezones. Book directly at <a href="https://cal.com/brlikhon.engineer/discovery">cal.com/brlikhon.engineer/discovery</a> or email <a href="mailto:contact@brlikhon.engineer">contact@brlikhon.engineer</a> / <a href="mailto:br.likhon@gmail.com">br.likhon@gmail.com</a>.
 </details>
 
 ---
 
 <a id="contact"></a>
-## Request an Enterprise Product Demo or Executive Consultation
+## Request an Enterprise Product Demo or Global Consultation
 
 <table>
   <tr>
     <td width="18%" align="center" valign="middle">
-      <img src="https://avatars.githubusercontent.com/u/105287746?v=4" width="115" height="115" alt="Md Bazlur Rahman Likhon — Gemini Enterprise Agent Engineer and Senior Cloud &amp; AI Engineer" title="Md Bazlur Rahman Likhon (@brlikhon)" />
+      <img src="https://avatars.githubusercontent.com/u/105287746?v=4" width="115" height="115" alt="Md Bazlur Rahman Likhon (@brlikhon) — AI Engineer, Senior AI Engineer, Enterprise Agent Engineer, and Senior Cloud and AI Engineer" title="Md Bazlur Rahman Likhon (@brlikhon)" />
     </td>
     <td width="82%" valign="middle">
-      <h3>Md Bazlur Rahman Likhon</h3>
-      <p><strong>AI Engineer (Gemini Enterprise Agent Engineer) · Senior Cloud &amp; AI Engineer · Head of AI Engineering</strong><br/>
-      Upstra Communications Limited <em>(Google Cloud Premier Partner)</em> · Dhaka, Bangladesh · Serving APAC, Middle East, EU, UK &amp; USA</p>
+      <h3>Md Bazlur Rahman Likhon (<code>@brlikhon</code>)</h3>
+      <p><strong>AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer · Head of AI Engineering</strong><br/>
+      <a href="https://upstra.com">Upstra Communications Limited</a> <em>(Google Cloud Premier Partner)</em> · Dhaka, Bangladesh · Serving US, UK, EU, APAC &amp; Middle East</p>
       <p>
         📅 <strong>Live Demo &amp; Discovery Call:</strong> <a href="https://cal.com/brlikhon.engineer/discovery">cal.com/brlikhon.engineer/discovery</a><br/>
         📧 <strong>Direct Emails:</strong> <a href="mailto:contact@brlikhon.engineer">contact@brlikhon.engineer</a> &nbsp;·&nbsp; <a href="mailto:br.likhon@gmail.com">br.likhon@gmail.com</a><br/>
         💬 <strong>WhatsApp / Direct Phone:</strong> <a href="https://wa.me/8801606549236">+880 1606-549236</a><br/>
         💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/bazlur-rahman-likhon/">linkedin.com/in/bazlur-rahman-likhon</a> &nbsp;·&nbsp;
+        ✍️ <strong>Medium:</strong> <a href="https://medium.com/@br.likhon">@br.likhon</a> &nbsp;·&nbsp;
         ▶️ <strong>YouTube:</strong> <a href="https://www.youtube.com/@BRLikhon">@BRLikhon</a> &nbsp;·&nbsp;
         🌐 <strong>Website:</strong> <a href="https://brlikhon.engineer">brlikhon.engineer</a><br/>
         📜 <strong>325+ Verified Credentials:</strong> <a href="./CERTIFICATIONS.md">CERTIFICATIONS.md</a> &nbsp;·&nbsp;

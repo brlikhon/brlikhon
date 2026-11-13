@@ -14,14 +14,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="../assets/hero-light.svg" />
-  <img alt="Md Bazlur Rahman Likhon — AIエンジニア（Gemini Enterprise Agent Engineer）・シニアクラウド＆AIエンジニア・AIエンジニアリング責任者" src="../assets/hero-dark.svg" width="100%" />
+  <img alt="Md Bazlur Rahman Likhon (@brlikhon) — AIエンジニア, AI Engineer, Senior AI Engineer, Enterprise Agent Engineer, Senior Cloud and AI Engineer" src="../assets/hero-dark.svg" width="100%" />
 </picture>
 
-<h1 align="center">AIエンジニア (Gemini Enterprise Agent Engineer) · シニアクラウド＆AIエンジニア · AIエンジニアリング責任者</h1>
+<h1 align="center">Md Bazlur Rahman Likhon — AIエンジニア・AI部門責任者 · AI Engineer · Senior AI Engineer · Enterprise Agent Engineer · Senior Cloud and AI Engineer</h1>
 
 <p align="center">
   <a href="https://cal.com/brlikhon.engineer/discovery"><img src="https://img.shields.io/badge/法人向け製品ライブデモ予約-Cal.com-111827?style=for-the-badge&logo=calendly&logoColor=38BDF8" alt="法人向けAI製品のライブデモまたは技術相談を予約する" /></a>
   <a href="https://www.linkedin.com/in/bazlur-rahman-likhon/"><img src="https://img.shields.io/badge/LinkedIn-1.5K%2B_ネットワーク-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedInプロフィールを見る" /></a>
+  <a href="https://medium.com/@br.likhon"><img src="https://img.shields.io/badge/Medium-技術記事-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="MediumでAIエンジニアリング記事を読む" /></a>
   <a href="https://wa.me/8801606549236"><img src="https://img.shields.io/badge/WhatsApp-ダイレクト連絡-059669?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsAppで連絡する" /></a>
   <a href="mailto:contact@brlikhon.engineer?subject=Enterprise%20AI%20Product%20Demo%20Inquiry"><img src="https://img.shields.io/badge/メール-contact%40brlikhon.engineer-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="contact@brlikhon.engineer にメールを送る" /></a>
   <a href="../CERTIFICATIONS.md"><img src="https://img.shields.io/badge/公式認定一覧-325%2B_認定証明リンク-0D9488?style=for-the-badge&logo=checkmarx&logoColor=white" alt="325件以上の公式認定証明リンク一覧を見る" /></a>
