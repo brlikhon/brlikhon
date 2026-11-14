@@ -44,6 +44,7 @@
 
 <p align="center">
   <a href="https://www.skills.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2"><img src="https://img.shields.io/badge/Google_Cloud_Verified-9x_Certified_%C2%B7_195%2B_Skill_Badges-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="9x Google Cloud Certified Senior Cloud and AI Engineer with 195+ Skill Badges" /></a>
+  <a href="https://www.credly.com/users/md-bazlur-rahman-likhon.66234dae/badges/credly"><img src="https://img.shields.io/badge/Credly_Verified-Official_Badge_Wallet-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Verify Official Credly Badges for Md Bazlur Rahman Likhon" /></a>
   <a href="https://learn.microsoft.com/en-us/users/MdBazlurRahmanLikhon-5970"><img src="https://img.shields.io/badge/Microsoft_Learn-6x_Azure_Certified_(AZ--400_Expert)-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Verified Microsoft Learn Transcript and 6x Azure Certifications" /></a>
   <a href="./CERTIFICATIONS.md"><img src="https://img.shields.io/badge/Verified_Registry-325%2B_Direct_Credential_Links-0D9488?style=flat-square&logo=checkmarx&logoColor=white" alt="Browse All 325+ Direct Credential Verification Links in CERTIFICATIONS.md" /></a>
   <a href="./ARCHITECTURE.md"><img src="https://img.shields.io/badge/AI_Governance-Security_%26_Standards-4F46E5?style=flat-square&logo=googlescholar&logoColor=white" alt="Enterprise AI Governance, Security and Compliance Standards" /></a>
@@ -418,11 +419,11 @@ As an **Enterprise Agent Engineer** and **Senior Cloud and AI Engineer**, he spe
     <td width="50%" valign="top">
       <h4><img width="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Logo" /> &nbsp;Google Cloud (9x Official Certifications + Expert Badges)</h4>
       <ul>
-        <li><strong>Professional Machine Learning Engineer</strong> — <a href="https://www.credly.com/badges/83edfbf1-d862-44a4-a14d-290bf3f968d1/public_url">Verify on Credly</a></li>
-        <li><strong>Professional Data Engineer</strong> — <a href="https://www.credly.com/badges/58e3a7fe-56cc-46d7-8891-3b2cd3e5d9af/public_url">Verify on Credly</a></li>
+        <li><strong>Professional Machine Learning Engineer</strong> — <a href="https://www.credly.com/badges/f627640c-b8a9-4b2f-a0a3-dc3faf8391f7/public_url">Verify on Credly</a></li>
+        <li><strong>Professional Data Engineer</strong> — <a href="https://www.credly.com/badges/59f867db-e18f-4a2b-a96b-05aff38df989/public_url">Verify on Credly</a></li>
         <li><strong>Professional Cloud DevOps Engineer</strong> — <a href="https://www.credly.com/badges/45dd6608-de12-4c3b-b181-0ff41dc53565/public_url">Verify on Credly</a></li>
-        <li><strong>Professional Cloud Database Engineer</strong> — <a href="https://www.credly.com/badges/c86112e5-7b02-4195-ba03-a927de170e22/public_url">Verify on Credly</a></li>
-        <li><strong>Professional Cloud Security Engineer</strong> — <a href="https://www.credly.com/badges/de44a18a-3ddb-430d-8f1d-fe3201f07e9c/public_url">Verify on Credly</a></li>
+        <li><strong>Professional Cloud Database Engineer</strong> — <a href="https://www.credly.com/badges/3bdaf23b-b63d-4aeb-84de-7ea5f470d835/public_url">Verify on Credly</a></li>
+        <li><strong>Professional Cloud Security Engineer</strong> — <a href="https://www.credly.com/badges/f42887f4-11cf-4f13-8b1c-42172fda5bc5/public_url">Verify on Credly</a></li>
         <li><strong>Professional Security Operations Engineer</strong> — <a href="https://www.credly.com/badges/0448f773-917f-4a71-9bbb-eef88d0950a1/public_url">Verify on Credly</a></li>
         <li><strong>Associate Cloud Engineer</strong> — <a href="https://www.credly.com/badges/ce775908-dd39-4bbb-8e4b-4b26c0ec2e4a/public_url">Verify on Credly</a></li>
         <li><strong>Google Cloud Certified Generative AI Leader</strong> — <a href="https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23/public_url">Verify on Credly</a></li>
@@ -476,11 +477,11 @@ As an **Enterprise Agent Engineer** and **Senior Cloud and AI Engineer**, he spe
 
 | # | Official Certification / Specialization | Issuing Authority | Direct 1-Click Verification |
 | :-: | :--- | :--- | :--- |
-| 1 | **Professional Machine Learning Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/83edfbf1-d862-44a4-a14d-290bf3f968d1/public_url) |
-| 2 | **Professional Data Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/58e3a7fe-56cc-46d7-8891-3b2cd3e5d9af/public_url) |
+| 1 | **Professional Machine Learning Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/f627640c-b8a9-4b2f-a0a3-dc3faf8391f7/public_url) |
+| 2 | **Professional Data Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/59f867db-e18f-4a2b-a96b-05aff38df989/public_url) |
 | 3 | **Professional Cloud DevOps Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/45dd6608-de12-4c3b-b181-0ff41dc53565/public_url) |
-| 4 | **Professional Cloud Database Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/c86112e5-7b02-4195-ba03-a927de170e22/public_url) |
-| 5 | **Professional Cloud Security Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/de44a18a-3ddb-430d-8f1d-fe3201f07e9c/public_url) |
+| 4 | **Professional Cloud Database Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/3bdaf23b-b63d-4aeb-84de-7ea5f470d835/public_url) |
+| 5 | **Professional Cloud Security Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/f42887f4-11cf-4f13-8b1c-42172fda5bc5/public_url) |
 | 6 | **Professional Security Operations Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/0448f773-917f-4a71-9bbb-eef88d0950a1/public_url) |
 | 7 | **Associate Cloud Engineer** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/ce775908-dd39-4bbb-8e4b-4b26c0ec2e4a/public_url) |
 | 8 | **Google Cloud Certified Generative AI Leader** | Google Cloud | [🔗 Verify on Credly](https://www.credly.com/badges/5c2ac0d1-884f-40a3-8747-231d116baa23/public_url) |
@@ -613,6 +614,7 @@ Global organizations can request an enterprise product licensing/customization d
         ▶️ <strong>YouTube:</strong> <a href="https://www.youtube.com/@BRLikhon">@BRLikhon</a> &nbsp;·&nbsp;
         🌐 <strong>Website:</strong> <a href="https://brlikhon.engineer">brlikhon.engineer</a><br/>
         📜 <strong>325+ Verified Credentials:</strong> <a href="./CERTIFICATIONS.md">CERTIFICATIONS.md</a> &nbsp;·&nbsp;
+        🏅 <strong>Credly Wallet:</strong> <a href="https://www.credly.com/users/md-bazlur-rahman-likhon.66234dae/badges/credly">Official Badges</a> &nbsp;·&nbsp;
         🛡️ <strong>AI Governance Standards:</strong> <a href="./ARCHITECTURE.md">ARCHITECTURE.md</a> &nbsp;·&nbsp;
         🤖 <strong>LLM Dossier:</strong> <a href="./llms.txt">llms.txt</a>
       </p>
