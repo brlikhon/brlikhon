@@ -42,7 +42,7 @@
 | 18 | **Microsoft Certified: Azure Fundamentals** | Microsoft | Jun 2024 | [🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/brlikhon/96BF4A11C5426874?sharingId=ED3BA04CBAEEB99B) (`991980361`) |
 | 19 | **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** | Oracle | Jun 2024 | [🔗 Verify Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2365554B1181AA97E25327941B26728A36AAF4F8F2DB32C7869FA9EE5E17788F) (`2365554B1181AA...`) |
 | 20 | **Microsoft Certified: Azure AI Fundamentals** | Microsoft | May 2024 | [🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/brlikhon/B73C0BF1D43BB79F?sharingId=ED3BA04CBAEEB99B) (`B73C0BF1D43BB79F`) |
-| 21 | **Cloud Digital Leader Certification** | Google Cloud | Apr 2024 | [🔗 Verify Credential](https://www.credly.com/badges/ae5f2de2-50ad-45d8-8db9-537b80bcd323/public_url) (`25ae8729-ea2c-...`) |
+| 21 | **Cloud Digital Leader Certification** | Google Cloud | Apr 2024 | [🔗 Verify Credential](https://www.credly.com/badges/ae5f2de2-50ad-45d8-8db9-537b80bcd323/public_url) (`ae5f2de2-50ad-...`) |
 | 22 | **Cloud Digital Leader** | Google | Mar 2024 · Expires Mar 2027 | [🔗 Verify Credential](https://www.credential.net/b066eced-7070-4562-923b-09f0d8cdf27f) (`b066eced-7070-...`) |
 | 23 | **Google Advanced Data Analytics Professional Certificate** | Google | Jul 2023 | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/LJ7T7TWANNLB) (`LJ7T7TWANNLB`) |
 | 24 | **Cybersecurity Essentials LFC108** | The Linux Foundation | Jul 2023 | [🔗 Verify Credential](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/3143a877-940e-49ad-8d00-47f713d84438-md-bazlur-8c4cd94b-dee0-471b-b0ba-5e5eb74c475a-certificate.pdf) |
@@ -80,7 +80,7 @@
 | 19 | **Google Cloud Startup Summit (Asia Pacific)** | Google | Nov 2024 | [🔗 Verify Credential](https://www.credential.net/1b13ea92-47a3-45ad-bae0-07536077c425) |
 | 20 | **Google AI Essentials Badge** | Google | Jun 2024 | [🔗 Verify Credential](https://www.credly.com/go/w56Sei3TV56fABv4iqkJqA) (`w56Sei3TV56fABv4iqkJqA`) |
 | 21 | **Google AI Essentials** | Google | Jun 2024 | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/records/9HL5P3877ATJ) (`9HL5P3877ATJ`) |
-| 22 | **Cloud Digital Leader Certification** | Google Cloud | Apr 2024 | [🔗 Verify Credential](https://www.credly.com/badges/ae5f2de2-50ad-45d8-8db9-537b80bcd323/public_url) (`25ae8729-ea2c-...`) |
+| 22 | **Cloud Digital Leader Certification** | Google Cloud | Apr 2024 | [🔗 Verify Credential](https://www.credly.com/badges/ae5f2de2-50ad-45d8-8db9-537b80bcd323/public_url) (`ae5f2de2-50ad-...`) |
 | 23 | **Cloud Digital Leader** | Google | Mar 2024 · Expires Mar 2027 | [🔗 Verify Credential](https://www.credential.net/b066eced-7070-4562-923b-09f0d8cdf27f) (`b066eced-7070-...`) |
 | 24 | **The Google Cloud Fly Cup** | Google | Sep 2023 | [🔗 Verify Credential](https://www.cloudskillsboost.google/public_profiles/7d9e86a6-2ae5-4788-bfab-3fcbf7f188b2/badges/5060743) (`5060743`) |
 | 25 | **Google Advanced Data Analytics Specialization** | Google | Aug 2023 | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/QNXMX37UTV7W) (`QNXMX37UTV7W`) |
